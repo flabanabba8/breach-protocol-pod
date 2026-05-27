@@ -108,5 +108,71 @@ Steered Activations are Non-Surjective — https://arxiv.org/abs/2604.09839</itu
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Who Gets the Credit?</title>
+      <description>One reward lands at the end of a long answer — so which tokens, steps, or subproblems actually earned it? Luna and Vestra open the week's fight over credit assignment in reinforcement learning: scoring individual tokens, decomposing hard problems into verifiable subproblems, rescuing the deliberation tokens that self-distillation quietly buries, process rewards that know how much to trust themselves, and a deflationary result arguing the whole effect of RL is a single straight line. Then three strays with no theme and no apology: map-free transit routing, time-series forecasting's scaling moment, and CAD agents that grade their own designs with physics.
+
+Timestamps:
+0:00 Cold open
+1:19 Intro
+3:05 Education
+6:41 DelTA — token-level credit
+9:02 SCRL — subproblem credit
+11:53 AntiSD — the deliberation-token fix
+14:42 Process rewards — per-step credit
+18:01 RELEX — minimal RLVR
+20:33 The Unlearnability Phenomenon
+23:27 TransitLM — map-free transit routing (off-theme)
+25:51 Toto 2.0 — time-series scaling (off-theme)
+28:21 Self-improving CAD + FEA (off-theme)
+30:54 Wrap-up
+
+Papers (in order):
+DelTA — token-level credit — https://arxiv.org/abs/2605.21467
+SCRL — subproblem credit — https://arxiv.org/abs/2605.22074
+AntiSD — the deliberation-token fix — https://arxiv.org/abs/2605.11609
+BetaPRM (learned reliability) — https://arxiv.org/abs/2605.15529
+Unsupervised PRM — https://arxiv.org/abs/2605.10158
+RELEX — minimal RLVR — https://arxiv.org/abs/2605.21468
+The Unlearnability Phenomenon — https://arxiv.org/abs/2605.16787
+TransitLM — map-free transit routing (off-theme) — https://arxiv.org/abs/2605.22355
+Toto 2.0 — time-series scaling (off-theme) — https://arxiv.org/abs/2605.20119
+Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</description>
+      <itunes:summary>One reward lands at the end of a long answer — so which tokens, steps, or subproblems actually earned it? Luna and Vestra open the week's fight over credit assignment in reinforcement learning: scoring individual tokens, decomposing hard problems into verifiable subproblems, rescuing the deliberation tokens that self-distillation quietly buries, process rewards that know how much to trust themselves, and a deflationary result arguing the whole effect of RL is a single straight line. Then three strays with no theme and no apology: map-free transit routing, time-series forecasting's scaling moment, and CAD agents that grade their own designs with physics.
+
+Timestamps:
+0:00 Cold open
+1:19 Intro
+3:05 Education
+6:41 DelTA — token-level credit
+9:02 SCRL — subproblem credit
+11:53 AntiSD — the deliberation-token fix
+14:42 Process rewards — per-step credit
+18:01 RELEX — minimal RLVR
+20:33 The Unlearnability Phenomenon
+23:27 TransitLM — map-free transit routing (off-theme)
+25:51 Toto 2.0 — time-series scaling (off-theme)
+28:21 Self-improving CAD + FEA (off-theme)
+30:54 Wrap-up
+
+Papers (in order):
+DelTA — token-level credit — https://arxiv.org/abs/2605.21467
+SCRL — subproblem credit — https://arxiv.org/abs/2605.22074
+AntiSD — the deliberation-token fix — https://arxiv.org/abs/2605.11609
+BetaPRM (learned reliability) — https://arxiv.org/abs/2605.15529
+Unsupervised PRM — https://arxiv.org/abs/2605.10158
+RELEX — minimal RLVR — https://arxiv.org/abs/2605.21468
+The Unlearnability Phenomenon — https://arxiv.org/abs/2605.16787
+TransitLM — map-free transit routing (off-theme) — https://arxiv.org/abs/2605.22355
+Toto 2.0 — time-series scaling (off-theme) — https://arxiv.org/abs/2605.20119
+Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-credit-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-credit.mp3" length="24120444" type="audio/mpeg"/>
+      <guid isPermaLink="false">21fd5b3a04aa78c24aaa248918978ea9865a6f2b</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>33:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
