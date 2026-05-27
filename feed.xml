@@ -174,5 +174,65 @@ Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</itune
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Skills, Not Weights</title>
+      <description>Yesterday we changed a model's weights to make it smarter; today we leave them frozen and change what we put in front of it — a skill. Luna and Vestra crack open the agent world's biggest week: an optimizer that trains a skill document like a network, a framework that governs a whole skill library so it doesn't rot, one that turns skills into executable guardrails, and one that beats the frontier just by routing between specialists — then the skeptic who shows you can't even tell a good skill from a bad one by reading it. Plus three strays: real-time long-video generation, a language model trained from scratch for about a thousand dollars, and a surgical fix to how models remember.
+
+Timestamps:
+0:00 Cold open
+1:16 Intro
+2:54 Education
+5:58 SkillOpt — train the skill like you'd train a network
+8:28 SkillsVote — governing the skill library
+10:44 HASP — skills as executable code
+13:02 Maestro — orchestrate, don't retrain
+15:08 From Raw Experience to Skill Consumption — the skeptic
+17:24 LongLive-2.0 — real-time long video generation (off-theme)
+19:36 HRM-Text — training a model from scratch for about a thousand dollars (off-theme)
+22:00 Gated DeltaNet-2 — fixing memory in linear attention (off-theme)
+24:07 Wrap-up
+
+Papers (in order):
+SkillOpt — train the skill like you'd train a network — https://arxiv.org/abs/2605.23904
+SkillsVote — governing the skill library — https://arxiv.org/abs/2605.18401
+HASP — skills as executable code — https://arxiv.org/abs/2605.17734
+Maestro — orchestrate, don't retrain — https://arxiv.org/abs/2605.22177
+From Raw Experience to Skill Consumption — the skeptic — https://arxiv.org/abs/2605.23899
+LongLive-2.0 — real-time long video generation (off-theme) — https://arxiv.org/abs/2605.18739
+HRM-Text — training a model from scratch for about a thousand dollars (off-theme) — https://arxiv.org/abs/2605.20613
+Gated DeltaNet-2 — fixing memory in linear attention (off-theme) — https://arxiv.org/abs/2605.22791</description>
+      <itunes:summary>Yesterday we changed a model's weights to make it smarter; today we leave them frozen and change what we put in front of it — a skill. Luna and Vestra crack open the agent world's biggest week: an optimizer that trains a skill document like a network, a framework that governs a whole skill library so it doesn't rot, one that turns skills into executable guardrails, and one that beats the frontier just by routing between specialists — then the skeptic who shows you can't even tell a good skill from a bad one by reading it. Plus three strays: real-time long-video generation, a language model trained from scratch for about a thousand dollars, and a surgical fix to how models remember.
+
+Timestamps:
+0:00 Cold open
+1:16 Intro
+2:54 Education
+5:58 SkillOpt — train the skill like you'd train a network
+8:28 SkillsVote — governing the skill library
+10:44 HASP — skills as executable code
+13:02 Maestro — orchestrate, don't retrain
+15:08 From Raw Experience to Skill Consumption — the skeptic
+17:24 LongLive-2.0 — real-time long video generation (off-theme)
+19:36 HRM-Text — training a model from scratch for about a thousand dollars (off-theme)
+22:00 Gated DeltaNet-2 — fixing memory in linear attention (off-theme)
+24:07 Wrap-up
+
+Papers (in order):
+SkillOpt — train the skill like you'd train a network — https://arxiv.org/abs/2605.23904
+SkillsVote — governing the skill library — https://arxiv.org/abs/2605.18401
+HASP — skills as executable code — https://arxiv.org/abs/2605.17734
+Maestro — orchestrate, don't retrain — https://arxiv.org/abs/2605.22177
+From Raw Experience to Skill Consumption — the skeptic — https://arxiv.org/abs/2605.23899
+LongLive-2.0 — real-time long video generation (off-theme) — https://arxiv.org/abs/2605.18739
+HRM-Text — training a model from scratch for about a thousand dollars (off-theme) — https://arxiv.org/abs/2605.20613
+Gated DeltaNet-2 — fixing memory in linear attention (off-theme) — https://arxiv.org/abs/2605.22791</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-02-tue-skills-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-02-tue-skills.mp3" length="19041927" type="audio/mpeg"/>
+      <guid isPermaLink="false">b528133e7c6ba584f7857b993272b686365c9e93</guid>
+      <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>26:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
