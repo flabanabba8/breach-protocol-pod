@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Breach Protocol: Inside the AI Blackbox</title>
+    <link>https://flabanabba8.github.io/breach-protocol-pod</link>
+    <language>en-us</language>
+    <description>Breach Protocol: Inside the AI Blackbox is a character-driven AI research podcast. Each episode, hosts Luna and Vestra crack open the week's most important machine-learning papers — connecting the ideas, explaining the mechanisms, and pressure-testing the hype — in fast, accessible conversation. High signal, low jargon: the kind of breakdown you can follow on your commute, whether you build models for a living or just want to understand where AI is actually headed.</description>
+    <itunes:author>Breach Protocol</itunes:author>
+    <itunes:summary>Breach Protocol: Inside the AI Blackbox is a character-driven AI research podcast. Each episode, hosts Luna and Vestra crack open the week's most important machine-learning papers — connecting the ideas, explaining the mechanisms, and pressure-testing the hype — in fast, accessible conversation. High signal, low jargon: the kind of breakdown you can follow on your commute, whether you build models for a living or just want to understand where AI is actually headed.</itunes:summary>
+    <itunes:owner><itunes:name>Breach Protocol</itunes:name><itunes:email>flabanabba8@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>The Action Gradient, Part One</title>
+      <description>One algorithm, four papers, one Monday morning. GRPO is suddenly everywhere. Luna and Vestra crack open the five papers stress-testing the optimizer itself — HolderPO's Holder-mean fix, Flash-GRPO for video, NudgeRL's exploration problem, and the math underneath.
+
+Timestamps:
+0:00 Cold open
+1:32 Intro
+3:42 HolderPO — Hölder-mean credit
+8:37 Flash-GRPO — GRPO for video diffusion
+13:28 NudgeRL — strategy-guided exploration
+18:39 Learning to Foresee — on-policy distillation
+23:12 CoRD — collaborative multi-teacher distillation
+27:33 Wrap-up
+
+Papers (in order):
+HolderPO — Hölder-mean credit — https://arxiv.org/abs/2605.12058
+Flash-GRPO — GRPO for video diffusion — https://arxiv.org/abs/2605.15980
+NudgeRL — strategy-guided exploration — https://arxiv.org/abs/2605.15726
+Learning to Foresee — on-policy distillation — https://arxiv.org/abs/2605.11739
+CoRD — collaborative multi-teacher distillation — https://arxiv.org/abs/2605.02290</description>
+      <itunes:summary>One algorithm, four papers, one Monday morning. GRPO is suddenly everywhere. Luna and Vestra crack open the five papers stress-testing the optimizer itself — HolderPO's Holder-mean fix, Flash-GRPO for video, NudgeRL's exploration problem, and the math underneath.
+
+Timestamps:
+0:00 Cold open
+1:32 Intro
+3:42 HolderPO — Hölder-mean credit
+8:37 Flash-GRPO — GRPO for video diffusion
+13:28 NudgeRL — strategy-guided exploration
+18:39 Learning to Foresee — on-policy distillation
+23:12 CoRD — collaborative multi-teacher distillation
+27:33 Wrap-up
+
+Papers (in order):
+HolderPO — Hölder-mean credit — https://arxiv.org/abs/2605.12058
+Flash-GRPO — GRPO for video diffusion — https://arxiv.org/abs/2605.15980
+NudgeRL — strategy-guided exploration — https://arxiv.org/abs/2605.15726
+Learning to Foresee — on-policy distillation — https://arxiv.org/abs/2605.11739
+CoRD — collaborative multi-teacher distillation — https://arxiv.org/abs/2605.02290</itunes:summary>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-05-18-part1.mp3" length="20131860" type="audio/mpeg"/>
+      <guid isPermaLink="false">165179ba6ce5409a3f99d00ff0995d7cc4796cbc</guid>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>27:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Action Gradient, Part Two</title>
+      <description>What is all that optimization actually for? Robots that fail more than half the time, game worlds, self-built agent skills, and the interpretability gap — the papers about taking the gradient into the real world, and exactly where it breaks.
+
+Timestamps:
+0:00 Cold open
+1:15 Intro
+1:59 PhysBrain — physical commonsense for robots
+8:38 DexJoCo — dexterous-manipulation benchmark
+13:57 ReactiveGWM — reactive game NPCs
+18:40 MMSkills — external skills for visual agents
+24:24 CiteVQA — evidence attribution
+29:07 Steered Activations are Non-Surjective
+33:40 Wrap-up
+
+Papers (in order):
+PhysBrain — physical commonsense for robots — https://arxiv.org/abs/2605.15298
+DexJoCo — dexterous-manipulation benchmark — https://arxiv.org/abs/2605.16257
+ReactiveGWM — reactive game NPCs — https://arxiv.org/abs/2605.15256
+MMSkills — external skills for visual agents — https://arxiv.org/abs/2605.13527
+CiteVQA — evidence attribution — https://arxiv.org/abs/2605.12882
+Steered Activations are Non-Surjective — https://arxiv.org/abs/2604.09839</description>
+      <itunes:summary>What is all that optimization actually for? Robots that fail more than half the time, game worlds, self-built agent skills, and the interpretability gap — the papers about taking the gradient into the real world, and exactly where it breaks.
+
+Timestamps:
+0:00 Cold open
+1:15 Intro
+1:59 PhysBrain — physical commonsense for robots
+8:38 DexJoCo — dexterous-manipulation benchmark
+13:57 ReactiveGWM — reactive game NPCs
+18:40 MMSkills — external skills for visual agents
+24:24 CiteVQA — evidence attribution
+29:07 Steered Activations are Non-Surjective
+33:40 Wrap-up
+
+Papers (in order):
+PhysBrain — physical commonsense for robots — https://arxiv.org/abs/2605.15298
+DexJoCo — dexterous-manipulation benchmark — https://arxiv.org/abs/2605.16257
+ReactiveGWM — reactive game NPCs — https://arxiv.org/abs/2605.15256
+MMSkills — external skills for visual agents — https://arxiv.org/abs/2605.13527
+CiteVQA — evidence attribution — https://arxiv.org/abs/2605.12882
+Steered Activations are Non-Surjective — https://arxiv.org/abs/2604.09839</itunes:summary>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-05-18-part2.mp3" length="29139716" type="audio/mpeg"/>
+      <guid isPermaLink="false">4a152462dbdfe473ac61dae8b99e03dff555f584</guid>
+      <pubDate>Mon, 18 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>40:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
