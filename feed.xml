@@ -115,17 +115,17 @@ Steered Activations are Non-Surjective — https://arxiv.org/abs/2604.09839</itu
 Timestamps:
 0:00 Cold open
 1:19 Intro
-3:05 Education
-6:41 DelTA — token-level credit
-9:02 SCRL — subproblem credit
-11:53 AntiSD — the deliberation-token fix
-14:42 Process rewards — per-step credit
-18:01 RELEX — minimal RLVR
-20:33 The Unlearnability Phenomenon
-23:27 TransitLM — map-free transit routing (off-theme)
-25:51 Toto 2.0 — time-series scaling (off-theme)
-28:21 Self-improving CAD + FEA (off-theme)
-30:54 Wrap-up
+3:04 Education
+6:39 DelTA — token-level credit
+8:53 SCRL — subproblem credit
+11:39 AntiSD — the deliberation-token fix
+14:26 Process rewards — per-step credit
+17:43 RELEX — minimal RLVR
+20:14 The Unlearnability Phenomenon
+23:04 TransitLM — map-free transit routing (off-theme)
+25:29 Toto 2.0 — time-series scaling (off-theme)
+27:58 Self-improving CAD + FEA (off-theme)
+30:34 Wrap-up
 
 Papers (in order):
 DelTA — token-level credit — https://arxiv.org/abs/2605.21467
@@ -143,17 +143,17 @@ Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</descr
 Timestamps:
 0:00 Cold open
 1:19 Intro
-3:05 Education
-6:41 DelTA — token-level credit
-9:02 SCRL — subproblem credit
-11:53 AntiSD — the deliberation-token fix
-14:42 Process rewards — per-step credit
-18:01 RELEX — minimal RLVR
-20:33 The Unlearnability Phenomenon
-23:27 TransitLM — map-free transit routing (off-theme)
-25:51 Toto 2.0 — time-series scaling (off-theme)
-28:21 Self-improving CAD + FEA (off-theme)
-30:54 Wrap-up
+3:04 Education
+6:39 DelTA — token-level credit
+8:53 SCRL — subproblem credit
+11:39 AntiSD — the deliberation-token fix
+14:26 Process rewards — per-step credit
+17:43 RELEX — minimal RLVR
+20:14 The Unlearnability Phenomenon
+23:04 TransitLM — map-free transit routing (off-theme)
+25:29 Toto 2.0 — time-series scaling (off-theme)
+27:58 Self-improving CAD + FEA (off-theme)
+30:34 Wrap-up
 
 Papers (in order):
 DelTA — token-level credit — https://arxiv.org/abs/2605.21467
@@ -166,11 +166,11 @@ The Unlearnability Phenomenon — https://arxiv.org/abs/2605.16787
 TransitLM — map-free transit routing (off-theme) — https://arxiv.org/abs/2605.22355
 Toto 2.0 — time-series scaling (off-theme) — https://arxiv.org/abs/2605.20119
 Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</itunes:summary>
-      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-credit-cover.jpg"/>
-      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-credit.mp3" length="24120444" type="audio/mpeg"/>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-credit-r2-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-credit-r2.mp3" length="23869042" type="audio/mpeg"/>
       <guid isPermaLink="false">21fd5b3a04aa78c24aaa248918978ea9865a6f2b</guid>
       <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>33:30</itunes:duration>
+      <itunes:duration>33:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
