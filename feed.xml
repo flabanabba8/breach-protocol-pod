@@ -180,17 +180,17 @@ Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</itune
 
 Timestamps:
 0:00 Cold open
-1:16 Intro
-2:54 Education
-5:58 SkillOpt — train the skill like you'd train a network
-8:28 SkillsVote — governing the skill library
-10:44 HASP — skills as executable code
-13:02 Maestro — orchestrate, don't retrain
-15:08 From Raw Experience to Skill Consumption — the skeptic
-17:24 LongLive-2.0 — real-time long video generation (off-theme)
-19:36 HRM-Text — training a model from scratch for about a thousand dollars (off-theme)
-22:00 Gated DeltaNet-2 — fixing memory in linear attention (off-theme)
-24:07 Wrap-up
+1:25 Intro
+3:15 Education
+7:00 SkillOpt — train the skill like you'd train a network
+10:21 SkillsVote — governing the skill library
+13:10 HASP — skills as executable code
+16:21 Maestro — orchestrate, don't retrain
+19:09 From Raw Experience to Skill Consumption — the skeptic
+22:56 LongLive-2.0 — real-time long video generation (off-theme)
+25:22 HRM-Text — training a model from scratch for about a thousand dollars (off-theme)
+28:33 Gated DeltaNet-2 — fixing memory in linear attention (off-theme)
+31:29 Wrap-up
 
 Papers (in order):
 SkillOpt — train the skill like you'd train a network — https://arxiv.org/abs/2605.23904
@@ -205,17 +205,17 @@ Gated DeltaNet-2 — fixing memory in linear attention (off-theme) — https://a
 
 Timestamps:
 0:00 Cold open
-1:16 Intro
-2:54 Education
-5:58 SkillOpt — train the skill like you'd train a network
-8:28 SkillsVote — governing the skill library
-10:44 HASP — skills as executable code
-13:02 Maestro — orchestrate, don't retrain
-15:08 From Raw Experience to Skill Consumption — the skeptic
-17:24 LongLive-2.0 — real-time long video generation (off-theme)
-19:36 HRM-Text — training a model from scratch for about a thousand dollars (off-theme)
-22:00 Gated DeltaNet-2 — fixing memory in linear attention (off-theme)
-24:07 Wrap-up
+1:25 Intro
+3:15 Education
+7:00 SkillOpt — train the skill like you'd train a network
+10:21 SkillsVote — governing the skill library
+13:10 HASP — skills as executable code
+16:21 Maestro — orchestrate, don't retrain
+19:09 From Raw Experience to Skill Consumption — the skeptic
+22:56 LongLive-2.0 — real-time long video generation (off-theme)
+25:22 HRM-Text — training a model from scratch for about a thousand dollars (off-theme)
+28:33 Gated DeltaNet-2 — fixing memory in linear attention (off-theme)
+31:29 Wrap-up
 
 Papers (in order):
 SkillOpt — train the skill like you'd train a network — https://arxiv.org/abs/2605.23904
@@ -226,11 +226,11 @@ From Raw Experience to Skill Consumption — the skeptic — https://arxiv.org/a
 LongLive-2.0 — real-time long video generation (off-theme) — https://arxiv.org/abs/2605.18739
 HRM-Text — training a model from scratch for about a thousand dollars (off-theme) — https://arxiv.org/abs/2605.20613
 Gated DeltaNet-2 — fixing memory in linear attention (off-theme) — https://arxiv.org/abs/2605.22791</itunes:summary>
-      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-02-tue-skills-cover.jpg"/>
-      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-02-tue-skills.mp3" length="19041927" type="audio/mpeg"/>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-02-tue-skills-r2-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-02-tue-skills-r2.mp3" length="32869190" type="audio/mpeg"/>
       <guid isPermaLink="false">b528133e7c6ba584f7857b993272b686365c9e93</guid>
       <pubDate>Tue, 02 Jun 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>26:27</itunes:duration>
+      <itunes:duration>34:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
