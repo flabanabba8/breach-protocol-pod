@@ -234,5 +234,72 @@ Gated DeltaNet-2 — fixing memory in linear attention (off-theme) — https://a
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>The Introspection Problem</title>
+      <description>Can the model see itself? Can we see into it? And if we can't, how do we know anything about what it's doing? Luna and Vestra crack open the week's audit of the introspection problem: a reality-check paper showing that famous results about LLM self-knowledge are pattern matching wearing introspection's clothes, an external-probe approach whose own confidence is miscalibrated (sometimes anti-calibrated on the larger model), a diffusion-monitor paper that stops asking the model anything and watches the hesitation in its dynamics instead, and the architecture finding — one parameter in twelve thousand turns out to be load-bearing in a way the field has quietly disagreed about for years. Plus a measurement reckoning across spatial models and cinematic video, a Tuesday callback on skills as long-lived testable assets, and three strays: parallel box decoding from NVIDIA, why parallel reasoners waste most of their compute, and the biggest frontier model release of the week — competitive at a tenth the activated parameters, with a model already debugging its own training.
+
+Timestamps:
+0:00 Cold open
+2:38 Intro
+4:42 Education
+9:39 Can LLMs Introspect? A Reality Check
+15:18 Confidence and Calibration of Activation Oracles
+20:59 D²-Monitor — Hesitation-Aware Safety Routing for Diffusion LLMs
+27:06 Negligible in Size, Significant in Effect — Scale Vectors in LLMs
+33:45 SpatialBench — Is Your Spatial Foundation Model an All-Round Player?
+40:51 EvalVerse — Expert-Calibrated Benchmarking for Cinematic Video Generation
+47:01 MUSE-Autoskill — Self-Evolving Agents via the Skill Lifecycle
+53:55 LocateAnything — Parallel Box Decoding for Vision-Language Grounding (off-theme)
+59:46 Collaborative Parallel Thinking (off-theme)
+1:05:37 The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (off-theme)
+1:12:59 Wrap-up
+
+Papers (in order):
+Can LLMs Introspect? A Reality Check — https://arxiv.org/abs/2605.26242
+Confidence and Calibration of Activation Oracles — https://arxiv.org/abs/2605.26045
+D²-Monitor — Hesitation-Aware Safety Routing for Diffusion LLMs — https://arxiv.org/abs/2605.25893
+Negligible in Size, Significant in Effect — Scale Vectors in LLMs — https://arxiv.org/abs/2605.26895
+SpatialBench — Is Your Spatial Foundation Model an All-Round Player? — https://arxiv.org/abs/2605.27367
+EvalVerse — Expert-Calibrated Benchmarking for Cinematic Video Generation — https://arxiv.org/abs/2605.23271
+MUSE-Autoskill — Self-Evolving Agents via the Skill Lifecycle — https://arxiv.org/abs/2605.27366
+LocateAnything — Parallel Box Decoding for Vision-Language Grounding (off-theme) — https://arxiv.org/abs/2605.27365
+Collaborative Parallel Thinking (off-theme) — https://arxiv.org/abs/2605.27030
+The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (off-theme) — https://arxiv.org/abs/2605.26494</description>
+      <itunes:summary>Can the model see itself? Can we see into it? And if we can't, how do we know anything about what it's doing? Luna and Vestra crack open the week's audit of the introspection problem: a reality-check paper showing that famous results about LLM self-knowledge are pattern matching wearing introspection's clothes, an external-probe approach whose own confidence is miscalibrated (sometimes anti-calibrated on the larger model), a diffusion-monitor paper that stops asking the model anything and watches the hesitation in its dynamics instead, and the architecture finding — one parameter in twelve thousand turns out to be load-bearing in a way the field has quietly disagreed about for years. Plus a measurement reckoning across spatial models and cinematic video, a Tuesday callback on skills as long-lived testable assets, and three strays: parallel box decoding from NVIDIA, why parallel reasoners waste most of their compute, and the biggest frontier model release of the week — competitive at a tenth the activated parameters, with a model already debugging its own training.
+
+Timestamps:
+0:00 Cold open
+2:38 Intro
+4:42 Education
+9:39 Can LLMs Introspect? A Reality Check
+15:18 Confidence and Calibration of Activation Oracles
+20:59 D²-Monitor — Hesitation-Aware Safety Routing for Diffusion LLMs
+27:06 Negligible in Size, Significant in Effect — Scale Vectors in LLMs
+33:45 SpatialBench — Is Your Spatial Foundation Model an All-Round Player?
+40:51 EvalVerse — Expert-Calibrated Benchmarking for Cinematic Video Generation
+47:01 MUSE-Autoskill — Self-Evolving Agents via the Skill Lifecycle
+53:55 LocateAnything — Parallel Box Decoding for Vision-Language Grounding (off-theme)
+59:46 Collaborative Parallel Thinking (off-theme)
+1:05:37 The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (off-theme)
+1:12:59 Wrap-up
+
+Papers (in order):
+Can LLMs Introspect? A Reality Check — https://arxiv.org/abs/2605.26242
+Confidence and Calibration of Activation Oracles — https://arxiv.org/abs/2605.26045
+D²-Monitor — Hesitation-Aware Safety Routing for Diffusion LLMs — https://arxiv.org/abs/2605.25893
+Negligible in Size, Significant in Effect — Scale Vectors in LLMs — https://arxiv.org/abs/2605.26895
+SpatialBench — Is Your Spatial Foundation Model an All-Round Player? — https://arxiv.org/abs/2605.27367
+EvalVerse — Expert-Calibrated Benchmarking for Cinematic Video Generation — https://arxiv.org/abs/2605.23271
+MUSE-Autoskill — Self-Evolving Agents via the Skill Lifecycle — https://arxiv.org/abs/2605.27366
+LocateAnything — Parallel Box Decoding for Vision-Language Grounding (off-theme) — https://arxiv.org/abs/2605.27365
+Collaborative Parallel Thinking (off-theme) — https://arxiv.org/abs/2605.27030
+The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (off-theme) — https://arxiv.org/abs/2605.26494</itunes:summary>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-03-wed-introspection.mp3" length="75103129" type="audio/mpeg"/>
+      <guid isPermaLink="false">8959158bad1beb3b70bf8bc70c9dc5e6265545f7</guid>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1:18:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
