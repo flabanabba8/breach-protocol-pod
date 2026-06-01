@@ -301,5 +301,78 @@ The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (o
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Brilliant Synthesizers — Thursday's 12 AI papers</title>
+      <description>Luna, Vestra, and Iris breach twelve of the day's AI research papers — from research agents that explore too narrowly, to memory systems that rewire themselves, to models that recover from their own bad starts. High signal, low jargon.
+
+Chapters
+
+0:00  Cold open
+2:04  Intro
+2:46  Education: agents, RL, verifiers, memory
+5:13  Paper 1 — AI Research Agents Narrow Scientific Exploration
+https://arxiv.org/abs/2605.27905
+7:41  Paper 2 — ScientistOne: Human-Level Autonomous Research via Chain-of-Evidence
+https://arxiv.org/abs/2605.26340
+10:05 Paper 3 — Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players
+https://arxiv.org/abs/2605.28816
+12:40 Paper 4 — MemTrace: Tracing &amp; Attributing Errors in LLM Memory Systems
+https://arxiv.org/abs/2605.28732
+15:03 Paper 5 — Rethinking Memory as Continuously Evolving Connectivity
+https://arxiv.org/abs/2605.28773
+18:48 Paper 6 — From Pixels to Words: Native One-Vision Models at Scale
+https://arxiv.org/abs/2605.28820
+23:17 Paper 7 — GEM: Generative Supervision Helps Embodied Intelligence
+https://arxiv.org/abs/2605.28548
+26:37 Paper 8 — Agent Explorative Policy Optimization for Multimodal Agentic Reasoning
+https://arxiv.org/abs/2605.28774
+30:47 Paper 9 — DenoiseRL: Recovering from Noisy Prefixes
+https://arxiv.org/abs/2605.28421
+34:01 Paper 10 — Self-Improving LMs with Bidirectional Evolutionary Search
+https://arxiv.org/abs/2605.28814
+38:15 Paper 11 — ProRL: RL for Proactive Recommendation
+https://arxiv.org/abs/2605.28293
+41:55 Paper 12 — Learn from Weaknesses: Domain Specialization for Small Computer-Use Agents
+https://arxiv.org/abs/2605.28775
+45:29 Wrap-up</description>
+      <itunes:summary>Luna, Vestra, and Iris breach twelve of the day's AI research papers — from research agents that explore too narrowly, to memory systems that rewire themselves, to models that recover from their own bad starts. High signal, low jargon.
+
+Chapters
+
+0:00  Cold open
+2:04  Intro
+2:46  Education: agents, RL, verifiers, memory
+5:13  Paper 1 — AI Research Agents Narrow Scientific Exploration
+https://arxiv.org/abs/2605.27905
+7:41  Paper 2 — ScientistOne: Human-Level Autonomous Research via Chain-of-Evidence
+https://arxiv.org/abs/2605.26340
+10:05 Paper 3 — Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players
+https://arxiv.org/abs/2605.28816
+12:40 Paper 4 — MemTrace: Tracing &amp; Attributing Errors in LLM Memory Systems
+https://arxiv.org/abs/2605.28732
+15:03 Paper 5 — Rethinking Memory as Continuously Evolving Connectivity
+https://arxiv.org/abs/2605.28773
+18:48 Paper 6 — From Pixels to Words: Native One-Vision Models at Scale
+https://arxiv.org/abs/2605.28820
+23:17 Paper 7 — GEM: Generative Supervision Helps Embodied Intelligence
+https://arxiv.org/abs/2605.28548
+26:37 Paper 8 — Agent Explorative Policy Optimization for Multimodal Agentic Reasoning
+https://arxiv.org/abs/2605.28774
+30:47 Paper 9 — DenoiseRL: Recovering from Noisy Prefixes
+https://arxiv.org/abs/2605.28421
+34:01 Paper 10 — Self-Improving LMs with Bidirectional Evolutionary Search
+https://arxiv.org/abs/2605.28814
+38:15 Paper 11 — ProRL: RL for Proactive Recommendation
+https://arxiv.org/abs/2605.28293
+41:55 Paper 12 — Learn from Weaknesses: Domain Specialization for Small Computer-Use Agents
+https://arxiv.org/abs/2605.28775
+45:29 Wrap-up</itunes:summary>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-05-28-thu-brilliant-synthesizers.mp3" length="44932328" type="audio/mpeg"/>
+      <guid isPermaLink="false">0db609590b6786567faf6b655ccdc737cec1de32</guid>
+      <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>46:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
