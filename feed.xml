@@ -365,5 +365,78 @@ https://arxiv.org/abs/2605.28775
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Act First, Understand Later — Thursday's 12 AI papers</title>
+      <description>Luna and Vestra split the day's research down the middle: half of it is a quiet reckoning — video models that don't grasp cause and effect, vision models leaning on a photographer's trick instead of real depth, language models that can't hold a belief steady — and the other half is people building robots, playable worlds, and image tools on top of those exact models, and mostly succeeding. Can you act first and understand later? High signal, low jargon.
+
+Chapters
+
+0:00  Cold open
+2:10  Intro
+3:15  Education: world models &amp; causality
+4:49  Paper 1 — YoCausal: How Far is Video Generation from World Model?
+https://arxiv.org/abs/2605.30346
+8:20  Paper 2 — Why Far Looks Up: Probing Spatial Representation in Vision-Language Models
+https://arxiv.org/abs/2605.30161
+12:04 Paper 3 — When Should Models Change Their Minds? Contextual Belief Management
+https://arxiv.org/abs/2605.30219
+16:00 Paper 4 — Qwen-VLA: Unifying Vision-Language-Action Modeling
+https://arxiv.org/abs/2605.30280
+20:52 Paper 5 — Skill0.5: Joint Skill Internalization and Utilization in Agentic RL
+https://arxiv.org/abs/2605.28424
+26:07 Paper 6 — GenClaw: Code-Driven Agentic Image Generation
+https://arxiv.org/abs/2605.30248
+31:11 Paper 7 — AgentDoG 1.5: Lightweight Alignment for AI Agent Safety
+https://arxiv.org/abs/2605.29801
+35:49 Paper 8 — minWM: Real-Time Interactive Video World Models
+https://arxiv.org/abs/2605.30263
+39:58 Paper 9 — OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources
+https://arxiv.org/abs/2605.29250
+44:09 Paper 10 — CollectionLoRA: 50 Effects in 1 LoRA via Multi-Teacher Distillation
+https://arxiv.org/abs/2605.25378
+48:55 Paper 11 — How LoRA Remembers? A Parametric Memory Law for Finetuning
+https://arxiv.org/abs/2605.30260
+53:32 Paper 12 — UniSteer: Text-Guided Steering in Activation Space
+https://arxiv.org/abs/2605.30076
+58:23 Wrap-up</description>
+      <itunes:summary>Luna and Vestra split the day's research down the middle: half of it is a quiet reckoning — video models that don't grasp cause and effect, vision models leaning on a photographer's trick instead of real depth, language models that can't hold a belief steady — and the other half is people building robots, playable worlds, and image tools on top of those exact models, and mostly succeeding. Can you act first and understand later? High signal, low jargon.
+
+Chapters
+
+0:00  Cold open
+2:10  Intro
+3:15  Education: world models &amp; causality
+4:49  Paper 1 — YoCausal: How Far is Video Generation from World Model?
+https://arxiv.org/abs/2605.30346
+8:20  Paper 2 — Why Far Looks Up: Probing Spatial Representation in Vision-Language Models
+https://arxiv.org/abs/2605.30161
+12:04 Paper 3 — When Should Models Change Their Minds? Contextual Belief Management
+https://arxiv.org/abs/2605.30219
+16:00 Paper 4 — Qwen-VLA: Unifying Vision-Language-Action Modeling
+https://arxiv.org/abs/2605.30280
+20:52 Paper 5 — Skill0.5: Joint Skill Internalization and Utilization in Agentic RL
+https://arxiv.org/abs/2605.28424
+26:07 Paper 6 — GenClaw: Code-Driven Agentic Image Generation
+https://arxiv.org/abs/2605.30248
+31:11 Paper 7 — AgentDoG 1.5: Lightweight Alignment for AI Agent Safety
+https://arxiv.org/abs/2605.29801
+35:49 Paper 8 — minWM: Real-Time Interactive Video World Models
+https://arxiv.org/abs/2605.30263
+39:58 Paper 9 — OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources
+https://arxiv.org/abs/2605.29250
+44:09 Paper 10 — CollectionLoRA: 50 Effects in 1 LoRA via Multi-Teacher Distillation
+https://arxiv.org/abs/2605.25378
+48:55 Paper 11 — How LoRA Remembers? A Parametric Memory Law for Finetuning
+https://arxiv.org/abs/2605.30260
+53:32 Paper 12 — UniSteer: Text-Guided Steering in Activation Space
+https://arxiv.org/abs/2605.30076
+58:23 Wrap-up</itunes:summary>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-05-29-act-first.mp3" length="57815919" type="audio/mpeg"/>
+      <guid isPermaLink="false">ae69e8a540933123b41549e63a5f9e1a5295b113</guid>
+      <pubDate>Sat, 30 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1:00:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
