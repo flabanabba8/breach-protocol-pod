@@ -16,40 +16,38 @@
       <title>The Action Gradient, Part One</title>
       <description>One algorithm, four papers, one Monday morning. GRPO is suddenly everywhere. Luna and Vestra crack open the five papers stress-testing the optimizer itself — HolderPO's Holder-mean fix, Flash-GRPO for video, NudgeRL's exploration problem, and the math underneath.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 1:32 Intro
 3:42 HolderPO — Hölder-mean credit
+https://arxiv.org/abs/2605.12058
 8:37 Flash-GRPO — GRPO for video diffusion
+https://arxiv.org/abs/2605.15980
 13:28 NudgeRL — strategy-guided exploration
+https://arxiv.org/abs/2605.15726
 18:39 Learning to Foresee — on-policy distillation
+https://arxiv.org/abs/2605.11739
 23:12 CoRD — collaborative multi-teacher distillation
-27:33 Wrap-up
-
-Papers (in order):
-HolderPO — Hölder-mean credit — https://arxiv.org/abs/2605.12058
-Flash-GRPO — GRPO for video diffusion — https://arxiv.org/abs/2605.15980
-NudgeRL — strategy-guided exploration — https://arxiv.org/abs/2605.15726
-Learning to Foresee — on-policy distillation — https://arxiv.org/abs/2605.11739
-CoRD — collaborative multi-teacher distillation — https://arxiv.org/abs/2605.02290</description>
+https://arxiv.org/abs/2605.02290
+27:33 Wrap-up</description>
       <itunes:summary>One algorithm, four papers, one Monday morning. GRPO is suddenly everywhere. Luna and Vestra crack open the five papers stress-testing the optimizer itself — HolderPO's Holder-mean fix, Flash-GRPO for video, NudgeRL's exploration problem, and the math underneath.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 1:32 Intro
 3:42 HolderPO — Hölder-mean credit
+https://arxiv.org/abs/2605.12058
 8:37 Flash-GRPO — GRPO for video diffusion
+https://arxiv.org/abs/2605.15980
 13:28 NudgeRL — strategy-guided exploration
+https://arxiv.org/abs/2605.15726
 18:39 Learning to Foresee — on-policy distillation
+https://arxiv.org/abs/2605.11739
 23:12 CoRD — collaborative multi-teacher distillation
-27:33 Wrap-up
-
-Papers (in order):
-HolderPO — Hölder-mean credit — https://arxiv.org/abs/2605.12058
-Flash-GRPO — GRPO for video diffusion — https://arxiv.org/abs/2605.15980
-NudgeRL — strategy-guided exploration — https://arxiv.org/abs/2605.15726
-Learning to Foresee — on-policy distillation — https://arxiv.org/abs/2605.11739
-CoRD — collaborative multi-teacher distillation — https://arxiv.org/abs/2605.02290</itunes:summary>
+https://arxiv.org/abs/2605.02290
+27:33 Wrap-up</itunes:summary>
       <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-05-18-part1-cover.jpg"/>
       <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-05-18-part1.mp3" length="20131860" type="audio/mpeg"/>
       <guid isPermaLink="false">165179ba6ce5409a3f99d00ff0995d7cc4796cbc</guid>
@@ -62,44 +60,42 @@ CoRD — collaborative multi-teacher distillation — https://arxiv.org/abs/2605
       <title>The Action Gradient, Part Two</title>
       <description>What is all that optimization actually for? Robots that fail more than half the time, game worlds, self-built agent skills, and the interpretability gap — the papers about taking the gradient into the real world, and exactly where it breaks.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 1:15 Intro
 1:59 PhysBrain — physical commonsense for robots
+https://arxiv.org/abs/2605.15298
 8:38 DexJoCo — dexterous-manipulation benchmark
+https://arxiv.org/abs/2605.16257
 13:57 ReactiveGWM — reactive game NPCs
+https://arxiv.org/abs/2605.15256
 18:40 MMSkills — external skills for visual agents
+https://arxiv.org/abs/2605.13527
 24:24 CiteVQA — evidence attribution
+https://arxiv.org/abs/2605.12882
 29:07 Steered Activations are Non-Surjective
-33:40 Wrap-up
-
-Papers (in order):
-PhysBrain — physical commonsense for robots — https://arxiv.org/abs/2605.15298
-DexJoCo — dexterous-manipulation benchmark — https://arxiv.org/abs/2605.16257
-ReactiveGWM — reactive game NPCs — https://arxiv.org/abs/2605.15256
-MMSkills — external skills for visual agents — https://arxiv.org/abs/2605.13527
-CiteVQA — evidence attribution — https://arxiv.org/abs/2605.12882
-Steered Activations are Non-Surjective — https://arxiv.org/abs/2604.09839</description>
+https://arxiv.org/abs/2604.09839
+33:40 Wrap-up</description>
       <itunes:summary>What is all that optimization actually for? Robots that fail more than half the time, game worlds, self-built agent skills, and the interpretability gap — the papers about taking the gradient into the real world, and exactly where it breaks.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 1:15 Intro
 1:59 PhysBrain — physical commonsense for robots
+https://arxiv.org/abs/2605.15298
 8:38 DexJoCo — dexterous-manipulation benchmark
+https://arxiv.org/abs/2605.16257
 13:57 ReactiveGWM — reactive game NPCs
+https://arxiv.org/abs/2605.15256
 18:40 MMSkills — external skills for visual agents
+https://arxiv.org/abs/2605.13527
 24:24 CiteVQA — evidence attribution
+https://arxiv.org/abs/2605.12882
 29:07 Steered Activations are Non-Surjective
-33:40 Wrap-up
-
-Papers (in order):
-PhysBrain — physical commonsense for robots — https://arxiv.org/abs/2605.15298
-DexJoCo — dexterous-manipulation benchmark — https://arxiv.org/abs/2605.16257
-ReactiveGWM — reactive game NPCs — https://arxiv.org/abs/2605.15256
-MMSkills — external skills for visual agents — https://arxiv.org/abs/2605.13527
-CiteVQA — evidence attribution — https://arxiv.org/abs/2605.12882
-Steered Activations are Non-Surjective — https://arxiv.org/abs/2604.09839</itunes:summary>
+https://arxiv.org/abs/2604.09839
+33:40 Wrap-up</itunes:summary>
       <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-05-18-part2-cover.jpg"/>
       <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-05-18-part2.mp3" length="29139716" type="audio/mpeg"/>
       <guid isPermaLink="false">4a152462dbdfe473ac61dae8b99e03dff555f584</guid>
@@ -112,60 +108,58 @@ Steered Activations are Non-Surjective — https://arxiv.org/abs/2604.09839</itu
       <title>Who Gets the Credit?</title>
       <description>One reward lands at the end of a long answer — so which tokens, steps, or subproblems actually earned it? Luna and Vestra open the week's fight over credit assignment in reinforcement learning: scoring individual tokens, decomposing hard problems into verifiable subproblems, rescuing the deliberation tokens that self-distillation quietly buries, process rewards that know how much to trust themselves, and a deflationary result arguing the whole effect of RL is a single straight line. Then three strays with no theme and no apology: map-free transit routing, time-series forecasting's scaling moment, and CAD agents that grade their own designs with physics.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 1:19 Intro
 3:04 Education
 6:39 DelTA — token-level credit
+https://arxiv.org/abs/2605.21467
 8:53 SCRL — subproblem credit
+https://arxiv.org/abs/2605.22074
 11:39 AntiSD — the deliberation-token fix
+https://arxiv.org/abs/2605.11609
 14:26 Process rewards — per-step credit
+https://arxiv.org/abs/2605.15529
+https://arxiv.org/abs/2605.10158
 17:43 RELEX — minimal RLVR
+https://arxiv.org/abs/2605.21468
 20:14 The Unlearnability Phenomenon
+https://arxiv.org/abs/2605.16787
 23:04 TransitLM — map-free transit routing (off-theme)
+https://arxiv.org/abs/2605.22355
 25:29 Toto 2.0 — time-series scaling (off-theme)
+https://arxiv.org/abs/2605.20119
 27:58 Self-improving CAD + FEA (off-theme)
-30:34 Wrap-up
-
-Papers (in order):
-DelTA — token-level credit — https://arxiv.org/abs/2605.21467
-SCRL — subproblem credit — https://arxiv.org/abs/2605.22074
-AntiSD — the deliberation-token fix — https://arxiv.org/abs/2605.11609
-BetaPRM (learned reliability) — https://arxiv.org/abs/2605.15529
-Unsupervised PRM — https://arxiv.org/abs/2605.10158
-RELEX — minimal RLVR — https://arxiv.org/abs/2605.21468
-The Unlearnability Phenomenon — https://arxiv.org/abs/2605.16787
-TransitLM — map-free transit routing (off-theme) — https://arxiv.org/abs/2605.22355
-Toto 2.0 — time-series scaling (off-theme) — https://arxiv.org/abs/2605.20119
-Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</description>
+https://arxiv.org/abs/2605.17448
+30:34 Wrap-up</description>
       <itunes:summary>One reward lands at the end of a long answer — so which tokens, steps, or subproblems actually earned it? Luna and Vestra open the week's fight over credit assignment in reinforcement learning: scoring individual tokens, decomposing hard problems into verifiable subproblems, rescuing the deliberation tokens that self-distillation quietly buries, process rewards that know how much to trust themselves, and a deflationary result arguing the whole effect of RL is a single straight line. Then three strays with no theme and no apology: map-free transit routing, time-series forecasting's scaling moment, and CAD agents that grade their own designs with physics.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 1:19 Intro
 3:04 Education
 6:39 DelTA — token-level credit
+https://arxiv.org/abs/2605.21467
 8:53 SCRL — subproblem credit
+https://arxiv.org/abs/2605.22074
 11:39 AntiSD — the deliberation-token fix
+https://arxiv.org/abs/2605.11609
 14:26 Process rewards — per-step credit
+https://arxiv.org/abs/2605.15529
+https://arxiv.org/abs/2605.10158
 17:43 RELEX — minimal RLVR
+https://arxiv.org/abs/2605.21468
 20:14 The Unlearnability Phenomenon
+https://arxiv.org/abs/2605.16787
 23:04 TransitLM — map-free transit routing (off-theme)
+https://arxiv.org/abs/2605.22355
 25:29 Toto 2.0 — time-series scaling (off-theme)
+https://arxiv.org/abs/2605.20119
 27:58 Self-improving CAD + FEA (off-theme)
-30:34 Wrap-up
-
-Papers (in order):
-DelTA — token-level credit — https://arxiv.org/abs/2605.21467
-SCRL — subproblem credit — https://arxiv.org/abs/2605.22074
-AntiSD — the deliberation-token fix — https://arxiv.org/abs/2605.11609
-BetaPRM (learned reliability) — https://arxiv.org/abs/2605.15529
-Unsupervised PRM — https://arxiv.org/abs/2605.10158
-RELEX — minimal RLVR — https://arxiv.org/abs/2605.21468
-The Unlearnability Phenomenon — https://arxiv.org/abs/2605.16787
-TransitLM — map-free transit routing (off-theme) — https://arxiv.org/abs/2605.22355
-Toto 2.0 — time-series scaling (off-theme) — https://arxiv.org/abs/2605.20119
-Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</itunes:summary>
+https://arxiv.org/abs/2605.17448
+30:34 Wrap-up</itunes:summary>
       <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-credit-r2-cover.jpg"/>
       <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-credit-r2.mp3" length="23869042" type="audio/mpeg"/>
       <guid isPermaLink="false">21fd5b3a04aa78c24aaa248918978ea9865a6f2b</guid>
@@ -178,54 +172,52 @@ Self-improving CAD + FEA (off-theme) — https://arxiv.org/abs/2605.17448</itune
       <title>Skills, Not Weights</title>
       <description>Yesterday we changed a model's weights to make it smarter; today we leave them frozen and change what we put in front of it — a skill. Luna and Vestra crack open the agent world's biggest week: an optimizer that trains a skill document like a network, a framework that governs a whole skill library so it doesn't rot, one that turns skills into executable guardrails, and one that beats the frontier just by routing between specialists — then the skeptic who shows you can't even tell a good skill from a bad one by reading it. Plus three strays: real-time long-video generation, a language model trained from scratch for about a thousand dollars, and a surgical fix to how models remember.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 1:25 Intro
 3:15 Education
 7:00 SkillOpt — train the skill like you'd train a network
+https://arxiv.org/abs/2605.23904
 10:21 SkillsVote — governing the skill library
+https://arxiv.org/abs/2605.18401
 13:10 HASP — skills as executable code
+https://arxiv.org/abs/2605.17734
 16:21 Maestro — orchestrate, don't retrain
+https://arxiv.org/abs/2605.22177
 19:09 From Raw Experience to Skill Consumption — the skeptic
+https://arxiv.org/abs/2605.23899
 22:56 LongLive-2.0 — real-time long video generation (off-theme)
+https://arxiv.org/abs/2605.18739
 25:22 HRM-Text — training a model from scratch for about a thousand dollars (off-theme)
+https://arxiv.org/abs/2605.20613
 28:33 Gated DeltaNet-2 — fixing memory in linear attention (off-theme)
-31:29 Wrap-up
-
-Papers (in order):
-SkillOpt — train the skill like you'd train a network — https://arxiv.org/abs/2605.23904
-SkillsVote — governing the skill library — https://arxiv.org/abs/2605.18401
-HASP — skills as executable code — https://arxiv.org/abs/2605.17734
-Maestro — orchestrate, don't retrain — https://arxiv.org/abs/2605.22177
-From Raw Experience to Skill Consumption — the skeptic — https://arxiv.org/abs/2605.23899
-LongLive-2.0 — real-time long video generation (off-theme) — https://arxiv.org/abs/2605.18739
-HRM-Text — training a model from scratch for about a thousand dollars (off-theme) — https://arxiv.org/abs/2605.20613
-Gated DeltaNet-2 — fixing memory in linear attention (off-theme) — https://arxiv.org/abs/2605.22791</description>
+https://arxiv.org/abs/2605.22791
+31:29 Wrap-up</description>
       <itunes:summary>Yesterday we changed a model's weights to make it smarter; today we leave them frozen and change what we put in front of it — a skill. Luna and Vestra crack open the agent world's biggest week: an optimizer that trains a skill document like a network, a framework that governs a whole skill library so it doesn't rot, one that turns skills into executable guardrails, and one that beats the frontier just by routing between specialists — then the skeptic who shows you can't even tell a good skill from a bad one by reading it. Plus three strays: real-time long-video generation, a language model trained from scratch for about a thousand dollars, and a surgical fix to how models remember.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 1:25 Intro
 3:15 Education
 7:00 SkillOpt — train the skill like you'd train a network
+https://arxiv.org/abs/2605.23904
 10:21 SkillsVote — governing the skill library
+https://arxiv.org/abs/2605.18401
 13:10 HASP — skills as executable code
+https://arxiv.org/abs/2605.17734
 16:21 Maestro — orchestrate, don't retrain
+https://arxiv.org/abs/2605.22177
 19:09 From Raw Experience to Skill Consumption — the skeptic
+https://arxiv.org/abs/2605.23899
 22:56 LongLive-2.0 — real-time long video generation (off-theme)
+https://arxiv.org/abs/2605.18739
 25:22 HRM-Text — training a model from scratch for about a thousand dollars (off-theme)
+https://arxiv.org/abs/2605.20613
 28:33 Gated DeltaNet-2 — fixing memory in linear attention (off-theme)
-31:29 Wrap-up
-
-Papers (in order):
-SkillOpt — train the skill like you'd train a network — https://arxiv.org/abs/2605.23904
-SkillsVote — governing the skill library — https://arxiv.org/abs/2605.18401
-HASP — skills as executable code — https://arxiv.org/abs/2605.17734
-Maestro — orchestrate, don't retrain — https://arxiv.org/abs/2605.22177
-From Raw Experience to Skill Consumption — the skeptic — https://arxiv.org/abs/2605.23899
-LongLive-2.0 — real-time long video generation (off-theme) — https://arxiv.org/abs/2605.18739
-HRM-Text — training a model from scratch for about a thousand dollars (off-theme) — https://arxiv.org/abs/2605.20613
-Gated DeltaNet-2 — fixing memory in linear attention (off-theme) — https://arxiv.org/abs/2605.22791</itunes:summary>
+https://arxiv.org/abs/2605.22791
+31:29 Wrap-up</itunes:summary>
       <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-02-tue-skills-r2-cover.jpg"/>
       <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-02-tue-skills-r2.mp3" length="32869190" type="audio/mpeg"/>
       <guid isPermaLink="false">b528133e7c6ba584f7857b993272b686365c9e93</guid>
@@ -238,62 +230,60 @@ Gated DeltaNet-2 — fixing memory in linear attention (off-theme) — https://a
       <title>The Introspection Problem</title>
       <description>Can the model see itself? Can we see into it? And if we can't, how do we know anything about what it's doing? Luna and Vestra crack open the week's audit of the introspection problem: a reality-check paper showing that famous results about LLM self-knowledge are pattern matching wearing introspection's clothes, an external-probe approach whose own confidence is miscalibrated (sometimes anti-calibrated on the larger model), a diffusion-monitor paper that stops asking the model anything and watches the hesitation in its dynamics instead, and the architecture finding — one parameter in twelve thousand turns out to be load-bearing in a way the field has quietly disagreed about for years. Plus a measurement reckoning across spatial models and cinematic video, a Tuesday callback on skills as long-lived testable assets, and three strays: parallel box decoding from NVIDIA, why parallel reasoners waste most of their compute, and the biggest frontier model release of the week — competitive at a tenth the activated parameters, with a model already debugging its own training.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 2:38 Intro
 4:42 Education
 9:39 Can LLMs Introspect? A Reality Check
+https://arxiv.org/abs/2605.26242
 15:18 Confidence and Calibration of Activation Oracles
+https://arxiv.org/abs/2605.26045
 20:59 D²-Monitor — Hesitation-Aware Safety Routing for Diffusion LLMs
+https://arxiv.org/abs/2605.25893
 27:06 Negligible in Size, Significant in Effect — Scale Vectors in LLMs
+https://arxiv.org/abs/2605.26895
 33:45 SpatialBench — Is Your Spatial Foundation Model an All-Round Player?
+https://arxiv.org/abs/2605.27367
 40:51 EvalVerse — Expert-Calibrated Benchmarking for Cinematic Video Generation
+https://arxiv.org/abs/2605.23271
 47:01 MUSE-Autoskill — Self-Evolving Agents via the Skill Lifecycle
+https://arxiv.org/abs/2605.27366
 53:55 LocateAnything — Parallel Box Decoding for Vision-Language Grounding (off-theme)
+https://arxiv.org/abs/2605.27365
 59:46 Collaborative Parallel Thinking (off-theme)
+https://arxiv.org/abs/2605.27030
 1:05:37 The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (off-theme)
-1:12:59 Wrap-up
-
-Papers (in order):
-Can LLMs Introspect? A Reality Check — https://arxiv.org/abs/2605.26242
-Confidence and Calibration of Activation Oracles — https://arxiv.org/abs/2605.26045
-D²-Monitor — Hesitation-Aware Safety Routing for Diffusion LLMs — https://arxiv.org/abs/2605.25893
-Negligible in Size, Significant in Effect — Scale Vectors in LLMs — https://arxiv.org/abs/2605.26895
-SpatialBench — Is Your Spatial Foundation Model an All-Round Player? — https://arxiv.org/abs/2605.27367
-EvalVerse — Expert-Calibrated Benchmarking for Cinematic Video Generation — https://arxiv.org/abs/2605.23271
-MUSE-Autoskill — Self-Evolving Agents via the Skill Lifecycle — https://arxiv.org/abs/2605.27366
-LocateAnything — Parallel Box Decoding for Vision-Language Grounding (off-theme) — https://arxiv.org/abs/2605.27365
-Collaborative Parallel Thinking (off-theme) — https://arxiv.org/abs/2605.27030
-The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (off-theme) — https://arxiv.org/abs/2605.26494</description>
+https://arxiv.org/abs/2605.26494
+1:12:59 Wrap-up</description>
       <itunes:summary>Can the model see itself? Can we see into it? And if we can't, how do we know anything about what it's doing? Luna and Vestra crack open the week's audit of the introspection problem: a reality-check paper showing that famous results about LLM self-knowledge are pattern matching wearing introspection's clothes, an external-probe approach whose own confidence is miscalibrated (sometimes anti-calibrated on the larger model), a diffusion-monitor paper that stops asking the model anything and watches the hesitation in its dynamics instead, and the architecture finding — one parameter in twelve thousand turns out to be load-bearing in a way the field has quietly disagreed about for years. Plus a measurement reckoning across spatial models and cinematic video, a Tuesday callback on skills as long-lived testable assets, and three strays: parallel box decoding from NVIDIA, why parallel reasoners waste most of their compute, and the biggest frontier model release of the week — competitive at a tenth the activated parameters, with a model already debugging its own training.
 
-Timestamps:
+Chapters
+
 0:00 Cold open
 2:38 Intro
 4:42 Education
 9:39 Can LLMs Introspect? A Reality Check
+https://arxiv.org/abs/2605.26242
 15:18 Confidence and Calibration of Activation Oracles
+https://arxiv.org/abs/2605.26045
 20:59 D²-Monitor — Hesitation-Aware Safety Routing for Diffusion LLMs
+https://arxiv.org/abs/2605.25893
 27:06 Negligible in Size, Significant in Effect — Scale Vectors in LLMs
+https://arxiv.org/abs/2605.26895
 33:45 SpatialBench — Is Your Spatial Foundation Model an All-Round Player?
+https://arxiv.org/abs/2605.27367
 40:51 EvalVerse — Expert-Calibrated Benchmarking for Cinematic Video Generation
+https://arxiv.org/abs/2605.23271
 47:01 MUSE-Autoskill — Self-Evolving Agents via the Skill Lifecycle
+https://arxiv.org/abs/2605.27366
 53:55 LocateAnything — Parallel Box Decoding for Vision-Language Grounding (off-theme)
+https://arxiv.org/abs/2605.27365
 59:46 Collaborative Parallel Thinking (off-theme)
+https://arxiv.org/abs/2605.27030
 1:05:37 The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (off-theme)
-1:12:59 Wrap-up
-
-Papers (in order):
-Can LLMs Introspect? A Reality Check — https://arxiv.org/abs/2605.26242
-Confidence and Calibration of Activation Oracles — https://arxiv.org/abs/2605.26045
-D²-Monitor — Hesitation-Aware Safety Routing for Diffusion LLMs — https://arxiv.org/abs/2605.25893
-Negligible in Size, Significant in Effect — Scale Vectors in LLMs — https://arxiv.org/abs/2605.26895
-SpatialBench — Is Your Spatial Foundation Model an All-Round Player? — https://arxiv.org/abs/2605.27367
-EvalVerse — Expert-Calibrated Benchmarking for Cinematic Video Generation — https://arxiv.org/abs/2605.23271
-MUSE-Autoskill — Self-Evolving Agents via the Skill Lifecycle — https://arxiv.org/abs/2605.27366
-LocateAnything — Parallel Box Decoding for Vision-Language Grounding (off-theme) — https://arxiv.org/abs/2605.27365
-Collaborative Parallel Thinking (off-theme) — https://arxiv.org/abs/2605.27030
-The MiniMax-M2 Series — Mini Activations Unleashing Real-World Intelligence (off-theme) — https://arxiv.org/abs/2605.26494</itunes:summary>
+https://arxiv.org/abs/2605.26494
+1:12:59 Wrap-up</itunes:summary>
       <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-03-wed-introspection.mp3" length="75103129" type="audio/mpeg"/>
       <guid isPermaLink="false">8959158bad1beb3b70bf8bc70c9dc5e6265545f7</guid>
       <pubDate>Thu, 28 May 2026 12:00:00 +0000</pubDate>
@@ -367,6 +357,7 @@ https://arxiv.org/abs/2605.28293
 41:55 Paper 12 — Learn from Weaknesses: Domain Specialization for Small Computer-Use Agents
 https://arxiv.org/abs/2605.28775
 45:29 Wrap-up</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-05-28-thu-brilliant-synthesizers-cover.jpg"/>
       <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-05-28-thu-brilliant-synthesizers.mp3" length="44932328" type="audio/mpeg"/>
       <guid isPermaLink="false">0db609590b6786567faf6b655ccdc737cec1de32</guid>
       <pubDate>Fri, 29 May 2026 12:00:00 +0000</pubDate>
