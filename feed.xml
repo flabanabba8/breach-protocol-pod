@@ -649,5 +649,69 @@ https://arxiv.org/abs/2605.29861
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Is Video a World Model?</title>
+      <description>A test a two-year-old passes and a state-of-the-art video model fails: a ball rolls behind a box — does it still exist? Half the field is building video models you can walk around inside; the other half is building the tests that catch those same worlds cheating — no object permanence, no real physics, beautiful surfaces with nothing underneath. Luna and Vestra on whether generating a world means understanding one.
+
+Chapters
+
+0:00  Cold open
+2:00  Intro
+2:46  WBench: testing interactive video world models
+https://arxiv.org/abs/2605.25874
+7:17  CRONOS: counterfactual physical consistency
+https://arxiv.org/abs/2605.23699
+12:13 SCOPE: playable cross-game world models
+https://arxiv.org/abs/2605.23345
+17:18 AdaState: self-evolving anchors for streaming video
+https://arxiv.org/abs/2605.30349
+23:02 On-Policy Adversarial Flow Distillation
+https://arxiv.org/abs/2605.26105
+27:27 Towards Consistent Video Geometry Estimation
+https://arxiv.org/abs/2605.30060
+32:23 Geo-Align: grounding video in real geometry
+https://arxiv.org/abs/2605.23903
+37:03 Pantheon360: navigable 3D digital twins
+https://arxiv.org/abs/2605.25449
+40:00 TriSplat: simulation-ready 3D reconstruction
+https://arxiv.org/abs/2605.26115
+43:28 VGenST-Bench: spatio-temporal reasoning test
+https://arxiv.org/abs/2605.22570
+47:02 Wrap-up</description>
+      <itunes:summary>A test a two-year-old passes and a state-of-the-art video model fails: a ball rolls behind a box — does it still exist? Half the field is building video models you can walk around inside; the other half is building the tests that catch those same worlds cheating — no object permanence, no real physics, beautiful surfaces with nothing underneath. Luna and Vestra on whether generating a world means understanding one.
+
+Chapters
+
+0:00  Cold open
+2:00  Intro
+2:46  WBench: testing interactive video world models
+https://arxiv.org/abs/2605.25874
+7:17  CRONOS: counterfactual physical consistency
+https://arxiv.org/abs/2605.23699
+12:13 SCOPE: playable cross-game world models
+https://arxiv.org/abs/2605.23345
+17:18 AdaState: self-evolving anchors for streaming video
+https://arxiv.org/abs/2605.30349
+23:02 On-Policy Adversarial Flow Distillation
+https://arxiv.org/abs/2605.26105
+27:27 Towards Consistent Video Geometry Estimation
+https://arxiv.org/abs/2605.30060
+32:23 Geo-Align: grounding video in real geometry
+https://arxiv.org/abs/2605.23903
+37:03 Pantheon360: navigable 3D digital twins
+https://arxiv.org/abs/2605.25449
+40:00 TriSplat: simulation-ready 3D reconstruction
+https://arxiv.org/abs/2605.26115
+43:28 VGenST-Bench: spatio-temporal reasoning test
+https://arxiv.org/abs/2605.22570
+47:02 Wrap-up</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-03-wed-video-world-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-03-wed-video-world.mp3" length="46492252" type="audio/mpeg"/>
+      <guid isPermaLink="false">2c9c6429051902823e420e37c0be3b604c3e459d</guid>
+      <pubDate>Wed, 03 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>48:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
