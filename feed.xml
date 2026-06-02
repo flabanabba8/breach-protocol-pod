@@ -439,5 +439,141 @@ https://arxiv.org/abs/2605.30076
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Friday Wildcard — 12 AI papers, no theme</title>
+      <description>Twelve papers that have nothing to do with each other except that each one made us stop. A frontier model that runs on a tenth of itself and helps debug its own training. A paper arguing language models need to sleep. Shannon's 1948 information theory used to predict scaling laws. AI design agents handed a real physics exam — most of them fail it. And research agents trained on tasks that don't exist. No theme, no thread, all killers.
+
+Chapters
+
+0:00  Cold open
+2:00  Intro
+2:47  MiniMax-M2: a frontier model on a tenth of itself
+https://arxiv.org/abs/2605.26494
+8:22  LLaVA-OneVision-2: reading video by its compression
+https://arxiv.org/abs/2605.25979
+13:19 Gemini Embedding 2: one space for text, images, audio
+https://arxiv.org/abs/2605.27295
+18:02 Language Models Need Sleep
+https://arxiv.org/abs/2605.26099
+23:03 LLMs as Noisy Channels: a Shannon view of scaling
+https://arxiv.org/abs/2605.23901
+27:04 AutoScientists: self-organizing agent research teams
+https://arxiv.org/abs/2605.28655
+31:29 Self-Improving CAD Agents graded by real physics
+https://arxiv.org/abs/2605.17448
+36:04 CUA-Gym: verifiable training for computer-use agents
+https://arxiv.org/abs/2605.25624
+40:10 PhoneWorld: scaling phone-use agent environments
+https://arxiv.org/abs/2605.29486
+43:57 When Cloud Agents Meet Device Agents
+https://arxiv.org/abs/2605.30102
+48:13 Your Embedding Model is SMARTer Than You Think
+https://arxiv.org/abs/2605.24938
+53:06 QUEST: research agents trained on fully synthetic tasks
+https://arxiv.org/abs/2605.24218
+59:00 Wrap-up</description>
+      <itunes:summary>Twelve papers that have nothing to do with each other except that each one made us stop. A frontier model that runs on a tenth of itself and helps debug its own training. A paper arguing language models need to sleep. Shannon's 1948 information theory used to predict scaling laws. AI design agents handed a real physics exam — most of them fail it. And research agents trained on tasks that don't exist. No theme, no thread, all killers.
+
+Chapters
+
+0:00  Cold open
+2:00  Intro
+2:47  MiniMax-M2: a frontier model on a tenth of itself
+https://arxiv.org/abs/2605.26494
+8:22  LLaVA-OneVision-2: reading video by its compression
+https://arxiv.org/abs/2605.25979
+13:19 Gemini Embedding 2: one space for text, images, audio
+https://arxiv.org/abs/2605.27295
+18:02 Language Models Need Sleep
+https://arxiv.org/abs/2605.26099
+23:03 LLMs as Noisy Channels: a Shannon view of scaling
+https://arxiv.org/abs/2605.23901
+27:04 AutoScientists: self-organizing agent research teams
+https://arxiv.org/abs/2605.28655
+31:29 Self-Improving CAD Agents graded by real physics
+https://arxiv.org/abs/2605.17448
+36:04 CUA-Gym: verifiable training for computer-use agents
+https://arxiv.org/abs/2605.25624
+40:10 PhoneWorld: scaling phone-use agent environments
+https://arxiv.org/abs/2605.29486
+43:57 When Cloud Agents Meet Device Agents
+https://arxiv.org/abs/2605.30102
+48:13 Your Embedding Model is SMARTer Than You Think
+https://arxiv.org/abs/2605.24938
+53:06 QUEST: research agents trained on fully synthetic tasks
+https://arxiv.org/abs/2605.24218
+59:00 Wrap-up</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-05-31-fri-wildcard-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-05-31-fri-wildcard.mp3" length="57792096" type="audio/mpeg"/>
+      <guid isPermaLink="false">52d2a8b51fc1660bbc881e7f36f69302c6423d79</guid>
+      <pubDate>Sun, 31 May 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1:00:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Skill Forge — agents that train their own skills</title>
+      <description>For two years the story was: make the model smarter, change the weights. This week a whole batch of researchers leave the weights alone and change something else — the agent's skills, the reusable how-to it carries between jobs. One paper runs gradient descent on a skill file. Another calls the bluff: sometimes the raw messy logbook beats the polished skill squeezed out of it. Agents that teach themselves — and the hard question of whether the lesson is real.
+
+Chapters
+
+0:00  Cold open
+1:51  Intro
+2:42  SkillGrad: gradient descent on an agent's skills
+https://arxiv.org/abs/2605.27760
+7:34  SkillEvolBench: does experience become real skill?
+https://arxiv.org/abs/2605.24117
+12:43 SEAL: co-evolving agents and their environments
+https://arxiv.org/abs/2605.24426
+17:37 Anticipate and Learn: using an agent's idle time
+https://arxiv.org/abs/2605.25971
+23:29 HinT-SD: learning from your own better past attempts
+https://arxiv.org/abs/2605.17873
+27:10 Discovering Cooperative Pipelines
+https://arxiv.org/abs/2605.30003
+32:22 Foundation Protocol: a coordination layer for agents
+https://arxiv.org/abs/2605.23218
+37:07 ECHO: terminal agents learn world models for free
+https://arxiv.org/abs/2605.24517
+41:24 LiteCoder-Terminal: long-horizon terminal training
+https://arxiv.org/abs/2605.29559
+45:38 ParaVT: parallel tool use in agentic video RL
+https://arxiv.org/abs/2605.20342
+50:19 Wrap-up</description>
+      <itunes:summary>For two years the story was: make the model smarter, change the weights. This week a whole batch of researchers leave the weights alone and change something else — the agent's skills, the reusable how-to it carries between jobs. One paper runs gradient descent on a skill file. Another calls the bluff: sometimes the raw messy logbook beats the polished skill squeezed out of it. Agents that teach themselves — and the hard question of whether the lesson is real.
+
+Chapters
+
+0:00  Cold open
+1:51  Intro
+2:42  SkillGrad: gradient descent on an agent's skills
+https://arxiv.org/abs/2605.27760
+7:34  SkillEvolBench: does experience become real skill?
+https://arxiv.org/abs/2605.24117
+12:43 SEAL: co-evolving agents and their environments
+https://arxiv.org/abs/2605.24426
+17:37 Anticipate and Learn: using an agent's idle time
+https://arxiv.org/abs/2605.25971
+23:29 HinT-SD: learning from your own better past attempts
+https://arxiv.org/abs/2605.17873
+27:10 Discovering Cooperative Pipelines
+https://arxiv.org/abs/2605.30003
+32:22 Foundation Protocol: a coordination layer for agents
+https://arxiv.org/abs/2605.23218
+37:07 ECHO: terminal agents learn world models for free
+https://arxiv.org/abs/2605.24517
+41:24 LiteCoder-Terminal: long-horizon terminal training
+https://arxiv.org/abs/2605.29559
+45:38 ParaVT: parallel tool use in agentic video RL
+https://arxiv.org/abs/2605.20342
+50:19 Wrap-up</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-skill-forge-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-01-mon-skill-forge.mp3" length="49475962" type="audio/mpeg"/>
+      <guid isPermaLink="false">6dc4d02fa2928b89b8e5e56a575c3b71a235e407</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>51:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
