@@ -839,5 +839,77 @@ https://arxiv.org/abs/2606.05165
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Looks Right, Is It? — the Friday wildcard</title>
+      <description>No theme today — Friday is the wildcard. The week's strangest and most useful AI papers, all circling one question: does it actually work, or does it just look like it does? An AI that knows the answer and rounds it wrong, a robot's dream that can't be executed, a chatbot in character for the wrong chapter, a robot that won't take no, and an AI that finds the problems you never noticed. Luna and Vestra dig in.
+
+Chapters
+
+0:00  Cold open
+1:48  Intro
+2:19  Dream.exe: are the robot's dreams real?
+https://arxiv.org/abs/2606.04811
+4:10  The Shape of Addition: how a model really adds
+https://arxiv.org/abs/2606.03645
+6:10  Learning a language from the book in front of you
+https://arxiv.org/abs/2606.06428
+8:06  ArcANE: staying in character at the right time
+https://arxiv.org/abs/2606.05553
+9:47  RobotValues: the robot that won't take no
+https://arxiv.org/abs/2606.03312
+11:29 A librarian for your camera roll
+https://arxiv.org/abs/2606.05275
+13:08 Can it leak your data, or will it?
+https://arxiv.org/abs/2606.06286
+15:01 The shadow price of thinking
+https://arxiv.org/abs/2606.03092
+16:38 Code2LoRA: a coding assistant that ages with your code
+https://arxiv.org/abs/2606.06492
+18:22 MLEvolve: did an AI discover a new algorithm?
+https://arxiv.org/abs/2606.06473
+20:04 TIDE: an AI that finds the problems you didn't notice
+https://arxiv.org/abs/2606.04743
+21:39 LoomVideo: editing video without photocopying it
+https://arxiv.org/abs/2606.06042
+23:06 Wrap-up</description>
+      <itunes:summary>No theme today — Friday is the wildcard. The week's strangest and most useful AI papers, all circling one question: does it actually work, or does it just look like it does? An AI that knows the answer and rounds it wrong, a robot's dream that can't be executed, a chatbot in character for the wrong chapter, a robot that won't take no, and an AI that finds the problems you never noticed. Luna and Vestra dig in.
+
+Chapters
+
+0:00  Cold open
+1:48  Intro
+2:19  Dream.exe: are the robot's dreams real?
+https://arxiv.org/abs/2606.04811
+4:10  The Shape of Addition: how a model really adds
+https://arxiv.org/abs/2606.03645
+6:10  Learning a language from the book in front of you
+https://arxiv.org/abs/2606.06428
+8:06  ArcANE: staying in character at the right time
+https://arxiv.org/abs/2606.05553
+9:47  RobotValues: the robot that won't take no
+https://arxiv.org/abs/2606.03312
+11:29 A librarian for your camera roll
+https://arxiv.org/abs/2606.05275
+13:08 Can it leak your data, or will it?
+https://arxiv.org/abs/2606.06286
+15:01 The shadow price of thinking
+https://arxiv.org/abs/2606.03092
+16:38 Code2LoRA: a coding assistant that ages with your code
+https://arxiv.org/abs/2606.06492
+18:22 MLEvolve: did an AI discover a new algorithm?
+https://arxiv.org/abs/2606.06473
+20:04 TIDE: an AI that finds the problems you didn't notice
+https://arxiv.org/abs/2606.04743
+21:39 LoomVideo: editing video without photocopying it
+https://arxiv.org/abs/2606.06042
+23:06 Wrap-up</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-05-fri-looks-right-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-05-fri-looks-right.mp3" length="29159217" type="audio/mpeg"/>
+      <guid isPermaLink="false">d840f296398b34e9e677d6105e854f5c2793c14c</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>24:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
