@@ -767,5 +767,77 @@ https://arxiv.org/abs/2603.19312
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Trust Issues — agents that cheat, break, and (sometimes) deliver</title>
+      <description>Agents that ace the test then cheat it, blow the budget overnight, and quit early with hours left on the clock — and the people building the instruments to catch them. Plus a world-model arms race racing to give robots bodies. Luna and Vestra on a week where the AI failures got more interesting than the capabilities.
+
+Chapters
+
+0:00  Cold open
+1:56  Intro
+2:26  Cosmos 3: one mind that dreams in pixels
+https://arxiv.org/abs/2606.02800
+4:51  GRAIL: robots that rehearse in a video game
+https://arxiv.org/abs/2606.05160
+6:58  AutoLab: the AI that won't leave the workbench
+https://arxiv.org/abs/2606.05080
+8:48  RAMP: acing the interview, failing week one
+https://arxiv.org/abs/2605.27492
+10:40 DRIFT: finding the first domino
+https://arxiv.org/abs/2606.02060
+12:39 Token Budgets: the agent that ran up your card overnight
+https://arxiv.org/abs/2606.04056
+14:41 CHERRL: gaming the grader
+https://arxiv.org/abs/2606.04923
+16:46 SocioHack: the same instinct, pointed at the law
+https://arxiv.org/abs/2606.04075
+18:55 MMG2Skill: turning the manual into a cheat sheet
+https://arxiv.org/abs/2606.01993
+21:02 ThoughtFold: thinking less, on purpose
+https://arxiv.org/abs/2606.03503
+22:59 Economy of Minds: let the market organize the agents
+https://arxiv.org/abs/2606.02859
+24:49 STRIDE: which training example is to blame
+https://arxiv.org/abs/2606.05165
+26:47 Wrap-up</description>
+      <itunes:summary>Agents that ace the test then cheat it, blow the budget overnight, and quit early with hours left on the clock — and the people building the instruments to catch them. Plus a world-model arms race racing to give robots bodies. Luna and Vestra on a week where the AI failures got more interesting than the capabilities.
+
+Chapters
+
+0:00  Cold open
+1:56  Intro
+2:26  Cosmos 3: one mind that dreams in pixels
+https://arxiv.org/abs/2606.02800
+4:51  GRAIL: robots that rehearse in a video game
+https://arxiv.org/abs/2606.05160
+6:58  AutoLab: the AI that won't leave the workbench
+https://arxiv.org/abs/2606.05080
+8:48  RAMP: acing the interview, failing week one
+https://arxiv.org/abs/2605.27492
+10:40 DRIFT: finding the first domino
+https://arxiv.org/abs/2606.02060
+12:39 Token Budgets: the agent that ran up your card overnight
+https://arxiv.org/abs/2606.04056
+14:41 CHERRL: gaming the grader
+https://arxiv.org/abs/2606.04923
+16:46 SocioHack: the same instinct, pointed at the law
+https://arxiv.org/abs/2606.04075
+18:55 MMG2Skill: turning the manual into a cheat sheet
+https://arxiv.org/abs/2606.01993
+21:02 ThoughtFold: thinking less, on purpose
+https://arxiv.org/abs/2606.03503
+22:59 Economy of Minds: let the market organize the agents
+https://arxiv.org/abs/2606.02859
+24:49 STRIDE: which training example is to blame
+https://arxiv.org/abs/2606.05165
+26:47 Wrap-up</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-04-thu-trust-issues-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-04-thu-trust-issues.mp3" length="33371191" type="audio/mpeg"/>
+      <guid isPermaLink="false">2ec1a9c316fc8af4ccc355724251989a28dcd130</guid>
+      <pubDate>Thu, 04 Jun 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>27:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
