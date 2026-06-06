@@ -911,5 +911,73 @@ https://arxiv.org/abs/2606.06042
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>The World-Model Week</title>
+      <description>Everyone wants an AI that carries a model of how the world works — and this week the whole field went all in while refusing to agree on what one even is. Luna and Vestra referee a four-way fight: render the future in pixels, imagine it in the abstract, skip the world model and just scale, or find the one already hiding inside. Plus the unglamorous question nobody wants — can we even tell a dreamed world from a real one?
+
+Chapters
+
+0:00  Cold open
+1:50  Intro
+2:21  OmniDreams — the renderer that learned to drive
+https://arxiv.org/abs/2606.03159
+4:11  Imagine Before You Predict — dreaming without the pixels
+https://arxiv.org/abs/2606.05769
+5:54  Generate the future — but don't believe it
+https://arxiv.org/abs/2606.03603
+7:39  Humanoid-GPT — or maybe you don't need one at all
+https://arxiv.org/abs/2606.03985
+9:20  One head for seeing, thinking, and moving
+https://arxiv.org/abs/2606.05979
+10:56 VLM3 — the world model nobody built
+https://arxiv.org/abs/2605.30561
+12:23 GeoVR — no, the world model doesn't grow for free
+https://arxiv.org/abs/2606.05833
+13:53 Discrete-WAM — a shared vocabulary for seeing and steering
+https://arxiv.org/abs/2606.05645
+15:30 Flash-WAM — making the daydream fast enough to run
+https://arxiv.org/abs/2606.05254
+16:58 Function2Scene — building a room from what it's for
+https://arxiv.org/abs/2605.30819
+18:25 KITScenes — can we even tell a dreamed world from a real one?
+https://arxiv.org/abs/2606.02956
+19:58 Wrap-up</description>
+      <itunes:summary>Everyone wants an AI that carries a model of how the world works — and this week the whole field went all in while refusing to agree on what one even is. Luna and Vestra referee a four-way fight: render the future in pixels, imagine it in the abstract, skip the world model and just scale, or find the one already hiding inside. Plus the unglamorous question nobody wants — can we even tell a dreamed world from a real one?
+
+Chapters
+
+0:00  Cold open
+1:50  Intro
+2:21  OmniDreams — the renderer that learned to drive
+https://arxiv.org/abs/2606.03159
+4:11  Imagine Before You Predict — dreaming without the pixels
+https://arxiv.org/abs/2606.05769
+5:54  Generate the future — but don't believe it
+https://arxiv.org/abs/2606.03603
+7:39  Humanoid-GPT — or maybe you don't need one at all
+https://arxiv.org/abs/2606.03985
+9:20  One head for seeing, thinking, and moving
+https://arxiv.org/abs/2606.05979
+10:56 VLM3 — the world model nobody built
+https://arxiv.org/abs/2605.30561
+12:23 GeoVR — no, the world model doesn't grow for free
+https://arxiv.org/abs/2606.05833
+13:53 Discrete-WAM — a shared vocabulary for seeing and steering
+https://arxiv.org/abs/2606.05645
+15:30 Flash-WAM — making the daydream fast enough to run
+https://arxiv.org/abs/2606.05254
+16:58 Function2Scene — building a room from what it's for
+https://arxiv.org/abs/2605.30819
+18:25 KITScenes — can we even tell a dreamed world from a real one?
+https://arxiv.org/abs/2606.02956
+19:58 Wrap-up</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-08-mon-world-models-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-08-mon-world-models.mp3" length="25493146" type="audio/mpeg"/>
+      <guid isPermaLink="false">09cba49ef87a79f49b35ca5a7af0a7b77f9221a3</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 -0400</pubDate>
+      <itunes:duration>21:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
