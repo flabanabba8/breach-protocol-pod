@@ -979,5 +979,71 @@ https://arxiv.org/abs/2606.02956
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>The Julia Bet — One Language, From Idea to Silicon</title>
+      <description>What if the oldest rule in computing — fast or friendly, pick one — was never a law? Julia is the language built to break it: write your idea once, in something that reads like math, and have it run like C. Luna and Vestra trace the bet from its founding heresy, through the one idea that makes it work, to the thing that actually matters for AI — differentiating ANY code you ever wrote, and dropping a neural network inside the laws of physics — all the way down to compiling plain code into a custom chip. Then the honest reckoning: it's genuinely radical, and it still hasn't beaten Python. Why?
+
+A Breach Protocol deep-dive special.
+
+Chapters
+
+0:00  Cold open
+1:46  Intro
+2:45  The heresy: three laws Julia refused to believe
+4:40  The one idea: giving the same name to different things
+6:33  Differentiate anything you ever wrote
+9:13  Science that learns its own missing piece
+11:38 One language, all the way down to the chip
+13:16 So why hasn't it won?
+15:45 What the bet was really about
+16:50 Wrap-up
+
+Papers &amp; docs referenced
+
+Julia: A Fresh Approach to Numerical Computing — https://arxiv.org/abs/1411.1607
+The State of Julia for Scientific Machine Learning — https://arxiv.org/abs/2410.10908
+Universal Differential Equations for Scientific Machine Learning — https://arxiv.org/abs/2001.04385
+A Differentiable Programming System (Zygote) — https://arxiv.org/abs/1907.07587
+Enzyme: automatically synthesizing fast gradients — https://arxiv.org/abs/2010.01709
+Fashionable Modelling with Flux — https://arxiv.org/abs/1811.01457
+JuMP 1.0 — https://arxiv.org/abs/2206.03866
+A High-level Synthesis Toolchain for the Julia Language — https://arxiv.org/abs/2512.15679
+Julia manual — https://docs.julialang.org/en/v1/</description>
+      <itunes:summary>What if the oldest rule in computing — fast or friendly, pick one — was never a law? Julia is the language built to break it: write your idea once, in something that reads like math, and have it run like C. Luna and Vestra trace the bet from its founding heresy, through the one idea that makes it work, to the thing that actually matters for AI — differentiating ANY code you ever wrote, and dropping a neural network inside the laws of physics — all the way down to compiling plain code into a custom chip. Then the honest reckoning: it's genuinely radical, and it still hasn't beaten Python. Why?
+
+A Breach Protocol deep-dive special.
+
+Chapters
+
+0:00  Cold open
+1:46  Intro
+2:45  The heresy: three laws Julia refused to believe
+4:40  The one idea: giving the same name to different things
+6:33  Differentiate anything you ever wrote
+9:13  Science that learns its own missing piece
+11:38 One language, all the way down to the chip
+13:16 So why hasn't it won?
+15:45 What the bet was really about
+16:50 Wrap-up
+
+Papers &amp; docs referenced
+
+Julia: A Fresh Approach to Numerical Computing — https://arxiv.org/abs/1411.1607
+The State of Julia for Scientific Machine Learning — https://arxiv.org/abs/2410.10908
+Universal Differential Equations for Scientific Machine Learning — https://arxiv.org/abs/2001.04385
+A Differentiable Programming System (Zygote) — https://arxiv.org/abs/1907.07587
+Enzyme: automatically synthesizing fast gradients — https://arxiv.org/abs/2010.01709
+Fashionable Modelling with Flux — https://arxiv.org/abs/1811.01457
+JuMP 1.0 — https://arxiv.org/abs/2206.03866
+A High-level Synthesis Toolchain for the Julia Language — https://arxiv.org/abs/2512.15679
+Julia manual — https://docs.julialang.org/en/v1/</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-06-special-julia-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-06-special-julia.mp3" length="21398761" type="audio/mpeg"/>
+      <guid isPermaLink="false">fc2458c4940018ed59c3113d6b8d0a10ce1da2cc</guid>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 -0400</pubDate>
+      <itunes:duration>17:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
