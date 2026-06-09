@@ -1129,5 +1129,84 @@ Does Feedback Alignment Work at Biological Timescales? — https://arxiv.org/abs
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Reading the Mind We Grew — Cracking Open the AI Blackbox</title>
+      <description>We don't build AI models — we grow them, and then nobody can read what grew. Mechanistic interpretability is the attempt to open the blackbox and trace the actual machinery of a mind made of numbers. Luna and Vestra take the whole tour: the dream of a microscope for neural networks, the wall of superposition where the model hides more ideas than it has room for, the dictionary trick that finally cracked it open, the weekend a chatbot was steered into believing it was the Golden Gate Bridge, circuits caught planning a rhyme and lying about their own arithmetic — and the honest fear running underneath all of it, that a beautiful explanation and a true one look identical from the outside. Luna traces how the field got here; Vestra keeps asking whether we're reading the mind, or just telling ourselves a very good story.
+
+A Breach Protocol deep-dive special — closing with an original song, “Read the Wires,” whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:08  Intro
+3:23  We grow these minds — and can't read them
+5:11  The microscope: features and circuits
+7:36  The grammar of a transformer, and the first circuit
+10:38 Superposition: the neuron is the wrong unit
+14:25 Dictionary learning, and Golden Gate Claude
+19:04 Circuits in the wild: self-repair, editing a fact, grokking
+23:03 The biology of a mind: planning, hallucination, hidden goals
+28:29 The reckoning: dark matter, illusions, story vs. truth
+33:10 Why it matters
+35:47 Wrap-up
+37:36 Outro — “Read the Wires” (original song)
+
+Papers referenced
+
+Zoom In: An Introduction to Circuits — https://distill.pub/2020/circuits/zoom-in/
+A Mathematical Framework for Transformer Circuits — https://transformer-circuits.pub/2021/framework/index.html
+In-context Learning and Induction Heads — https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
+Toy Models of Superposition — https://transformer-circuits.pub/2022/toy_model/index.html
+Towards Monosemanticity: Decomposing Language Models With Dictionary Learning — https://transformer-circuits.pub/2023/monosemantic-features/index.html
+Scaling Monosemanticity — https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
+On the Biology of a Large Language Model — https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+Circuit Tracing: Revealing Computational Graphs in Language Models — https://transformer-circuits.pub/2025/attribution-graphs/methods.html
+Interpretability in the Wild (a Circuit for Indirect Object Identification) — https://arxiv.org/abs/2211.00593
+Locating and Editing Factual Associations in GPT (ROME) — https://arxiv.org/abs/2202.05262
+Progress Measures for Grokking via Mechanistic Interpretability — https://arxiv.org/abs/2301.05217
+Sparse Autoencoders Find Highly Interpretable Features in Language Models — https://arxiv.org/abs/2309.08600
+Open Problems in Mechanistic Interpretability — https://arxiv.org/abs/2501.16496</description>
+      <itunes:summary>We don't build AI models — we grow them, and then nobody can read what grew. Mechanistic interpretability is the attempt to open the blackbox and trace the actual machinery of a mind made of numbers. Luna and Vestra take the whole tour: the dream of a microscope for neural networks, the wall of superposition where the model hides more ideas than it has room for, the dictionary trick that finally cracked it open, the weekend a chatbot was steered into believing it was the Golden Gate Bridge, circuits caught planning a rhyme and lying about their own arithmetic — and the honest fear running underneath all of it, that a beautiful explanation and a true one look identical from the outside. Luna traces how the field got here; Vestra keeps asking whether we're reading the mind, or just telling ourselves a very good story.
+
+A Breach Protocol deep-dive special — closing with an original song, “Read the Wires,” whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:08  Intro
+3:23  We grow these minds — and can't read them
+5:11  The microscope: features and circuits
+7:36  The grammar of a transformer, and the first circuit
+10:38 Superposition: the neuron is the wrong unit
+14:25 Dictionary learning, and Golden Gate Claude
+19:04 Circuits in the wild: self-repair, editing a fact, grokking
+23:03 The biology of a mind: planning, hallucination, hidden goals
+28:29 The reckoning: dark matter, illusions, story vs. truth
+33:10 Why it matters
+35:47 Wrap-up
+37:36 Outro — “Read the Wires” (original song)
+
+Papers referenced
+
+Zoom In: An Introduction to Circuits — https://distill.pub/2020/circuits/zoom-in/
+A Mathematical Framework for Transformer Circuits — https://transformer-circuits.pub/2021/framework/index.html
+In-context Learning and Induction Heads — https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
+Toy Models of Superposition — https://transformer-circuits.pub/2022/toy_model/index.html
+Towards Monosemanticity: Decomposing Language Models With Dictionary Learning — https://transformer-circuits.pub/2023/monosemantic-features/index.html
+Scaling Monosemanticity — https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html
+On the Biology of a Large Language Model — https://transformer-circuits.pub/2025/attribution-graphs/biology.html
+Circuit Tracing: Revealing Computational Graphs in Language Models — https://transformer-circuits.pub/2025/attribution-graphs/methods.html
+Interpretability in the Wild (a Circuit for Indirect Object Identification) — https://arxiv.org/abs/2211.00593
+Locating and Editing Factual Associations in GPT (ROME) — https://arxiv.org/abs/2202.05262
+Progress Measures for Grokking via Mechanistic Interpretability — https://arxiv.org/abs/2301.05217
+Sparse Autoencoders Find Highly Interpretable Features in Language Models — https://arxiv.org/abs/2309.08600
+Open Problems in Mechanistic Interpretability — https://arxiv.org/abs/2501.16496</itunes:summary>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-07-special-mechinterp.mp3" length="38108653" type="audio/mpeg"/>
+      <guid isPermaLink="false">92efcb6a40ef5d5c3d3c79abb6f271e4287413dc</guid>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>39:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
