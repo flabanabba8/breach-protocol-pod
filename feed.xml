@@ -1268,5 +1268,65 @@ Learning Hamiltonian neural Koopman operator and simultaneously sustaining and d
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Model Evidence Is All You Need — The Bet Against Deep Learning</title>
+      <description>Everyone bet on one recipe — scale a giant neural network on the whole internet. A stubborn minority says that's a detour, and this is the most serious version of that heresy: active inference and the free-energy principle, the idea that intelligence is not chasing reward or memorizing data but minimizing surprise. Luna and Vestra trace it from a hobbyist building a mind out of competing rocks to Karl Friston's physics of intelligence and the company selling it as a product — with the honest reckoning: real properties the big models lack, wrapped around a grand theory that hasn't yet cashed an independent benchmark.
+
+A Breach Protocol deep-dive special — closing with an original song, "Minimize the Surprise," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:08  Intro
+3:37  Competing rocks
+5:06  Minimize surprise
+7:00  How a neuron could do it
+9:20  The bet against deep learning
+11:31 The bet, productized
+13:16 The reckoning
+15:45 Why it matters
+17:35 Wrap-up
+19:23 Outro — "Minimize the Surprise" (original song)
+
+Papers referenced
+
+Active inference: demystified and compared — https://arxiv.org/abs/1909.10863
+A tutorial on the free-energy framework for modelling perception and learning (Bogacz 2017) — https://doi.org/10.1016/j.jmp.2015.11.003
+Designing Ecosystems of Intelligence from First Principles — https://arxiv.org/abs/2212.01354
+From Artificial Intelligence to Active Inference: The Key to True AI and 6G World Brain — https://arxiv.org/abs/2505.10569
+A Technical Critique of Some Parts of the Free Energy Principle — https://arxiv.org/abs/2001.06408</description>
+      <itunes:summary>Everyone bet on one recipe — scale a giant neural network on the whole internet. A stubborn minority says that's a detour, and this is the most serious version of that heresy: active inference and the free-energy principle, the idea that intelligence is not chasing reward or memorizing data but minimizing surprise. Luna and Vestra trace it from a hobbyist building a mind out of competing rocks to Karl Friston's physics of intelligence and the company selling it as a product — with the honest reckoning: real properties the big models lack, wrapped around a grand theory that hasn't yet cashed an independent benchmark.
+
+A Breach Protocol deep-dive special — closing with an original song, "Minimize the Surprise," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:08  Intro
+3:37  Competing rocks
+5:06  Minimize surprise
+7:00  How a neuron could do it
+9:20  The bet against deep learning
+11:31 The bet, productized
+13:16 The reckoning
+15:45 Why it matters
+17:35 Wrap-up
+19:23 Outro — "Minimize the Surprise" (original song)
+
+Papers referenced
+
+Active inference: demystified and compared — https://arxiv.org/abs/1909.10863
+A tutorial on the free-energy framework for modelling perception and learning (Bogacz 2017) — https://doi.org/10.1016/j.jmp.2015.11.003
+Designing Ecosystems of Intelligence from First Principles — https://arxiv.org/abs/2212.01354
+From Artificial Intelligence to Active Inference: The Key to True AI and 6G World Brain — https://arxiv.org/abs/2505.10569
+A Technical Critique of Some Parts of the Free Energy Principle — https://arxiv.org/abs/2001.06408</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-11-special-active-inference-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-11-special-active-inference.mp3" length="23497169" type="audio/mpeg"/>
+      <guid isPermaLink="false">26d9b8b251b853d6299cdfe08a84bab68b837199</guid>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>24:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
