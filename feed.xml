@@ -1208,5 +1208,65 @@ Open Problems in Mechanistic Interpretability — https://arxiv.org/abs/2501.164
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Linearize the Unlinearizable — Taming Chaos with a 1931 Trick</title>
+      <description>A 1931 idea, dead for ninety years, that deep learning just revived: the Koopman operator turns a chaotic, nonlinear system into a simple linear one — and for energy-conserving systems, the dynamics become a rotation on a sphere, so conservation of energy stops being a hope and becomes pure geometry. Luna and Vestra trace the bet from the three-body problem to Hamiltonian Neural Koopman Operators, with the honest limit: it lives or dies on the system actually conserving energy.
+
+A Breach Protocol deep-dive special — closing with an original song, "Rotation on a Sphere," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:10  Intro
+3:36  The 1931 bet
+5:14  The ninety-year catch
+6:46  Letting the net find the coordinates
+8:42  Models that leak
+10:46 Conservation as geometry
+13:10 Finding laws nobody told it
+14:48 Where the sphere ends
+16:47 Wrap-up
+18:39 Outro — "Rotation on a Sphere" (original song)
+
+Papers referenced
+
+Modern Koopman Theory for Dynamical Systems (Brunton et al.) — https://arxiv.org/abs/2102.12086
+Deep learning for universal linear embeddings of nonlinear dynamics (Lusch et al.) — https://arxiv.org/abs/1712.09707
+Hamiltonian Neural Networks — https://arxiv.org/abs/1906.01563
+SympNets: Intrinsic structure-preserving symplectic networks — https://arxiv.org/abs/2001.03750
+Learning Hamiltonian neural Koopman operator and simultaneously sustaining and discovering conservation laws (HNKO) — https://arxiv.org/abs/2406.02154</description>
+      <itunes:summary>A 1931 idea, dead for ninety years, that deep learning just revived: the Koopman operator turns a chaotic, nonlinear system into a simple linear one — and for energy-conserving systems, the dynamics become a rotation on a sphere, so conservation of energy stops being a hope and becomes pure geometry. Luna and Vestra trace the bet from the three-body problem to Hamiltonian Neural Koopman Operators, with the honest limit: it lives or dies on the system actually conserving energy.
+
+A Breach Protocol deep-dive special — closing with an original song, "Rotation on a Sphere," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:10  Intro
+3:36  The 1931 bet
+5:14  The ninety-year catch
+6:46  Letting the net find the coordinates
+8:42  Models that leak
+10:46 Conservation as geometry
+13:10 Finding laws nobody told it
+14:48 Where the sphere ends
+16:47 Wrap-up
+18:39 Outro — "Rotation on a Sphere" (original song)
+
+Papers referenced
+
+Modern Koopman Theory for Dynamical Systems (Brunton et al.) — https://arxiv.org/abs/2102.12086
+Deep learning for universal linear embeddings of nonlinear dynamics (Lusch et al.) — https://arxiv.org/abs/1712.09707
+Hamiltonian Neural Networks — https://arxiv.org/abs/1906.01563
+SympNets: Intrinsic structure-preserving symplectic networks — https://arxiv.org/abs/2001.03750
+Learning Hamiltonian neural Koopman operator and simultaneously sustaining and discovering conservation laws (HNKO) — https://arxiv.org/abs/2406.02154</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-10-special-koopman-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-10-special-koopman.mp3" length="21349301" type="audio/mpeg"/>
+      <guid isPermaLink="false">b6cbab70e5e2aa12b38bd550fb2efb0dfbd5db08</guid>
+      <pubDate>Wed, 10 Jun 2026 06:00:00 -0400</pubDate>
+      <itunes:duration>22:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
