@@ -1328,5 +1328,67 @@ A Technical Critique of Some Parts of the Free Energy Principle — https://arxi
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Just Make It Bigger — The Trillion-Dollar Curve and the Wall at the End of the Internet</title>
+      <description>Why did the entire AI industry bet a trillion dollars on a straight line on a graph? Luna and Vestra trace the scaling laws from Rich Sutton's bitter lesson through the Kaplan curves and the Chinchilla correction, to the audit that found bugs in the most influential curve fit in tech — and the wall at the end of the internet. Nobody knows why the line is straight; everybody is betting it stays that way.
+
+A Breach Protocol deep-dive special — closing with an original song, "Feed the Curve," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:15  Intro
+4:08  The grudge: seventy years of the bitter lesson
+6:14  The law: Kaplan's straight lines
+8:40  The correction: Chinchilla
+11:17 The audit: scraping the data out of a PDF
+14:10 The wall: running out of internet
+17:29 Beating the law: data pruning
+20:28 The reckoning
+23:01 Wrap-up
+24:46 Outro — "Feed the Curve" (original song)
+
+Papers referenced
+
+The Bitter Lesson (Rich Sutton, 2019) — http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+Scaling Laws for Neural Language Models (Kaplan et al.) — https://arxiv.org/abs/2001.08361
+Training Compute-Optimal Large Language Models (Hoffmann et al.) — https://arxiv.org/abs/2203.15556
+Chinchilla Scaling: A replication attempt (Besiroglu et al.) — https://arxiv.org/abs/2404.10102
+Scaling Data-Constrained Language Models (Muennighoff et al.) — https://arxiv.org/abs/2305.16264
+Beyond neural scaling laws (Sorscher et al.) — https://arxiv.org/abs/2206.14486</description>
+      <itunes:summary>Why did the entire AI industry bet a trillion dollars on a straight line on a graph? Luna and Vestra trace the scaling laws from Rich Sutton's bitter lesson through the Kaplan curves and the Chinchilla correction, to the audit that found bugs in the most influential curve fit in tech — and the wall at the end of the internet. Nobody knows why the line is straight; everybody is betting it stays that way.
+
+A Breach Protocol deep-dive special — closing with an original song, "Feed the Curve," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:15  Intro
+4:08  The grudge: seventy years of the bitter lesson
+6:14  The law: Kaplan's straight lines
+8:40  The correction: Chinchilla
+11:17 The audit: scraping the data out of a PDF
+14:10 The wall: running out of internet
+17:29 Beating the law: data pruning
+20:28 The reckoning
+23:01 Wrap-up
+24:46 Outro — "Feed the Curve" (original song)
+
+Papers referenced
+
+The Bitter Lesson (Rich Sutton, 2019) — http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+Scaling Laws for Neural Language Models (Kaplan et al.) — https://arxiv.org/abs/2001.08361
+Training Compute-Optimal Large Language Models (Hoffmann et al.) — https://arxiv.org/abs/2203.15556
+Chinchilla Scaling: A replication attempt (Besiroglu et al.) — https://arxiv.org/abs/2404.10102
+Scaling Data-Constrained Language Models (Muennighoff et al.) — https://arxiv.org/abs/2305.16264
+Beyond neural scaling laws (Sorscher et al.) — https://arxiv.org/abs/2206.14486</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-16-special-scaling-laws-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-16-special-scaling-laws.mp3" length="26636815" type="audio/mpeg"/>
+      <guid isPermaLink="false">3033bd7589ee86646eb9a2454297a3bedffe949b</guid>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>27:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
