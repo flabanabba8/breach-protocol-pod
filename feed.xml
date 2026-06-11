@@ -1390,5 +1390,133 @@ Beyond neural scaling laws (Sorscher et al.) — https://arxiv.org/abs/2206.1448
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>The Million-Step Epiphany — Emergence, Grokking, and Whether the Jump Is Real</title>
+      <description>A tiny network memorizes its training data in an afternoon — then sits at random chance for a million steps, until understanding suddenly switches on. Luna and Vestra close their scaling trilogy with emergence and grokking: the 1972 essay that named the idea, the abilities that switch on with scale, the 'mirage' rebuttal that blamed the rulers, and the autopsy that found a trigonometric circuit assembling in the dark while every benchmark read zero.
+
+A Breach Protocol deep-dive special — closing with an original song, "Under Construction in the Dark," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:37  Intro
+4:45  More Is Different (1972)
+7:30  The switch: abilities arriving unannounced
+10:28 The mirage: blame the ruler
+14:10 The million-step epiphany: grokking
+17:00 The autopsy: a circuit built in the dark
+21:08 The reconciliation: a thousand tiny cliffs
+24:51 The verdict
+27:34 Wrap-up
+29:52 Outro — "Under Construction in the Dark" (original song)
+
+Papers referenced
+
+More Is Different (P. W. Anderson, Science, 1972) — https://www.science.org/doi/10.1126/science.177.4047.393
+Emergent Abilities of Large Language Models (Wei et al.) — https://arxiv.org/abs/2206.07682
+Are Emergent Abilities of Large Language Models a Mirage? (Schaeffer et al.) — https://arxiv.org/abs/2304.15004
+Grokking: Generalization Beyond Overfitting (Power et al.) — https://arxiv.org/abs/2201.02177
+Progress measures for grokking via mechanistic interpretability (Nanda et al.) — https://arxiv.org/abs/2301.05217
+Omnigrok: Grokking Beyond Algorithmic Data (Liu et al.) — https://arxiv.org/abs/2210.01117
+The Quantization Model of Neural Scaling (Michaud et al.) — https://arxiv.org/abs/2303.13506</description>
+      <itunes:summary>A tiny network memorizes its training data in an afternoon — then sits at random chance for a million steps, until understanding suddenly switches on. Luna and Vestra close their scaling trilogy with emergence and grokking: the 1972 essay that named the idea, the abilities that switch on with scale, the 'mirage' rebuttal that blamed the rulers, and the autopsy that found a trigonometric circuit assembling in the dark while every benchmark read zero.
+
+A Breach Protocol deep-dive special — closing with an original song, "Under Construction in the Dark," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:37  Intro
+4:45  More Is Different (1972)
+7:30  The switch: abilities arriving unannounced
+10:28 The mirage: blame the ruler
+14:10 The million-step epiphany: grokking
+17:00 The autopsy: a circuit built in the dark
+21:08 The reconciliation: a thousand tiny cliffs
+24:51 The verdict
+27:34 Wrap-up
+29:52 Outro — "Under Construction in the Dark" (original song)
+
+Papers referenced
+
+More Is Different (P. W. Anderson, Science, 1972) — https://www.science.org/doi/10.1126/science.177.4047.393
+Emergent Abilities of Large Language Models (Wei et al.) — https://arxiv.org/abs/2206.07682
+Are Emergent Abilities of Large Language Models a Mirage? (Schaeffer et al.) — https://arxiv.org/abs/2304.15004
+Grokking: Generalization Beyond Overfitting (Power et al.) — https://arxiv.org/abs/2201.02177
+Progress measures for grokking via mechanistic interpretability (Nanda et al.) — https://arxiv.org/abs/2301.05217
+Omnigrok: Grokking Beyond Algorithmic Data (Liu et al.) — https://arxiv.org/abs/2210.01117
+The Quantization Model of Neural Scaling (Michaud et al.) — https://arxiv.org/abs/2303.13506</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-18-special-emergence-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-18-special-emergence.mp3" length="31521546" type="audio/mpeg"/>
+      <guid isPermaLink="false">8ce047400d2e5efe930e1ffd0919eb27025ce9d3</guid>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>32:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Scale the Thought, Not the Brain — The Reasoning Turn on Trial</title>
+      <description>A model interrupts its own math to say "wait — that's an aha moment." Nobody taught it that. Luna and Vestra put the reasoning turn on trial: chain-of-thought, the STaR loop, o1's new scaling curves and DeepSeek-R1's open recipe for the defense — and the Tsinghua boundary audit plus Apple's "Illusion of Thinking" for the prosecution. The axis is real; the word is on probation. Part two of the scaling trilogy.
+
+A Breach Protocol deep-dive special — closing with an original song, "Wait — Aha," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:25  Intro
+4:30  The trick: chain-of-thought
+7:02  The loop: a model teaching itself
+9:25  The new law: thinking time as a scaling axis
+12:27 The revolution: DeepSeek-R1
+15:49 The prosecution: was it in the base model all along?
+19:08 The collapse: Apple's puzzle worlds
+23:07 The verdict
+26:01 Wrap-up
+28:00 Outro — "Wait — Aha" (original song)
+
+Papers referenced
+
+Learning to reason with LLMs (OpenAI, 2024) — https://openai.com/index/learning-to-reason-with-llms/
+Chain-of-Thought Prompting Elicits Reasoning in LLMs (Wei et al.) — https://arxiv.org/abs/2201.11903
+STaR: Bootstrapping Reasoning With Reasoning (Zelikman et al.) — https://arxiv.org/abs/2203.14465
+Scaling LLM Test-Time Compute Optimally (Snell et al.) — https://arxiv.org/abs/2408.03314
+DeepSeek-R1 (DeepSeek-AI) — https://arxiv.org/abs/2501.12948
+Does RL Really Incentivize Reasoning Beyond the Base Model? (Yue et al.) — https://arxiv.org/abs/2504.13837
+The Illusion of Thinking (Shojaee et al.) — https://arxiv.org/abs/2506.06941</description>
+      <itunes:summary>A model interrupts its own math to say "wait — that's an aha moment." Nobody taught it that. Luna and Vestra put the reasoning turn on trial: chain-of-thought, the STaR loop, o1's new scaling curves and DeepSeek-R1's open recipe for the defense — and the Tsinghua boundary audit plus Apple's "Illusion of Thinking" for the prosecution. The axis is real; the word is on probation. Part two of the scaling trilogy.
+
+A Breach Protocol deep-dive special — closing with an original song, "Wait — Aha," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:25  Intro
+4:30  The trick: chain-of-thought
+7:02  The loop: a model teaching itself
+9:25  The new law: thinking time as a scaling axis
+12:27 The revolution: DeepSeek-R1
+15:49 The prosecution: was it in the base model all along?
+19:08 The collapse: Apple's puzzle worlds
+23:07 The verdict
+26:01 Wrap-up
+28:00 Outro — "Wait — Aha" (original song)
+
+Papers referenced
+
+Learning to reason with LLMs (OpenAI, 2024) — https://openai.com/index/learning-to-reason-with-llms/
+Chain-of-Thought Prompting Elicits Reasoning in LLMs (Wei et al.) — https://arxiv.org/abs/2201.11903
+STaR: Bootstrapping Reasoning With Reasoning (Zelikman et al.) — https://arxiv.org/abs/2203.14465
+Scaling LLM Test-Time Compute Optimally (Snell et al.) — https://arxiv.org/abs/2408.03314
+DeepSeek-R1 (DeepSeek-AI) — https://arxiv.org/abs/2501.12948
+Does RL Really Incentivize Reasoning Beyond the Base Model? (Yue et al.) — https://arxiv.org/abs/2504.13837
+The Illusion of Thinking (Shojaee et al.) — https://arxiv.org/abs/2506.06941</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-17-special-reasoning-turn-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-17-special-reasoning-turn.mp3" length="30726548" type="audio/mpeg"/>
+      <guid isPermaLink="false">daf6ecd93c38cb05c0ed76e7adb63fb7adbc344c</guid>
+      <pubDate>Wed, 17 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>32:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
