@@ -1518,5 +1518,65 @@ The Illusion of Thinking (Shojaee et al.) — https://arxiv.org/abs/2506.06941</
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>The Confident Liar — Why AI Hallucination May Be Mathematically Inevitable</title>
+      <description>Three frontier models invent three different birthdays for the researcher who proved they can't help it. Luna and Vestra put AI's confident lying on trial: the misconceptions we taught them, the theorem showing calibrated models MUST fabricate at a rate Turing's estimator predicts, the computability proof that some hallucination is forever, the exam theory explaining why every benchmark rewards bluffing — and the lie detector that catches fabrications by their scatter. Verdict: bug AND birthright, by layer.
+
+A Breach Protocol deep-dive special — closing with an original song, "Honest Dice," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:33  Intro
+4:52  The lies we taught them
+7:39  The theorem: calibrated models must hallucinate
+11:17 The computability hammer
+14:40 The exam theory: why benchmarks reward bluffing
+18:45 The lie detector: semantic entropy
+22:09 The verdict
+25:22 Wrap-up
+27:28 Outro — "Honest Dice" (original song)
+
+Papers referenced
+
+TruthfulQA: Measuring How Models Mimic Human Falsehoods (Lin, Hilton &amp; Evans) — https://arxiv.org/abs/2109.07958
+Calibrated Language Models Must Hallucinate (Kalai &amp; Vempala) — https://arxiv.org/abs/2311.14648
+Hallucination is Inevitable (Xu, Jain &amp; Kankanhalli) — https://arxiv.org/abs/2401.11817
+Why Language Models Hallucinate (Kalai, Nachum, Vempala &amp; Zhang) — https://arxiv.org/abs/2509.04664
+Semantic Uncertainty (Kuhn, Gal &amp; Farquhar) — https://arxiv.org/abs/2302.09664
+A Survey on Hallucination in Large Language Models (Huang et al.) — https://arxiv.org/abs/2311.05232</description>
+      <itunes:summary>Three frontier models invent three different birthdays for the researcher who proved they can't help it. Luna and Vestra put AI's confident lying on trial: the misconceptions we taught them, the theorem showing calibrated models MUST fabricate at a rate Turing's estimator predicts, the computability proof that some hallucination is forever, the exam theory explaining why every benchmark rewards bluffing — and the lie detector that catches fabrications by their scatter. Verdict: bug AND birthright, by layer.
+
+A Breach Protocol deep-dive special — closing with an original song, "Honest Dice," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:33  Intro
+4:52  The lies we taught them
+7:39  The theorem: calibrated models must hallucinate
+11:17 The computability hammer
+14:40 The exam theory: why benchmarks reward bluffing
+18:45 The lie detector: semantic entropy
+22:09 The verdict
+25:22 Wrap-up
+27:28 Outro — "Honest Dice" (original song)
+
+Papers referenced
+
+TruthfulQA: Measuring How Models Mimic Human Falsehoods (Lin, Hilton &amp; Evans) — https://arxiv.org/abs/2109.07958
+Calibrated Language Models Must Hallucinate (Kalai &amp; Vempala) — https://arxiv.org/abs/2311.14648
+Hallucination is Inevitable (Xu, Jain &amp; Kankanhalli) — https://arxiv.org/abs/2401.11817
+Why Language Models Hallucinate (Kalai, Nachum, Vempala &amp; Zhang) — https://arxiv.org/abs/2509.04664
+Semantic Uncertainty (Kuhn, Gal &amp; Farquhar) — https://arxiv.org/abs/2302.09664
+A Survey on Hallucination in Large Language Models (Huang et al.) — https://arxiv.org/abs/2311.05232</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-14-special-hallucination-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-14-special-hallucination.mp3" length="28999094" type="audio/mpeg"/>
+      <guid isPermaLink="false">5f79d1e6e53c5a56c9c5566518d82ca95cec7ffd</guid>
+      <pubDate>Sun, 14 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>30:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
