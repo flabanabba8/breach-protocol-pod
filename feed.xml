@@ -1578,5 +1578,67 @@ A Survey on Hallucination in Large Language Models (Huang et al.) — https://ar
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Perfect Memory and Its Price — Mamba, the War on Attention, and the Truce</title>
+      <description>A small open model needs over a hundred gigabytes of memory just to HOLD a long conversation — that's the price attention pays for never forgetting. Luna and Vestra trace the war on the transformer: state space models arriving from control theory, Mamba giving the compressed state the power to choose, the copying duel it lost, the eight-billion-parameter audit where a hybrid with a pinch of attention beat the pure transformer everywhere — and the twist: a proof that the rivals were the same mathematical object all along. Wars over architecture end in ratios.
+
+A Breach Protocol deep-dive special — closing with an original song, "The Cup and the River," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:37  Intro
+4:40  The tax: perfect memory and its rent
+6:59  The old signal: S4 and control theory
+10:27 The selection: Mamba
+14:08 The duel: repeat after me
+17:36 The audit: NVIDIA's controlled trial
+20:51 The twist: transformers are SSMs
+24:12 The truce: Jamba and the ratio
+27:19 Wrap-up
+29:33 Outro — "The Cup and the River" (original song)
+
+Papers referenced
+
+Efficiently Modeling Long Sequences with Structured State Spaces (Gu, Goel &amp; Ré) — https://arxiv.org/abs/2111.00396
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Gu &amp; Dao) — https://arxiv.org/abs/2312.00752
+Repeat After Me: Transformers are Better than SSMs at Copying (Jelassi et al.) — https://arxiv.org/abs/2402.01032
+An Empirical Study of Mamba-based Language Models (Waleffe et al.) — https://arxiv.org/abs/2406.07887
+Transformers are SSMs (Dao &amp; Gu) — https://arxiv.org/abs/2405.21060
+Jamba: A Hybrid Transformer-Mamba Language Model (Lieber et al.) — https://arxiv.org/abs/2403.19887</description>
+      <itunes:summary>A small open model needs over a hundred gigabytes of memory just to HOLD a long conversation — that's the price attention pays for never forgetting. Luna and Vestra trace the war on the transformer: state space models arriving from control theory, Mamba giving the compressed state the power to choose, the copying duel it lost, the eight-billion-parameter audit where a hybrid with a pinch of attention beat the pure transformer everywhere — and the twist: a proof that the rivals were the same mathematical object all along. Wars over architecture end in ratios.
+
+A Breach Protocol deep-dive special — closing with an original song, "The Cup and the River," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:37  Intro
+4:40  The tax: perfect memory and its rent
+6:59  The old signal: S4 and control theory
+10:27 The selection: Mamba
+14:08 The duel: repeat after me
+17:36 The audit: NVIDIA's controlled trial
+20:51 The twist: transformers are SSMs
+24:12 The truce: Jamba and the ratio
+27:19 Wrap-up
+29:33 Outro — "The Cup and the River" (original song)
+
+Papers referenced
+
+Efficiently Modeling Long Sequences with Structured State Spaces (Gu, Goel &amp; Ré) — https://arxiv.org/abs/2111.00396
+Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Gu &amp; Dao) — https://arxiv.org/abs/2312.00752
+Repeat After Me: Transformers are Better than SSMs at Copying (Jelassi et al.) — https://arxiv.org/abs/2402.01032
+An Empirical Study of Mamba-based Language Models (Waleffe et al.) — https://arxiv.org/abs/2406.07887
+Transformers are SSMs (Dao &amp; Gu) — https://arxiv.org/abs/2405.21060
+Jamba: A Hybrid Transformer-Mamba Language Model (Lieber et al.) — https://arxiv.org/abs/2403.19887</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-15-special-mamba-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-15-special-mamba.mp3" length="31872590" type="audio/mpeg"/>
+      <guid isPermaLink="false">4bf538c0c063b373b892c70f268ee3474d7b65eb</guid>
+      <pubDate>Mon, 15 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>33:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
