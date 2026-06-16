@@ -1760,5 +1760,55 @@ An Image is Worth 16x16 Words / ViT (Dosovitskiy et al.) — https://arxiv.org/a
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>The Committee in the Machine — How Mixture of Experts Builds Giant Models You Barely Run</title>
+      <description>The biggest AI models are mostly asleep. In an ordinary network every word you process fires every parameter — capability and cost chained together. Mixture of Experts breaks the chain: build a giant committee of expert sub-networks, and a little router wakes only a couple per word. Luna and Vestra trace it from a 2017 paper with the perfect title, "Outrageously Large Neural Networks," through the router's self-destructive habit of playing favorites, the great simplification that rode one-expert-per-word to a trillion parameters, the open model that put it in everyone's hands — and the surprise that the "experts" don't specialize the way the name promises. Plus the hidden bill: it saves compute, but you still have to house the whole sleeping giant.
+
+A Breach Protocol deep-dive special, closing with an original song, "Wake the Ones I Need."
+
+Chapters
+
+0:00  Cold open
+2:33  Intro
+4:15  The committee: conditional computation and the router
+8:13  The simplification: Switch Transformers and top-1 routing
+11:40 Mainstream: Mixtral, and what experts really specialize in
+14:53 The catch: compute saved, memory spent
+17:55 Wrap-up
+19:41 Outro — "Wake the Ones I Need" (original song)
+
+Papers referenced
+
+Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (Shazeer et al.) — https://arxiv.org/abs/1701.06538
+Switch Transformers: Scaling to Trillion Parameter Models (Fedus, Zoph, Shazeer) — https://arxiv.org/abs/2101.03961
+Mixtral of Experts (Jiang et al.) — https://arxiv.org/abs/2401.04088</description>
+      <itunes:summary>The biggest AI models are mostly asleep. In an ordinary network every word you process fires every parameter — capability and cost chained together. Mixture of Experts breaks the chain: build a giant committee of expert sub-networks, and a little router wakes only a couple per word. Luna and Vestra trace it from a 2017 paper with the perfect title, "Outrageously Large Neural Networks," through the router's self-destructive habit of playing favorites, the great simplification that rode one-expert-per-word to a trillion parameters, the open model that put it in everyone's hands — and the surprise that the "experts" don't specialize the way the name promises. Plus the hidden bill: it saves compute, but you still have to house the whole sleeping giant.
+
+A Breach Protocol deep-dive special, closing with an original song, "Wake the Ones I Need."
+
+Chapters
+
+0:00  Cold open
+2:33  Intro
+4:15  The committee: conditional computation and the router
+8:13  The simplification: Switch Transformers and top-1 routing
+11:40 Mainstream: Mixtral, and what experts really specialize in
+14:53 The catch: compute saved, memory spent
+17:55 Wrap-up
+19:41 Outro — "Wake the Ones I Need" (original song)
+
+Papers referenced
+
+Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer (Shazeer et al.) — https://arxiv.org/abs/1701.06538
+Switch Transformers: Scaling to Trillion Parameter Models (Fedus, Zoph, Shazeer) — https://arxiv.org/abs/2101.03961
+Mixtral of Experts (Jiang et al.) — https://arxiv.org/abs/2401.04088</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-18-special-moe-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-18-special-moe.mp3" length="22330422" type="audio/mpeg"/>
+      <guid isPermaLink="false">e3ab44d5130013a0e6a6b8cd343f56334efdcfb7</guid>
+      <pubDate>Thu, 18 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>23:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
