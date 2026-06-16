@@ -1916,5 +1916,57 @@ Emergent World Representations / Othello-GPT (Li et al.) — https://arxiv.org/a
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Built for Explosions — How a Gaming Chip Accidentally Became the Brain of AI</title>
+      <description>The single most important object in AI isn't an algorithm — it's a chip designed to draw video-game explosions faster. Luna and Vestra tell the accidental history: how a graphics card, built for pixels, turned out to be shaped exactly like a neural network's dream, and how that accident decided which ideas in AI won and which died. The bedroom experiment on two gaming cards that lit the fuse in 2012; the 'hardware lottery' that left neural nets in the wilderness for thirty years until the right machine showed up; the memory wall the field is hitting now, where the bottleneck isn't thinking but feeding the chip; and the stakes — an entire civilization's intelligence resting on a supply chain you could photograph from one helicopter. The brain of the future was a byproduct of better video games.
+
+A Breach Protocol deep-dive special, closing with an original song, "Built for Explosions."
+
+Chapters
+
+0:00  Cold open
+2:30  Intro
+4:18  The accident: why a graphics chip fits a neural network
+6:48  The big bang: AlexNet and two gaming cards
+9:09  The lottery: how hardware picks which ideas win
+11:43 The memory wall: FlashAttention and feeding the beast
+14:23 The stakes: concentration, geopolitics, the bitter lesson
+16:53 Wrap-up
+19:05 Outro — "Built for Explosions" (original song)
+
+Papers referenced
+
+ImageNet Classification with Deep Convolutional Neural Networks / AlexNet (Krizhevsky, Sutskever, Hinton) — https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+The Hardware Lottery (Sara Hooker) — https://arxiv.org/abs/2009.06489
+FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (Dao et al.) — https://arxiv.org/abs/2205.14135</description>
+      <itunes:summary>The single most important object in AI isn't an algorithm — it's a chip designed to draw video-game explosions faster. Luna and Vestra tell the accidental history: how a graphics card, built for pixels, turned out to be shaped exactly like a neural network's dream, and how that accident decided which ideas in AI won and which died. The bedroom experiment on two gaming cards that lit the fuse in 2012; the 'hardware lottery' that left neural nets in the wilderness for thirty years until the right machine showed up; the memory wall the field is hitting now, where the bottleneck isn't thinking but feeding the chip; and the stakes — an entire civilization's intelligence resting on a supply chain you could photograph from one helicopter. The brain of the future was a byproduct of better video games.
+
+A Breach Protocol deep-dive special, closing with an original song, "Built for Explosions."
+
+Chapters
+
+0:00  Cold open
+2:30  Intro
+4:18  The accident: why a graphics chip fits a neural network
+6:48  The big bang: AlexNet and two gaming cards
+9:09  The lottery: how hardware picks which ideas win
+11:43 The memory wall: FlashAttention and feeding the beast
+14:23 The stakes: concentration, geopolitics, the bitter lesson
+16:53 Wrap-up
+19:05 Outro — "Built for Explosions" (original song)
+
+Papers referenced
+
+ImageNet Classification with Deep Convolutional Neural Networks / AlexNet (Krizhevsky, Sutskever, Hinton) — https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+The Hardware Lottery (Sara Hooker) — https://arxiv.org/abs/2009.06489
+FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (Dao et al.) — https://arxiv.org/abs/2205.14135</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-21-special-gpu-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-21-special-gpu.mp3" length="20566272" type="audio/mpeg"/>
+      <guid isPermaLink="false">14b865769299f0297adfe7407b49d5651a3c4140</guid>
+      <pubDate>Sun, 21 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>21:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
