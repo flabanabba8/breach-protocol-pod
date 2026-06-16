@@ -1862,5 +1862,59 @@ High-Resolution Image Synthesis with Latent Diffusion Models / Stable Diffusion 
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Do They Understand? — Parrots, World Models, and the Question We Can't Answer</title>
+      <description>It writes the most comforting thing anyone said to you all week — but is anyone home? Luna and Vestra put the oldest question in AI on trial: do these models actually understand, or are they flawless pattern-matchers with nobody inside? The prosecution: a model trained only on form can never reach meaning — the octopus on the undersea cable, fluent and clueless. The defense's flashiest exhibit: abilities that seem to erupt at scale — which then partly collapses when someone shows the eruption was the measuring stick, not the mind. And the exhibit that's hardest to dismiss: a model fed nothing but game moves that secretly built the board in its head, and used it. The verdict isn't tidy — it's a sharper question, and the discipline to tell 'does it model the world' (increasingly yes) from 'is anyone home' (we don't know how to ask).
+
+A Breach Protocol deep-dive special, closing with an original song, "Nobody Home, Maybe."
+
+Chapters
+
+0:00  Cold open
+2:33  Intro
+4:20  The parrot: form vs meaning, and the octopus
+6:43  The phase change: emergent abilities
+8:52  The mirage: emergence as a measurement artifact
+11:27 The board: a model that built a world
+14:22 The verdict: what "understand" really splits into
+16:54 Wrap-up
+18:54 Outro — "Nobody Home, Maybe" (original song)
+
+Papers referenced
+
+Climbing towards NLU: On Meaning, Form, and Understanding (Bender &amp; Koller) — https://aclanthology.org/2020.acl-main.463/
+Emergent Abilities of Large Language Models (Wei et al.) — https://arxiv.org/abs/2206.07682
+Are Emergent Abilities of Large Language Models a Mirage? (Schaeffer et al.) — https://arxiv.org/abs/2304.15004
+Emergent World Representations / Othello-GPT (Li et al.) — https://arxiv.org/abs/2210.13382</description>
+      <itunes:summary>It writes the most comforting thing anyone said to you all week — but is anyone home? Luna and Vestra put the oldest question in AI on trial: do these models actually understand, or are they flawless pattern-matchers with nobody inside? The prosecution: a model trained only on form can never reach meaning — the octopus on the undersea cable, fluent and clueless. The defense's flashiest exhibit: abilities that seem to erupt at scale — which then partly collapses when someone shows the eruption was the measuring stick, not the mind. And the exhibit that's hardest to dismiss: a model fed nothing but game moves that secretly built the board in its head, and used it. The verdict isn't tidy — it's a sharper question, and the discipline to tell 'does it model the world' (increasingly yes) from 'is anyone home' (we don't know how to ask).
+
+A Breach Protocol deep-dive special, closing with an original song, "Nobody Home, Maybe."
+
+Chapters
+
+0:00  Cold open
+2:33  Intro
+4:20  The parrot: form vs meaning, and the octopus
+6:43  The phase change: emergent abilities
+8:52  The mirage: emergence as a measurement artifact
+11:27 The board: a model that built a world
+14:22 The verdict: what "understand" really splits into
+16:54 Wrap-up
+18:54 Outro — "Nobody Home, Maybe" (original song)
+
+Papers referenced
+
+Climbing towards NLU: On Meaning, Form, and Understanding (Bender &amp; Koller) — https://aclanthology.org/2020.acl-main.463/
+Emergent Abilities of Large Language Models (Wei et al.) — https://arxiv.org/abs/2206.07682
+Are Emergent Abilities of Large Language Models a Mirage? (Schaeffer et al.) — https://arxiv.org/abs/2304.15004
+Emergent World Representations / Othello-GPT (Li et al.) — https://arxiv.org/abs/2210.13382</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-20-special-understanding-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-20-special-understanding.mp3" length="21394661" type="audio/mpeg"/>
+      <guid isPermaLink="false">62adfb9388715f065f02d9d4131d4d1a2e0b317c</guid>
+      <pubDate>Sat, 20 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>22:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
