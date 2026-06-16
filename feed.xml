@@ -1706,5 +1706,59 @@ Open Problems and Fundamental Limitations of RLHF (Casper et al.) — https://ar
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>The Architecture That Ate AI — How Attention Became Everything</title>
+      <description>In 2017, eight researchers replaced the slow, forgetful way machines read text — one word at a time — with a single idea: let every word look at every other word at once. Luna and Vestra crack open the Transformer, the architecture under essentially every model this show has ever covered. The library-lookup hiding inside every word; the split into a reading half (BERT) and a writing half (GPT, where sheer scale unlocked learning straight from the prompt); the day someone fed it images cut into little squares and it learned to see; and the one expensive habit — attention's quadratic cost — that launched a whole counter-revolution. One small block, stacked and scaled, became the substrate of modern AI.
+
+A Breach Protocol deep-dive special, closing with an original song, "Every Word at Once."
+
+Chapters
+
+0:00  Cold open
+2:36  Intro
+4:09  The idea: attention, a lookup inside every word
+7:58  Reading: BERT and understanding both directions
+11:00 Writing: GPT, scale, and learning from the prompt
+14:19 Seeing: the Vision Transformer
+17:44 The cost: attention's quadratic tax
+20:36 Wrap-up
+22:32 Outro — "Every Word at Once" (original song)
+
+Papers referenced
+
+Attention Is All You Need (Vaswani et al.) — https://arxiv.org/abs/1706.03762
+BERT: Pre-training of Deep Bidirectional Transformers (Devlin et al.) — https://arxiv.org/abs/1810.04805
+Language Models are Few-Shot Learners / GPT-3 (Brown et al.) — https://arxiv.org/abs/2005.14165
+An Image is Worth 16x16 Words / ViT (Dosovitskiy et al.) — https://arxiv.org/abs/2010.11929</description>
+      <itunes:summary>In 2017, eight researchers replaced the slow, forgetful way machines read text — one word at a time — with a single idea: let every word look at every other word at once. Luna and Vestra crack open the Transformer, the architecture under essentially every model this show has ever covered. The library-lookup hiding inside every word; the split into a reading half (BERT) and a writing half (GPT, where sheer scale unlocked learning straight from the prompt); the day someone fed it images cut into little squares and it learned to see; and the one expensive habit — attention's quadratic cost — that launched a whole counter-revolution. One small block, stacked and scaled, became the substrate of modern AI.
+
+A Breach Protocol deep-dive special, closing with an original song, "Every Word at Once."
+
+Chapters
+
+0:00  Cold open
+2:36  Intro
+4:09  The idea: attention, a lookup inside every word
+7:58  Reading: BERT and understanding both directions
+11:00 Writing: GPT, scale, and learning from the prompt
+14:19 Seeing: the Vision Transformer
+17:44 The cost: attention's quadratic tax
+20:36 Wrap-up
+22:32 Outro — "Every Word at Once" (original song)
+
+Papers referenced
+
+Attention Is All You Need (Vaswani et al.) — https://arxiv.org/abs/1706.03762
+BERT: Pre-training of Deep Bidirectional Transformers (Devlin et al.) — https://arxiv.org/abs/1810.04805
+Language Models are Few-Shot Learners / GPT-3 (Brown et al.) — https://arxiv.org/abs/2005.14165
+An Image is Worth 16x16 Words / ViT (Dosovitskiy et al.) — https://arxiv.org/abs/2010.11929</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-17-special-transformer-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-17-special-transformer.mp3" length="25283334" type="audio/mpeg"/>
+      <guid isPermaLink="false">449c4b571e890687d0e4a58c02128fd958863fb3</guid>
+      <pubDate>Wed, 17 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
