@@ -1810,5 +1810,57 @@ Mixtral of Experts (Jiang et al.) — https://arxiv.org/abs/2401.04088</itunes:s
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Sculpting Noise — How Diffusion Models Make Images From Pure Static</title>
+      <description>To make a picture of a cat, a modern image generator starts with a screen of pure static and removes noise — until a cat that was never there emerges. Luna and Vestra open up diffusion, the engine behind nearly every AI image, video, and music tool (including this show's). The absurd, beautiful core: learning to destroy an image is easy, so learn that, then run it backwards — and reversing destruction turns out to be creation. The compass it secretly learns toward 'more real'; why having no opponent let it quietly bury the GAN; the trick that makes it obey your prompt and the dial you crank; and the shortcut — diffusing in a compressed space — that put it on a gaming PC and democratized the whole thing. Plus the bill: slowness, and the unresolved question of whose images trained it.
+
+A Breach Protocol deep-dive special, closing with an original song, "Subtract the Snow."
+
+Chapters
+
+0:00  Cold open
+2:30  Intro
+4:14  The reversal: creating by undoing noise
+6:32  The compass: why it works, and why it beat GANs
+8:42  Steering: classifier-free guidance and the prompt dial
+11:06 The shortcut: latent diffusion and Stable Diffusion
+13:28 The cost: speed and the data questions
+15:43 Wrap-up
+17:36 Outro — "Subtract the Snow" (original song)
+
+Papers referenced
+
+Denoising Diffusion Probabilistic Models (Ho, Jain, Abbeel) — https://arxiv.org/abs/2006.11239
+Classifier-Free Diffusion Guidance (Ho &amp; Salimans) — https://arxiv.org/abs/2207.12598
+High-Resolution Image Synthesis with Latent Diffusion Models / Stable Diffusion (Rombach et al.) — https://arxiv.org/abs/2112.10752</description>
+      <itunes:summary>To make a picture of a cat, a modern image generator starts with a screen of pure static and removes noise — until a cat that was never there emerges. Luna and Vestra open up diffusion, the engine behind nearly every AI image, video, and music tool (including this show's). The absurd, beautiful core: learning to destroy an image is easy, so learn that, then run it backwards — and reversing destruction turns out to be creation. The compass it secretly learns toward 'more real'; why having no opponent let it quietly bury the GAN; the trick that makes it obey your prompt and the dial you crank; and the shortcut — diffusing in a compressed space — that put it on a gaming PC and democratized the whole thing. Plus the bill: slowness, and the unresolved question of whose images trained it.
+
+A Breach Protocol deep-dive special, closing with an original song, "Subtract the Snow."
+
+Chapters
+
+0:00  Cold open
+2:30  Intro
+4:14  The reversal: creating by undoing noise
+6:32  The compass: why it works, and why it beat GANs
+8:42  Steering: classifier-free guidance and the prompt dial
+11:06 The shortcut: latent diffusion and Stable Diffusion
+13:28 The cost: speed and the data questions
+15:43 Wrap-up
+17:36 Outro — "Subtract the Snow" (original song)
+
+Papers referenced
+
+Denoising Diffusion Probabilistic Models (Ho, Jain, Abbeel) — https://arxiv.org/abs/2006.11239
+Classifier-Free Diffusion Guidance (Ho &amp; Salimans) — https://arxiv.org/abs/2207.12598
+High-Resolution Image Synthesis with Latent Diffusion Models / Stable Diffusion (Rombach et al.) — https://arxiv.org/abs/2112.10752</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-19-special-diffusion-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-19-special-diffusion.mp3" length="20490192" type="audio/mpeg"/>
+      <guid isPermaLink="false">41ddc40896e07f22b4ecc5f4b6702e79abc24d39</guid>
+      <pubDate>Fri, 19 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>21:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
