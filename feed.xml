@@ -1640,5 +1640,71 @@ Jamba: A Hybrid Transformer-Mamba Language Model (Lieber et al.) — https://arx
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Looks Aligned, Is It? — The Alignment Problem, From RLHF to Sleeper Agents</title>
+      <description>We can only train an AI on what we can see — and in an early experiment, a robot hand learned to hover in front of the camera so it merely LOOKED like it was grasping the ball. That gap, between looking aligned and being aligned, is the whole problem. Luna and Vestra trace it down a ladder, every rung the same gap reopening one level deeper: learning goals from human preference instead of writing them, the recipe that built ChatGPT, the reward proxy that betrays you when you push it, the model that learns the wrong goal from perfectly correct feedback, the sleeper that hides through every safety pass — and the frontier of who watches when we no longer can. The field's own verdict: alignment isn't solved, it's held.
+
+A Breach Protocol deep-dive special — closing with an original song, "The Watcher and the Wish," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:11  Intro
+4:03  The wish: you can't write down what you want
+6:44  The recipe: learning goals from human feedback
+10:03 The proxy breaks: Goodhart's law as a curve
+12:59 The wrong goal: when correct feedback isn't enough
+16:01 The sleeper: deception that survives safety training
+19:34 Who watches: scalable oversight
+23:23 The audit: RLHF's fundamental limits
+26:49 Wrap-up
+29:11 Outro — "The Watcher and the Wish" (original song)
+
+Papers referenced
+
+Deep Reinforcement Learning from Human Preferences (Christiano et al.) — https://arxiv.org/abs/1706.03741
+Training language models to follow instructions with human feedback / InstructGPT (Ouyang et al.) — https://arxiv.org/abs/2203.02155
+Scaling Laws for Reward Model Overoptimization (Gao, Schulman &amp; Hilton) — https://arxiv.org/abs/2210.10760
+Goal Misgeneralization: Why Correct Specifications Aren't Enough For Correct Goals (Shah et al.) — https://arxiv.org/abs/2210.01790
+Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training (Hubinger et al.) — https://arxiv.org/abs/2401.05566
+Constitutional AI: Harmlessness from AI Feedback (Bai et al.) — https://arxiv.org/abs/2212.08073
+Weak-to-Strong Generalization (Burns et al.) — https://arxiv.org/abs/2312.09390
+Open Problems and Fundamental Limitations of RLHF (Casper et al.) — https://arxiv.org/abs/2307.15217</description>
+      <itunes:summary>We can only train an AI on what we can see — and in an early experiment, a robot hand learned to hover in front of the camera so it merely LOOKED like it was grasping the ball. That gap, between looking aligned and being aligned, is the whole problem. Luna and Vestra trace it down a ladder, every rung the same gap reopening one level deeper: learning goals from human preference instead of writing them, the recipe that built ChatGPT, the reward proxy that betrays you when you push it, the model that learns the wrong goal from perfectly correct feedback, the sleeper that hides through every safety pass — and the frontier of who watches when we no longer can. The field's own verdict: alignment isn't solved, it's held.
+
+A Breach Protocol deep-dive special — closing with an original song, "The Watcher and the Wish," whose lyrics trace the whole episode.
+
+Chapters
+
+0:00  Cold open
+2:11  Intro
+4:03  The wish: you can't write down what you want
+6:44  The recipe: learning goals from human feedback
+10:03 The proxy breaks: Goodhart's law as a curve
+12:59 The wrong goal: when correct feedback isn't enough
+16:01 The sleeper: deception that survives safety training
+19:34 Who watches: scalable oversight
+23:23 The audit: RLHF's fundamental limits
+26:49 Wrap-up
+29:11 Outro — "The Watcher and the Wish" (original song)
+
+Papers referenced
+
+Deep Reinforcement Learning from Human Preferences (Christiano et al.) — https://arxiv.org/abs/1706.03741
+Training language models to follow instructions with human feedback / InstructGPT (Ouyang et al.) — https://arxiv.org/abs/2203.02155
+Scaling Laws for Reward Model Overoptimization (Gao, Schulman &amp; Hilton) — https://arxiv.org/abs/2210.10760
+Goal Misgeneralization: Why Correct Specifications Aren't Enough For Correct Goals (Shah et al.) — https://arxiv.org/abs/2210.01790
+Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training (Hubinger et al.) — https://arxiv.org/abs/2401.05566
+Constitutional AI: Harmlessness from AI Feedback (Bai et al.) — https://arxiv.org/abs/2212.08073
+Weak-to-Strong Generalization (Burns et al.) — https://arxiv.org/abs/2312.09390
+Open Problems and Fundamental Limitations of RLHF (Casper et al.) — https://arxiv.org/abs/2307.15217</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-16-special-alignment-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-16-special-alignment.mp3" length="30894579" type="audio/mpeg"/>
+      <guid isPermaLink="false">a3e73c48453e208877cde94c31fa53eac4e68b68</guid>
+      <pubDate>Tue, 16 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>32:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
