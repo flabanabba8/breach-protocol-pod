@@ -1968,5 +1968,55 @@ FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (Dao
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>The Room Still Resets — Object Permanence in AI World Models, Revisited</title>
+      <description>We keep circling one stubborn problem: today's AI "world models" render a flawless tracking shot, then forget the scene the moment it leaves the frame. We've been here before — the ball that rolls behind a box, the question of whether generating a world means understanding one. This time three new papers sharpen the picture. The first turns the hunch into a measurement: a camera-as-curtain test across dozens of the best video models, which finds they resume an off-screen event exactly where it was abandoned — the cat that should be mid-jump is still on the floor. It also lands an uncomfortable result — scaling the model up makes off-screen memory worse, not better, because nobody scores it so nobody trains it; the bigger model just redraws the wrong world more convincingly. The other two papers aren't cures, they're different bets worth understanding: making a model think harder by running one layer in a loop instead of growing it, and skipping the imagined video entirely by reading a robot's next move out of an image editor. No tidy fix — a clearer map of what's broken and a couple of directions people are trying. The milestone to watch isn't sharper video. It's memory: whether the cat is on the bed when you turn back around.
+
+A Breach Protocol deep-dive special, closing with an original song, "When You Look Away."
+
+Chapters
+
+0:00  Cold open
+2:00  Intro
+3:17  A tracking shot, not a world
+5:36  Bigger makes it worse
+8:17  Think harder, not bigger
+11:03 You don't have to render the future
+13:36 Wrap-up
+15:33 Outro — "When You Look Away" (original song)
+
+Papers referenced
+
+Current World Models Lack a Persistent State Core — https://arxiv.org/abs/2606.20545
+Looped World Models — https://arxiv.org/abs/2606.18208
+ImageWAM — https://arxiv.org/abs/2606.19531</description>
+      <itunes:summary>We keep circling one stubborn problem: today's AI "world models" render a flawless tracking shot, then forget the scene the moment it leaves the frame. We've been here before — the ball that rolls behind a box, the question of whether generating a world means understanding one. This time three new papers sharpen the picture. The first turns the hunch into a measurement: a camera-as-curtain test across dozens of the best video models, which finds they resume an off-screen event exactly where it was abandoned — the cat that should be mid-jump is still on the floor. It also lands an uncomfortable result — scaling the model up makes off-screen memory worse, not better, because nobody scores it so nobody trains it; the bigger model just redraws the wrong world more convincingly. The other two papers aren't cures, they're different bets worth understanding: making a model think harder by running one layer in a loop instead of growing it, and skipping the imagined video entirely by reading a robot's next move out of an image editor. No tidy fix — a clearer map of what's broken and a couple of directions people are trying. The milestone to watch isn't sharper video. It's memory: whether the cat is on the bed when you turn back around.
+
+A Breach Protocol deep-dive special, closing with an original song, "When You Look Away."
+
+Chapters
+
+0:00  Cold open
+2:00  Intro
+3:17  A tracking shot, not a world
+5:36  Bigger makes it worse
+8:17  Think harder, not bigger
+11:03 You don't have to render the future
+13:36 Wrap-up
+15:33 Outro — "When You Look Away" (original song)
+
+Papers referenced
+
+Current World Models Lack a Persistent State Core — https://arxiv.org/abs/2606.20545
+Looped World Models — https://arxiv.org/abs/2606.18208
+ImageWAM — https://arxiv.org/abs/2606.19531</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-22-special-world-memory-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-22-special-world-memory.mp3" length="19712382" type="audio/mpeg"/>
+      <guid isPermaLink="false">7268e6bf918ae6de859c5dac31ea1c396a9a2786</guid>
+      <pubDate>Mon, 22 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>20:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
