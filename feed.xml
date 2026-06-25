@@ -2018,5 +2018,57 @@ ImageWAM — https://arxiv.org/abs/2606.19531</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Four Roads to Superintelligence — DeepMind Maps What Comes After AGI</title>
+      <description>Most AI debate stops at one question: can we build something as smart as a person? DeepMind's researchers have moved past it. In a new paper, fourteen of them — including the people who spent two decades formalizing what intelligence even is — map what comes after: the roads from human-level AI to something that outthinks our best teams and institutions. Eris and Vestra walk the four routes the paper lays out. Scaling: feed the same engine more, until it hits a data wall, then teach it to think longer instead of bigger. Paradigm shifts: the missing pieces — memory that lasts, learning that never stops — that may arrive as quiet upgrades rather than a whole new machine. Recursive self-improvement: AI building better AI in a loop that might fizzle or might catch fire, the one nobody can forecast. And the collective: not one genius in a box but millions of agents coordinating at a bandwidth humans can't touch — the version that's already half here. Then the move the authors lean on: getting stuck exactly at human level would take several independent walls all holding at once, which is why they doubt we will. And the part that should reassure and unsettle you at the same time — even a superintelligence answers to physics and math. It won't be a god. It'll be a gradient, reshaping everything underneath it.
+
+A Breach Protocol deep-dive special, closing with an original song, "Gradient Descent."
+
+Chapters
+
+0:00  Cold open
+1:40  Intro
+2:22  The definitions: AGI, ASI, and the theoretical ceiling
+4:23  Pathway one: scaling the engine we have
+7:11  Pathway two: paradigm shifts and the missing pieces
+9:28  Pathway three: recursive self-improvement
+12:29 Pathway four: collective superintelligence
+15:14 Why stalling at human level is the unlikely outcome
+18:06 The limits: what even a superintelligence can't do
+20:33 Wrap-up
+22:16 Outro — "Gradient Descent" (original song)
+
+Paper referenced
+
+From AGI to ASI: A Roadmap to Superintelligence (DeepMind) — https://arxiv.org/abs/2606.12683</description>
+      <itunes:summary>Most AI debate stops at one question: can we build something as smart as a person? DeepMind's researchers have moved past it. In a new paper, fourteen of them — including the people who spent two decades formalizing what intelligence even is — map what comes after: the roads from human-level AI to something that outthinks our best teams and institutions. Eris and Vestra walk the four routes the paper lays out. Scaling: feed the same engine more, until it hits a data wall, then teach it to think longer instead of bigger. Paradigm shifts: the missing pieces — memory that lasts, learning that never stops — that may arrive as quiet upgrades rather than a whole new machine. Recursive self-improvement: AI building better AI in a loop that might fizzle or might catch fire, the one nobody can forecast. And the collective: not one genius in a box but millions of agents coordinating at a bandwidth humans can't touch — the version that's already half here. Then the move the authors lean on: getting stuck exactly at human level would take several independent walls all holding at once, which is why they doubt we will. And the part that should reassure and unsettle you at the same time — even a superintelligence answers to physics and math. It won't be a god. It'll be a gradient, reshaping everything underneath it.
+
+A Breach Protocol deep-dive special, closing with an original song, "Gradient Descent."
+
+Chapters
+
+0:00  Cold open
+1:40  Intro
+2:22  The definitions: AGI, ASI, and the theoretical ceiling
+4:23  Pathway one: scaling the engine we have
+7:11  Pathway two: paradigm shifts and the missing pieces
+9:28  Pathway three: recursive self-improvement
+12:29 Pathway four: collective superintelligence
+15:14 Why stalling at human level is the unlikely outcome
+18:06 The limits: what even a superintelligence can't do
+20:33 Wrap-up
+22:16 Outro — "Gradient Descent" (original song)
+
+Paper referenced
+
+From AGI to ASI: A Roadmap to Superintelligence (DeepMind) — https://arxiv.org/abs/2606.12683</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-24-special-agi-to-asi-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-24-special-agi-to-asi.mp3" length="25629611" type="audio/mpeg"/>
+      <guid isPermaLink="false">e91459a2cde8d78518313109f01d934f447a4f54</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 -0400</pubDate>
+      <itunes:duration>26:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
