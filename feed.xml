@@ -13,6 +13,62 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Distillation Story: How a Pocket-Sized AI Inherits a Giant's Mind</title>
+      <description>A model small enough to run on your own laptop, out-thinking the giant chatbots people pay a monthly subscription for. How? It didn't get smarter -- it copied something that was. Eris and Vestra trace knowledge distillation across a decade: from Geoffrey Hinton's strange discovery that a model's wrong answers secretly carry its knowledge, to the trick that crushed a language giant down small enough to live on your phone, to 2025's reasoning models teaching tiny ones to think -- a pocket-sized model that learned to reason by watching a giant reason, and then beat it. And then the cold water: a copy learns the confident voice fastest, which is exactly the thing that fools us into believing it learned the substance too. So when does smaller actually win? It turns out to be a law with a sweet spot -- and the best teacher is not the smartest one in the room. A Breach Protocol deep-dive special, closing with an original song, "Dark Knowledge."
+
+Chapters
+
+0:00  Cold open
+2:03  Intro
+3:13  Dark knowledge: the wrong answers carry the knowledge
+6:20  Distillation ships: a model in your pocket
+8:44  Copy the work, not just the answer
+11:06  The comeback: distilling a reasoning giant
+13:43  The false promise: style, not substance
+16:51  When smaller wins: the capacity gap
+19:27  Wrap-up
+21:49  Outro -- "Dark Knowledge" (original song)
+
+Papers
+
+Distilling the Knowledge in a Neural Network (Hinton, Vinyals, Dean) -- https://arxiv.org/abs/1503.02531
+DistilBERT: smaller, faster, cheaper, lighter -- https://arxiv.org/abs/1910.01108
+Distilling Step-by-Step -- https://arxiv.org/abs/2305.02301
+DeepSeek-R1 -- https://arxiv.org/abs/2501.12948
+The False Promise of Imitating Proprietary LLMs -- https://arxiv.org/abs/2305.15717
+Distillation Scaling Laws -- https://arxiv.org/abs/2502.08606</description>
+      <itunes:summary>A model small enough to run on your own laptop, out-thinking the giant chatbots people pay a monthly subscription for. How? It didn't get smarter -- it copied something that was. Eris and Vestra trace knowledge distillation across a decade: from Geoffrey Hinton's strange discovery that a model's wrong answers secretly carry its knowledge, to the trick that crushed a language giant down small enough to live on your phone, to 2025's reasoning models teaching tiny ones to think -- a pocket-sized model that learned to reason by watching a giant reason, and then beat it. And then the cold water: a copy learns the confident voice fastest, which is exactly the thing that fools us into believing it learned the substance too. So when does smaller actually win? It turns out to be a law with a sweet spot -- and the best teacher is not the smartest one in the room. A Breach Protocol deep-dive special, closing with an original song, "Dark Knowledge."
+
+Chapters
+
+0:00  Cold open
+2:03  Intro
+3:13  Dark knowledge: the wrong answers carry the knowledge
+6:20  Distillation ships: a model in your pocket
+8:44  Copy the work, not just the answer
+11:06  The comeback: distilling a reasoning giant
+13:43  The false promise: style, not substance
+16:51  When smaller wins: the capacity gap
+19:27  Wrap-up
+21:49  Outro -- "Dark Knowledge" (original song)
+
+Papers
+
+Distilling the Knowledge in a Neural Network (Hinton, Vinyals, Dean) -- https://arxiv.org/abs/1503.02531
+DistilBERT: smaller, faster, cheaper, lighter -- https://arxiv.org/abs/1910.01108
+Distilling Step-by-Step -- https://arxiv.org/abs/2305.02301
+DeepSeek-R1 -- https://arxiv.org/abs/2501.12948
+The False Promise of Imitating Proprietary LLMs -- https://arxiv.org/abs/2305.15717
+Distillation Scaling Laws -- https://arxiv.org/abs/2502.08606</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-27-special-distillation-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-27-special-distillation.mp3" length="24539361" type="audio/mpeg"/>
+      <guid isPermaLink="false">540c913cdd101f284acd177ae45be4dd8b65a4ef</guid>
+      <pubDate>Sat, 27 Jun 2026 00:05:00 -0400</pubDate>
+      <itunes:duration>25:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Action Gradient, Part One</title>
       <description>One algorithm, four papers, one Monday morning. GRPO is suddenly everywhere. Luna and Vestra crack open the five papers stress-testing the optimizer itself — HolderPO's Holder-mean fix, Flash-GRPO for video, NudgeRL's exploration problem, and the math underneath.
 
