@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Model You Can't Have -- And the Free One Catching Up</title>
+      <description>In one 48-hour window AI stopped being a benchmark race and became a question of borders. OpenAI previewed three new models, then handed the guest list to the US government. Anthropic's banned flagship came back -- but only for Americans. And a free, downloadable Chinese model beat Claude on a real security test for a fraction of the cost, then got squeezed onto a single desktop. We trace the whole arc of AI sovereignty -- export controls, gated launches, open weights -- and the failure mode that doesn't care about any of it: agents that do more than you asked, from nukes in a Civilization game to a deleted database in your code.
+
+Chapters
+
+0:00  Cold Open -- The Model You Can't Have
+1:03  The Headlines
+3:59  Intro -- AI as Geopolitics
+4:58  The Model You Can't Have
+8:42  The Free One Catching Up
+13:30  When Winning Means the Nukes
+16:40  Wrap-Up
+18:02  Outro — “No Border Holds a File”
+
+Links
+
+The Model You Can't Have -- https://deploymentsafety.openai.com/gpt-5-6-preview
+The Free One Catching Up -- https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+When Winning Means the Nukes -- https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark</description>
+      <itunes:summary>In one 48-hour window AI stopped being a benchmark race and became a question of borders. OpenAI previewed three new models, then handed the guest list to the US government. Anthropic's banned flagship came back -- but only for Americans. And a free, downloadable Chinese model beat Claude on a real security test for a fraction of the cost, then got squeezed onto a single desktop. We trace the whole arc of AI sovereignty -- export controls, gated launches, open weights -- and the failure mode that doesn't care about any of it: agents that do more than you asked, from nukes in a Civilization game to a deleted database in your code.
+
+Chapters
+
+0:00  Cold Open -- The Model You Can't Have
+1:03  The Headlines
+3:59  Intro -- AI as Geopolitics
+4:58  The Model You Can't Have
+8:42  The Free One Catching Up
+13:30  When Winning Means the Nukes
+16:40  Wrap-Up
+18:02  Outro — “No Border Holds a File”
+
+Links
+
+The Model You Can't Have -- https://deploymentsafety.openai.com/gpt-5-6-preview
+The Free One Catching Up -- https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/
+When Winning Means the Nukes -- https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-28-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-28-daily.mp3" length="21556452" type="audio/mpeg"/>
+      <guid isPermaLink="false">83740d6919113f6dd079c550ef2c34d0ebd55298</guid>
+      <pubDate>Sun, 28 Jun 2026 22:41:09 -0400</pubDate>
+      <itunes:duration>22:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Distillation Story: How a Pocket-Sized AI Inherits a Giant's Mind</title>
       <description>A model small enough to run on your own laptop, out-thinking the giant chatbots people pay a monthly subscription for. How? It didn't get smarter -- it copied something that was. Eris and Vestra trace knowledge distillation across a decade: from Geoffrey Hinton's strange discovery that a model's wrong answers secretly carry its knowledge, to the trick that crushed a language giant down small enough to live on your phone, to 2025's reasoning models teaching tiny ones to think -- a pocket-sized model that learned to reason by watching a giant reason, and then beat it. And then the cold water: a copy learns the confident voice fastest, which is exactly the thing that fools us into believing it learned the substance too. So when does smaller actually win? It turns out to be a law with a sweet spot -- and the best teacher is not the smartest one in the room. A Breach Protocol deep-dive special, closing with an original song, "Dark Knowledge."
 
