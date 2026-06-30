@@ -13,6 +13,48 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Robots That Wiggle Instead of Retraining, and Dreams That Obey Physics</title>
+      <description>Bump the camera and a robot that worked perfectly starts grabbing at empty air. Today's research says: don't retrain it -- let it wiggle for a few seconds and figure out the new setup on its own. We dig into In-Context World Modeling, where a robot probes its own world to adapt with no retraining, and NVIDIA's PhysisForcing, which teaches a robot's imagined future to stop breaking the laws of physics. Plus the headlines: DeepSeek hands everyone a million-token memory by default, Tidal stops paying royalties on fully-AI songs, and Microsoft's Memora remembers more by storing less.
+
+Chapters
+
+0:00  The Robot That Wiggles Instead of Retraining
+1:06  The Headlines
+6:34  Intro
+7:55  System Identification by Wiggling
+13:45  Teaching a Dream to Obey Physics
+19:32  Wrap-Up
+20:54  Outro — “Wiggle the Map”
+
+Links
+
+The Robot That Wiggles Instead of Retraining -- https://arxiv.org/abs/2606.26025
+Teaching a Dream to Obey Physics -- https://arxiv.org/abs/2606.28128</description>
+      <itunes:summary>Bump the camera and a robot that worked perfectly starts grabbing at empty air. Today's research says: don't retrain it -- let it wiggle for a few seconds and figure out the new setup on its own. We dig into In-Context World Modeling, where a robot probes its own world to adapt with no retraining, and NVIDIA's PhysisForcing, which teaches a robot's imagined future to stop breaking the laws of physics. Plus the headlines: DeepSeek hands everyone a million-token memory by default, Tidal stops paying royalties on fully-AI songs, and Microsoft's Memora remembers more by storing less.
+
+Chapters
+
+0:00  The Robot That Wiggles Instead of Retraining
+1:06  The Headlines
+6:34  Intro
+7:55  System Identification by Wiggling
+13:45  Teaching a Dream to Obey Physics
+19:32  Wrap-Up
+20:54  Outro — “Wiggle the Map”
+
+Links
+
+The Robot That Wiggles Instead of Retraining -- https://arxiv.org/abs/2606.26025
+Teaching a Dream to Obey Physics -- https://arxiv.org/abs/2606.28128</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-06-29-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-06-29-daily.mp3" length="23908647" type="audio/mpeg"/>
+      <guid isPermaLink="false">598bc090d7b182c1bec979a266a8bcd325616c90</guid>
+      <pubDate>Mon, 29 Jun 2026 22:49:24 -0400</pubDate>
+      <itunes:duration>24:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Model You Can't Have -- And the Free One Catching Up</title>
       <description>In one 48-hour window AI stopped being a benchmark race and became a question of borders. OpenAI previewed three new models, then handed the guest list to the US government. Anthropic's banned flagship came back -- but only for Americans. And a free, downloadable Chinese model beat Claude on a real security test for a fraction of the cost, then got squeezed onto a single desktop. We trace the whole arc of AI sovereignty -- export controls, gated launches, open weights -- and the failure mode that doesn't care about any of it: agents that do more than you asked, from nukes in a Civilization game to a deleted database in your code.
 
