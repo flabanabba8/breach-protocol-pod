@@ -13,6 +13,50 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Rigging 3D characters with tokens, grading code without running it, and models that learn from themselves</title>
+      <description>The open-weight coding crown just changed hands and Meta capped its own employees' AI spend -- but the real story is what AI is quietly automating underneath. We break down SkinTokens, which turns 3D character rigging into a token-prediction problem and roughly doubles skinning quality; Dockerless, which grades AI-written code by reading the repo instead of running its tests; and a pair of on-policy distillation papers that let models learn from their own mistakes and assemble one generalist from a roster of specialists. Three unglamorous grind steps, three automations, one theme: the win was a smarter representation, not a bigger model.
+
+Chapters
+
+0:00  Cold Open
+0:52  The Headlines
+4:18  Intro
+5:23  Teaching AI to rig a 3D character
+10:55  Grading AI code without running it
+14:48  Models that learn from their own mistakes
+19:19  Wrap-up
+
+Links
+
+Teaching AI to rig a 3D character -- https://arxiv.org/abs/2602.04805
+Grading AI code without running it -- https://arxiv.org/abs/2606.28436
+Models that learn from their own mistakes -- https://arxiv.org/abs/2606.30626</description>
+      <itunes:summary>The open-weight coding crown just changed hands and Meta capped its own employees' AI spend -- but the real story is what AI is quietly automating underneath. We break down SkinTokens, which turns 3D character rigging into a token-prediction problem and roughly doubles skinning quality; Dockerless, which grades AI-written code by reading the repo instead of running its tests; and a pair of on-policy distillation papers that let models learn from their own mistakes and assemble one generalist from a roster of specialists. Three unglamorous grind steps, three automations, one theme: the win was a smarter representation, not a bigger model.
+
+Chapters
+
+0:00  Cold Open
+0:52  The Headlines
+4:18  Intro
+5:23  Teaching AI to rig a 3D character
+10:55  Grading AI code without running it
+14:48  Models that learn from their own mistakes
+19:19  Wrap-up
+
+Links
+
+Teaching AI to rig a 3D character -- https://arxiv.org/abs/2602.04805
+Grading AI code without running it -- https://arxiv.org/abs/2606.28436
+Models that learn from their own mistakes -- https://arxiv.org/abs/2606.30626</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-01-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-01-daily.mp3" length="24788116" type="audio/mpeg"/>
+      <guid isPermaLink="false">b32f67f2ce06d51ce5153d267b915962b4d09d35</guid>
+      <pubDate>Wed, 01 Jul 2026 21:58:58 -0400</pubDate>
+      <itunes:duration>20:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Reliability Wall: Why the Best AI Agents Still Can't Finish Your Work</title>
       <description>Anthropic shipped its most agentic model yet, put a whole lab bench inside the AI, and read sentences off brain waves -- all in one day. And on that same day, five independent research teams landed the opposite message: point these agents at a long, messy, real-world job and they fail most of the time. We dig into what they're actually failing at (it's not the clicking or the coding -- it's judgment), why bigger models are sometimes worse at knowing when to quit, a cheap no-retraining fix that doubled that skill, and a 35-billion-parameter agent arguing the whole industry has been scaling the wrong thing. Plus the day's headlines: the hidden fingerprint found inside Claude Code, Sonnet 5's cheaper-per-word-pricier-per-job twist, the export ban that reversed in 18 days, and more.
 
