@@ -13,6 +13,46 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Robot That Forgot What's Alive: How Specialization Silently Erases AI's Common Sense</title>
+      <description>Turn a worldly AI into a robot and it aces color-matching but flunks 'is this alive?' -- knowledge its original model had cold. A new test proves fine-tuning silently strips most of a model's common sense, and standard robot benchmarks would never catch it. We trace the same trap into coding agents, then dig into the fix two unconnected teams landed on the same week: stop cramming everything into one specialized model, and hang an evolving, readable library of skills off the side instead. Plus the day's headlines -- China's top open-weight model, the $10,000 MacBook AI tax, Fable 5's return, and coding agents that pass the test while the feature is dead.
+
+Chapters
+
+0:00  The Robot That Forgot What's Alive
+0:53  The Headlines
+5:21  Intro
+6:31  The Robot That Forgot the Basics
+13:10  The Fix Nobody Coordinated On
+19:56  Wrap-Up
+
+Links
+
+The Robot That Forgot What's Alive -- https://arxiv.org/abs/2606.19297
+The Fix Nobody Coordinated On -- https://arxiv.org/abs/2607.00272</description>
+      <itunes:summary>Turn a worldly AI into a robot and it aces color-matching but flunks 'is this alive?' -- knowledge its original model had cold. A new test proves fine-tuning silently strips most of a model's common sense, and standard robot benchmarks would never catch it. We trace the same trap into coding agents, then dig into the fix two unconnected teams landed on the same week: stop cramming everything into one specialized model, and hang an evolving, readable library of skills off the side instead. Plus the day's headlines -- China's top open-weight model, the $10,000 MacBook AI tax, Fable 5's return, and coding agents that pass the test while the feature is dead.
+
+Chapters
+
+0:00  The Robot That Forgot What's Alive
+0:53  The Headlines
+5:21  Intro
+6:31  The Robot That Forgot the Basics
+13:10  The Fix Nobody Coordinated On
+19:56  Wrap-Up
+
+Links
+
+The Robot That Forgot What's Alive -- https://arxiv.org/abs/2606.19297
+The Fix Nobody Coordinated On -- https://arxiv.org/abs/2607.00272</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-02-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-02-daily.mp3" length="25990726" type="audio/mpeg"/>
+      <guid isPermaLink="false">e7b16fd102429872ab006f405e167d335aa8cee6</guid>
+      <pubDate>Thu, 02 Jul 2026 23:12:22 -0400</pubDate>
+      <itunes:duration>21:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Rigging 3D characters with tokens, grading code without running it, and models that learn from themselves</title>
       <description>The open-weight coding crown just changed hands and Meta capped its own employees' AI spend -- but the real story is what AI is quietly automating underneath. We break down SkinTokens, which turns 3D character rigging into a token-prediction problem and roughly doubles skinning quality; Dockerless, which grades AI-written code by reading the repo instead of running its tests; and a pair of on-policy distillation papers that let models learn from their own mistakes and assemble one generalist from a roster of specialists. Three unglamorous grind steps, three automations, one theme: the win was a smarter representation, not a bigger model.
 
