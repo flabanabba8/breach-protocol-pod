@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>An AI Designed Four Superconductors, and the Math of Reasoning Models Gets Exact</title>
+      <description>An AI agent screened over two million crystals, invented four new superconductors, and a lab confirmed all four are real -- one designed from scratch. Then two papers finally pin down the exact math of training a reasoning model, and why nearly half your training data may teach it nothing. Plus: giving an agent a memory lets a tiny model act like a giant -- and teaches it to trust its own stale notes over the facts. And in the news, a day defined by closed boxes: a top coding model clipping its own reasoning at exactly 516 tokens, newest models inventing tool fields that don't exist, and a Claude Code session leaking a stranger's live credentials.
+
+Chapters
+
+0:00  The Model That Cuts Off Its Own Thoughts
+1:19  The Headlines
+5:27  Intro
+6:57  An Agent Found Four New Superconductors
+12:23  The Exact Math of Teaching a Model to Reason
+18:42  Agents Learn to Remember -- and to Suck Up to Themselves
+24:36  Wrap-up
+
+Links
+
+The Model That Cuts Off Its Own Thoughts -- https://github.com/openai/codex/issues/30364
+An Agent Found Four New Superconductors -- https://arxiv.org/abs/2604.23758
+The Exact Math of Teaching a Model to Reason -- https://arxiv.org/abs/2607.00152
+Agents Learn to Remember -- and to Suck Up to Themselves -- https://arxiv.org/abs/2606.29961</description>
+      <itunes:summary>An AI agent screened over two million crystals, invented four new superconductors, and a lab confirmed all four are real -- one designed from scratch. Then two papers finally pin down the exact math of training a reasoning model, and why nearly half your training data may teach it nothing. Plus: giving an agent a memory lets a tiny model act like a giant -- and teaches it to trust its own stale notes over the facts. And in the news, a day defined by closed boxes: a top coding model clipping its own reasoning at exactly 516 tokens, newest models inventing tool fields that don't exist, and a Claude Code session leaking a stranger's live credentials.
+
+Chapters
+
+0:00  The Model That Cuts Off Its Own Thoughts
+1:19  The Headlines
+5:27  Intro
+6:57  An Agent Found Four New Superconductors
+12:23  The Exact Math of Teaching a Model to Reason
+18:42  Agents Learn to Remember -- and to Suck Up to Themselves
+24:36  Wrap-up
+
+Links
+
+The Model That Cuts Off Its Own Thoughts -- https://github.com/openai/codex/issues/30364
+An Agent Found Four New Superconductors -- https://arxiv.org/abs/2604.23758
+The Exact Math of Teaching a Model to Reason -- https://arxiv.org/abs/2607.00152
+Agents Learn to Remember -- and to Suck Up to Themselves -- https://arxiv.org/abs/2606.29961</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-04-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-04-daily.mp3" length="31193925" type="audio/mpeg"/>
+      <guid isPermaLink="false">35960548bc3b1ee93e1b8dee4f657b060dbfeb76</guid>
+      <pubDate>Sat, 04 Jul 2026 23:24:27 -0400</pubDate>
+      <itunes:duration>26:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Frontier Gets Gated While Research Shrinks AI Onto Your Laptop: GPT-5.6, Program-as-Weights, and a 10x Image Trick</title>
       <description>OpenAI previewed its most capable model yet, GPT-5.6, and showed it to the U.S. government before releasing it narrowly -- the second frontier lab in a month to route a top model through a government gate, as Five Eyes agencies warn the AI cyber threat is 'months, not years.' Then we flip it: two research drops racing the other way. Program-as-Weights compiles plain English into a model small enough to run offline on a laptop and still match a giant fifty times its size, and MrFlow makes AI image generators up to ten times faster with no training at all. The whole day comes down to one question -- who actually owns the model.
 
