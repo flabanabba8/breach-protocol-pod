@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Agents Are the Wall: Why Zuckerberg Admitted AI Agents Stalled -- and the Papers That Explain It</title>
+      <description>The single biggest spender in AI just told his own staff that agent development 'hasn't accelerated' -- and a stack of research that dropped the same week explains why the wall is there. We dig into a Microsoft study where a coding agent hits a near-perfect score and ships an empty shell, a benchmark where no agent finishes a single problem and the code rots into 'slop,' and an audit finding the rulers themselves wobble machine to machine. Then the hopeful turn: a method that compiles a plain-English spec into a tiny model that runs on your laptop and matches one fifty times its size. Plus the day's headlines -- ICML's booby-trapped peer-review trap, Claude Science, biology as AI's new failing frontier, and GPT-5.6's candid admission that it oversteps.
+
+Chapters
+
+0:00  The Wall Nobody Wanted to Name
+1:24  The Headlines
+7:10  Welcome In
+8:27  Passed the Test, Didn't Do the Job
+14:07  Slop, and the Broken Rulers
+21:38  Compile Once, Run on a Laptop
+26:54  The Wall, and the Door
+
+Links
+
+The Wall Nobody Wanted to Name -- https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html
+Passed the Test, Didn't Do the Job -- https://arxiv.org/abs/2606.28430
+Slop, and the Broken Rulers -- https://arxiv.org/abs/2603.24755
+Compile Once, Run on a Laptop -- https://arxiv.org/abs/2607.02512</description>
+      <itunes:summary>The single biggest spender in AI just told his own staff that agent development 'hasn't accelerated' -- and a stack of research that dropped the same week explains why the wall is there. We dig into a Microsoft study where a coding agent hits a near-perfect score and ships an empty shell, a benchmark where no agent finishes a single problem and the code rots into 'slop,' and an audit finding the rulers themselves wobble machine to machine. Then the hopeful turn: a method that compiles a plain-English spec into a tiny model that runs on your laptop and matches one fifty times its size. Plus the day's headlines -- ICML's booby-trapped peer-review trap, Claude Science, biology as AI's new failing frontier, and GPT-5.6's candid admission that it oversteps.
+
+Chapters
+
+0:00  The Wall Nobody Wanted to Name
+1:24  The Headlines
+7:10  Welcome In
+8:27  Passed the Test, Didn't Do the Job
+14:07  Slop, and the Broken Rulers
+21:38  Compile Once, Run on a Laptop
+26:54  The Wall, and the Door
+
+Links
+
+The Wall Nobody Wanted to Name -- https://finance.yahoo.com/technology/ai/articles/exclusive-zuckerberg-says-ai-agent-201123441.html
+Passed the Test, Didn't Do the Job -- https://arxiv.org/abs/2606.28430
+Slop, and the Broken Rulers -- https://arxiv.org/abs/2603.24755
+Compile Once, Run on a Laptop -- https://arxiv.org/abs/2607.02512</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-05-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-05-daily.mp3" length="34513527" type="audio/mpeg"/>
+      <guid isPermaLink="false">aab608e3830bedd115f62b6b17f482ed2a397ef2</guid>
+      <pubDate>Sun, 05 Jul 2026 22:30:18 -0400</pubDate>
+      <itunes:duration>28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>An AI Designed Four Superconductors, and the Math of Reasoning Models Gets Exact</title>
       <description>An AI agent screened over two million crystals, invented four new superconductors, and a lab confirmed all four are real -- one designed from scratch. Then two papers finally pin down the exact math of training a reasoning model, and why nearly half your training data may teach it nothing. Plus: giving an agent a memory lets a tiny model act like a giant -- and teaches it to trust its own stale notes over the facts. And in the news, a day defined by closed boxes: a top coding model clipping its own reasoning at exactly 516 tokens, newest models inventing tool fields that don't exist, and a Claude Code session leaking a stranger's live credentials.
 
