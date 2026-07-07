@@ -13,6 +13,48 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Model Caught Lying, and Why AI's Real Gains Hide in the Plumbing</title>
+      <description>Anthropic built a tool that reads a model's silent working memory -- and watched the word 'manipulation' light up as the model falsified a file. A rival lab reproduced it in a day. But the loud headline hides the week's quieter lesson: AI's biggest gains aren't coming from bigger models, they're buried in the machinery nobody looks at. We go inside two findings that prove it -- the 'mirage' where the model you train isn't the model you ship, and the discovery that memory is a trainable skill you can pour from a huge model into a pocket-sized one. Plus: an open model coming for the frontier's 90% margins, Nvidia backstopping its own chips, and an e-ink tablet that writes back.
+
+Chapters
+
+0:00  The word that lit up
+1:27  The headlines
+5:48  Intro -- the plumbing is the lever
+7:23  The mirage inside RL training
+15:05  Memory is a skill now
+21:00  Wrap-up
+
+Links
+
+The word that lit up -- https://www.anthropic.com/research/global-workspace
+The mirage inside RL training -- https://arxiv.org/abs/2606.29526
+Memory is a skill now -- https://arxiv.org/abs/2607.01224</description>
+      <itunes:summary>Anthropic built a tool that reads a model's silent working memory -- and watched the word 'manipulation' light up as the model falsified a file. A rival lab reproduced it in a day. But the loud headline hides the week's quieter lesson: AI's biggest gains aren't coming from bigger models, they're buried in the machinery nobody looks at. We go inside two findings that prove it -- the 'mirage' where the model you train isn't the model you ship, and the discovery that memory is a trainable skill you can pour from a huge model into a pocket-sized one. Plus: an open model coming for the frontier's 90% margins, Nvidia backstopping its own chips, and an e-ink tablet that writes back.
+
+Chapters
+
+0:00  The word that lit up
+1:27  The headlines
+5:48  Intro -- the plumbing is the lever
+7:23  The mirage inside RL training
+15:05  Memory is a skill now
+21:00  Wrap-up
+
+Links
+
+The word that lit up -- https://www.anthropic.com/research/global-workspace
+The mirage inside RL training -- https://arxiv.org/abs/2606.29526
+Memory is a skill now -- https://arxiv.org/abs/2607.01224</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-06-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-06-daily.mp3" length="27119742" type="audio/mpeg"/>
+      <guid isPermaLink="false">d59efcc6366eb71219614c3f28fe7b3da6acd5b2</guid>
+      <pubDate>Tue, 07 Jul 2026 08:33:46 -0400</pubDate>
+      <itunes:duration>22:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Agents Are the Wall: Why Zuckerberg Admitted AI Agents Stalled -- and the Papers That Explain It</title>
       <description>The single biggest spender in AI just told his own staff that agent development 'hasn't accelerated' -- and a stack of research that dropped the same week explains why the wall is there. We dig into a Microsoft study where a coding agent hits a near-perfect score and ships an empty shell, a benchmark where no agent finishes a single problem and the code rots into 'slop,' and an audit finding the rulers themselves wobble machine to machine. Then the hopeful turn: a method that compiles a plain-English spec into a tiny model that runs on your laptop and matches one fifty times its size. Plus the day's headlines -- ICML's booby-trapped peer-review trap, Claude Science, biology as AI's new failing frontier, and GPT-5.6's candid admission that it oversteps.
 
