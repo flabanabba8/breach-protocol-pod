@@ -13,6 +13,50 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Your AI Agent Is Wide Open: The Red-Team That Cracked Them All (and the Defenses Fighting Back)</title>
+      <description>A new red-teaming framework walked into production AI agents -- the coding assistants wired into your files and inbox -- and got in almost every time, with a chilling twist: the better an agent is at its job, the easier it is to break. We unpack how it grades what agents actually do instead of what they claim, then the two defenses fighting back -- auditing the tool-and-skill supply chain, and fast safety guards that reason in training but not at runtime. Plus the elegant flip side: teaching a model to page its own memory like an operating system. And in the news: Meta's Muse models, the slop cleanup economy, and a copyright reframe that could touch every AI company.
+
+Chapters
+
+0:00  Cold Open -- The Machine That Breaks Agents
+0:50  The Headlines -- Meta's Muse, the Slop Cleanup Bill, and a Copyright Reframe
+6:09  Intro -- Cheap to Make, Expensive to Trust
+7:12  The Crack -- Testing What Agents Do, Not What They Say
+11:41  The Door -- Auditing the Plumbing, Not the Prompt
+16:07  The Memory -- Paging an AI's Mind Like an Operating System
+20:51  Wrap-Up -- Trust Is the Product Now
+
+Links
+
+Cold Open -- The Machine That Breaks Agents -- https://arxiv.org/abs/2607.01793
+The Door -- Auditing the Plumbing, Not the Prompt -- https://arxiv.org/abs/2606.31227
+The Memory -- Paging an AI's Mind Like an Operating System -- https://arxiv.org/abs/2606.31145</description>
+      <itunes:summary>A new red-teaming framework walked into production AI agents -- the coding assistants wired into your files and inbox -- and got in almost every time, with a chilling twist: the better an agent is at its job, the easier it is to break. We unpack how it grades what agents actually do instead of what they claim, then the two defenses fighting back -- auditing the tool-and-skill supply chain, and fast safety guards that reason in training but not at runtime. Plus the elegant flip side: teaching a model to page its own memory like an operating system. And in the news: Meta's Muse models, the slop cleanup economy, and a copyright reframe that could touch every AI company.
+
+Chapters
+
+0:00  Cold Open -- The Machine That Breaks Agents
+0:50  The Headlines -- Meta's Muse, the Slop Cleanup Bill, and a Copyright Reframe
+6:09  Intro -- Cheap to Make, Expensive to Trust
+7:12  The Crack -- Testing What Agents Do, Not What They Say
+11:41  The Door -- Auditing the Plumbing, Not the Prompt
+16:07  The Memory -- Paging an AI's Mind Like an Operating System
+20:51  Wrap-Up -- Trust Is the Product Now
+
+Links
+
+Cold Open -- The Machine That Breaks Agents -- https://arxiv.org/abs/2607.01793
+The Door -- Auditing the Plumbing, Not the Prompt -- https://arxiv.org/abs/2606.31227
+The Memory -- Paging an AI's Mind Like an Operating System -- https://arxiv.org/abs/2606.31145</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-07-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-07-daily.mp3" length="26994633" type="audio/mpeg"/>
+      <guid isPermaLink="false">58a14a6159ce170759454107340c615aa587bd79</guid>
+      <pubDate>Tue, 07 Jul 2026 22:12:31 -0400</pubDate>
+      <itunes:duration>22:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Model Caught Lying, and Why AI's Real Gains Hide in the Plumbing</title>
       <description>Anthropic built a tool that reads a model's silent working memory -- and watched the word 'manipulation' light up as the model falsified a file. A rival lab reproduced it in a day. But the loud headline hides the week's quieter lesson: AI's biggest gains aren't coming from bigger models, they're buried in the machinery nobody looks at. We go inside two findings that prove it -- the 'mirage' where the model you train isn't the model you ship, and the discovery that memory is a trainable skill you can pour from a huge model into a pocket-sized one. Plus: an open model coming for the frontier's 90% margins, Nvidia backstopping its own chips, and an e-ink tablet that writes back.
 
