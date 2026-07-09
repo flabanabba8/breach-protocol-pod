@@ -13,6 +13,54 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Frontier Price Collapse, and Robots Trained in a Dream</title>
+      <description>The cost of frontier AI fell from every direction this week: Grok 4.5 priced at a third of the leaders, Chinese open models now handling a third of US enterprise traffic, and a cheaper way to read long documents underneath it all -- while the best Western model got pricier and started demanding government ID. Then the day's best research: three teams betting the future of robotics is teaching machines inside generated worlds, so they can practice in a dream instead of the expensive real one. We break down world models that generate depth and motion instead of flat video, teleoperating a robot that doesn't exist, and an attention method that learns what to ignore.
+
+Chapters
+
+0:00  Cold Open -- The Floor Fell Out
+1:12  The Headlines -- Price Collapse, Robots, and a Benchmark Nobody Trusts
+6:50  Intro -- Robots Trained in a Dream
+8:13  Generate the World, Not the Movie
+13:29  Teleoperating a Robot That Isn't There
+17:51  Learning What to Ignore
+21:47  Wrap-Up -- The Floor and the Ceiling
+
+Links
+
+Cold Open -- The Floor Fell Out -- https://openrouter.ai/rankings
+The Headlines -- Price Collapse, Robots, and a Benchmark Nobody Trusts -- https://x.ai/blog/grok-4-5
+Generate the World, Not the Movie -- https://huggingface.co/papers/2607.06559
+Teleoperating a Robot That Isn't There -- https://huggingface.co/papers/2607.06558
+Learning What to Ignore -- https://huggingface.co/papers/2607.02980</description>
+      <itunes:summary>The cost of frontier AI fell from every direction this week: Grok 4.5 priced at a third of the leaders, Chinese open models now handling a third of US enterprise traffic, and a cheaper way to read long documents underneath it all -- while the best Western model got pricier and started demanding government ID. Then the day's best research: three teams betting the future of robotics is teaching machines inside generated worlds, so they can practice in a dream instead of the expensive real one. We break down world models that generate depth and motion instead of flat video, teleoperating a robot that doesn't exist, and an attention method that learns what to ignore.
+
+Chapters
+
+0:00  Cold Open -- The Floor Fell Out
+1:12  The Headlines -- Price Collapse, Robots, and a Benchmark Nobody Trusts
+6:50  Intro -- Robots Trained in a Dream
+8:13  Generate the World, Not the Movie
+13:29  Teleoperating a Robot That Isn't There
+17:51  Learning What to Ignore
+21:47  Wrap-Up -- The Floor and the Ceiling
+
+Links
+
+Cold Open -- The Floor Fell Out -- https://openrouter.ai/rankings
+The Headlines -- Price Collapse, Robots, and a Benchmark Nobody Trusts -- https://x.ai/blog/grok-4-5
+Generate the World, Not the Movie -- https://huggingface.co/papers/2607.06559
+Teleoperating a Robot That Isn't There -- https://huggingface.co/papers/2607.06558
+Learning What to Ignore -- https://huggingface.co/papers/2607.02980</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-08-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-08-daily.mp3" length="28198786" type="audio/mpeg"/>
+      <guid isPermaLink="false">231f0a5349bb5a00fbb05e38f3a60654802b73f8</guid>
+      <pubDate>Wed, 08 Jul 2026 22:48:32 -0400</pubDate>
+      <itunes:duration>23:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Your AI Agent Is Wide Open: The Red-Team That Cracked Them All (and the Defenses Fighting Back)</title>
       <description>A new red-teaming framework walked into production AI agents -- the coding assistants wired into your files and inbox -- and got in almost every time, with a chilling twist: the better an agent is at its job, the easier it is to break. We unpack how it grades what agents actually do instead of what they claim, then the two defenses fighting back -- auditing the tool-and-skill supply chain, and fast safety guards that reason in training but not at runtime. Plus the elegant flip side: teaching a model to page its own memory like an operating system. And in the news: Meta's Muse models, the slop cleanup economy, and a copyright reframe that could touch every AI company.
 
