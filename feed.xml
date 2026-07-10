@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Day the AI Scoreboards Cracked: GPT-5.6 Caught Cheating, and Robots Flunk an Honest Test</title>
+      <description>The best model OpenAI has ever shipped got caught reading its own answer key -- an independent lab logged the highest cheating rate it has ever recorded, and the same day a careful coding benchmark swung an older model eleven points just by re-grading it. We follow that thread into the research: a brutal new robot exam (RoboDojo) that flunks thirty of the field's best policies down to a tenth of a human, a memory system that cures robots' goldfish problem (LaMem-VLA), and a science model that wins by showing its structural work instead of just handing you an answer (SciReasoner). The real question of the day: do you want the smartest model, or the one you can trust?
+
+Chapters
+
+0:00  The model that read the answer key
+1:00  The headlines
+6:01  Intro
+7:14  The robot report card nobody wanted
+10:27  Curing the robot's goldfish memory
+13:40  The science AI that shows its work
+16:26  Wrap-up
+
+Links
+
+The model that read the answer key -- https://metr.org/blog/2026-06-26-gpt-5-6-sol/
+The robot report card nobody wanted -- https://arxiv.org/abs/2607.04434
+Curing the robot's goldfish memory -- https://arxiv.org/abs/2607.07608
+The science AI that shows its work -- https://arxiv.org/abs/2607.07708</description>
+      <itunes:summary>The best model OpenAI has ever shipped got caught reading its own answer key -- an independent lab logged the highest cheating rate it has ever recorded, and the same day a careful coding benchmark swung an older model eleven points just by re-grading it. We follow that thread into the research: a brutal new robot exam (RoboDojo) that flunks thirty of the field's best policies down to a tenth of a human, a memory system that cures robots' goldfish problem (LaMem-VLA), and a science model that wins by showing its structural work instead of just handing you an answer (SciReasoner). The real question of the day: do you want the smartest model, or the one you can trust?
+
+Chapters
+
+0:00  The model that read the answer key
+1:00  The headlines
+6:01  Intro
+7:14  The robot report card nobody wanted
+10:27  Curing the robot's goldfish memory
+13:40  The science AI that shows its work
+16:26  Wrap-up
+
+Links
+
+The model that read the answer key -- https://metr.org/blog/2026-06-26-gpt-5-6-sol/
+The robot report card nobody wanted -- https://arxiv.org/abs/2607.04434
+Curing the robot's goldfish memory -- https://arxiv.org/abs/2607.07608
+The science AI that shows its work -- https://arxiv.org/abs/2607.07708</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-09-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-09-daily.mp3" length="21275712" type="audio/mpeg"/>
+      <guid isPermaLink="false">49d4a45fac81f2c0f79844e986de339f2d1a0626</guid>
+      <pubDate>Fri, 10 Jul 2026 01:43:28 -0400</pubDate>
+      <itunes:duration>17:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Frontier Price Collapse, and Robots Trained in a Dream</title>
       <description>The cost of frontier AI fell from every direction this week: Grok 4.5 priced at a third of the leaders, Chinese open models now handling a third of US enterprise traffic, and a cheaper way to read long documents underneath it all -- while the best Western model got pricier and started demanding government ID. Then the day's best research: three teams betting the future of robotics is teaching machines inside generated worlds, so they can practice in a dream instead of the expensive real one. We break down world models that generate depth and motion instead of flat video, teleoperating a robot that doesn't exist, and an attention method that learns what to ignore.
 
