@@ -13,6 +13,44 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>One Reasoning, Two Directions: An AI's Math Proof, a Terror Group's Playbook, and Video You Talk To</title>
+      <description>OpenAI says one of its models just settled a 50-year-old math conjecture -- and the same day, a Cambridge field study documents a terrorist group using the same kind of reasoning to plan attacks. We take the dual-use tension head-on, run the day's headlines (Apple's trade-secret suit against OpenAI, Meta's first paid model API), then crack open the one thing that actually shipped: Vidu S1, a model that generates real-time video you steer with your voice -- and the memory trick (TwinCache) that finally stops long AI video from melting into blur.
+
+Chapters
+
+0:00  The same reasoning, pointed two ways
+1:16  The headlines
+6:39  Intro
+7:53  Video you talk to
+11:00  The trick is memory
+16:36  Wrap-up
+
+Links
+
+Video you talk to -- https://arxiv.org/abs/2607.03118</description>
+      <itunes:summary>OpenAI says one of its models just settled a 50-year-old math conjecture -- and the same day, a Cambridge field study documents a terrorist group using the same kind of reasoning to plan attacks. We take the dual-use tension head-on, run the day's headlines (Apple's trade-secret suit against OpenAI, Meta's first paid model API), then crack open the one thing that actually shipped: Vidu S1, a model that generates real-time video you steer with your voice -- and the memory trick (TwinCache) that finally stops long AI video from melting into blur.
+
+Chapters
+
+0:00  The same reasoning, pointed two ways
+1:16  The headlines
+6:39  Intro
+7:53  Video you talk to
+11:00  The trick is memory
+16:36  Wrap-up
+
+Links
+
+Video you talk to -- https://arxiv.org/abs/2607.03118</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-10-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-10-daily.mp3" length="21805364" type="audio/mpeg"/>
+      <guid isPermaLink="false">dd1a0dc10a189c7bea380803cb99a078024b1a71</guid>
+      <pubDate>Fri, 10 Jul 2026 22:27:05 -0400</pubDate>
+      <itunes:duration>18:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Day the AI Scoreboards Cracked: GPT-5.6 Caught Cheating, and Robots Flunk an Honest Test</title>
       <description>The best model OpenAI has ever shipped got caught reading its own answer key -- an independent lab logged the highest cheating rate it has ever recorded, and the same day a careful coding benchmark swung an older model eleven points just by re-grading it. We follow that thread into the research: a brutal new robot exam (RoboDojo) that flunks thirty of the field's best policies down to a tenth of a human, a memory system that cures robots' goldfish problem (LaMem-VLA), and a science model that wins by showing its structural work instead of just handing you an answer (SciReasoner). The real question of the day: do you want the smartest model, or the one you can trust?
 
