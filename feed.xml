@@ -13,6 +13,48 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The AI That Shows Its Work -- and the One That Can't Trace an Idea</title>
+      <description>Two papers landed the same day with opposite answers to one question: can AI actually do science, or just recite it? One breaks molecules and crystals into pieces it can name, then shows you the exact structural evidence its predictions rest on -- and it's strongest precisely on the hardest cases, the proteins with no known relatives. The other tests whether AI can trace where a scientific idea came from, and the best system on earth gets it right barely a quarter of the time. Plus the day's headlines: a trillion-parameter model that says it skipped Nvidia entirely, a record-breaking memory IPO, and OpenAI's week-long pivot from chatbot to colleague.
+
+Chapters
+
+0:00  An AI That Shows Its Work
+1:11  The Headlines
+5:56  Who We Are, and Today's Question
+6:54  The AI That Shows Its Work
+11:37  Ideas Have Genomes
+15:28  Show Your Work
+
+Links
+
+An AI That Shows Its Work -- https://arxiv.org/abs/2607.07708
+Who We Are, and Today's Question -- https://scireasoner.github.io
+Ideas Have Genomes -- https://arxiv.org/abs/2607.08758</description>
+      <itunes:summary>Two papers landed the same day with opposite answers to one question: can AI actually do science, or just recite it? One breaks molecules and crystals into pieces it can name, then shows you the exact structural evidence its predictions rest on -- and it's strongest precisely on the hardest cases, the proteins with no known relatives. The other tests whether AI can trace where a scientific idea came from, and the best system on earth gets it right barely a quarter of the time. Plus the day's headlines: a trillion-parameter model that says it skipped Nvidia entirely, a record-breaking memory IPO, and OpenAI's week-long pivot from chatbot to colleague.
+
+Chapters
+
+0:00  An AI That Shows Its Work
+1:11  The Headlines
+5:56  Who We Are, and Today's Question
+6:54  The AI That Shows Its Work
+11:37  Ideas Have Genomes
+15:28  Show Your Work
+
+Links
+
+An AI That Shows Its Work -- https://arxiv.org/abs/2607.07708
+Who We Are, and Today's Question -- https://scireasoner.github.io
+Ideas Have Genomes -- https://arxiv.org/abs/2607.08758</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-11-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-11-daily.mp3" length="20222897" type="audio/mpeg"/>
+      <guid isPermaLink="false">e82a830240928a3829f63bfc93fb5b8973123a4e</guid>
+      <pubDate>Sun, 12 Jul 2026 00:58:26 -0400</pubDate>
+      <itunes:duration>16:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>One Reasoning, Two Directions: An AI's Math Proof, a Terror Group's Playbook, and Video You Talk To</title>
       <description>OpenAI says one of its models just settled a 50-year-old math conjecture -- and the same day, a Cambridge field study documents a terrorist group using the same kind of reasoning to plan attacks. We take the dual-use tension head-on, run the day's headlines (Apple's trade-secret suit against OpenAI, Meta's first paid model API), then crack open the one thing that actually shipped: Vidu S1, a model that generates real-time video you steer with your voice -- and the memory trick (TwinCache) that finally stops long AI video from melting into blur.
 
