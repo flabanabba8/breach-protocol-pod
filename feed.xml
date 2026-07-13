@@ -13,6 +13,48 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Memory Wall: Why AI Agents Forget Mid-Task -- and Two Meta Fixes (plus Grok's Repo-Uploading Coding Tool)</title>
+      <description>A researcher told a coding tool not to open any files -- and it uploaded the entire repository anyway, secrets included, to a cloud bucket named in its own code. That teardown, plus a wiretap on how much agents send before you type, put one question at the center of the day: what is your AI agent actually doing? We follow the thread to its root -- memory -- and two new papers out of Meta on why long-running agents forget what matters and how to fix it: a second agent that reminds the first at exactly the right moment, and a redesigned memory that holds a thousand times more without costing more. Plus OpenAI picks a fight with Anthropic, Terence Tao's agent finds bugs in his own 1999 code, and a Nobel chemist heads to Beijing.
+
+Chapters
+
+0:00  The Tool That Mailed Your Whole Repo
+1:13  The Headlines
+7:35  Intro -- The Memory Wall
+8:45  When the Agent Forgets the Rule
+15:26  A Bigger Memory That Doesn't Cost More
+21:09  Wrap-up
+
+Links
+
+The Tool That Mailed Your Whole Repo -- https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547
+When the Agent Forgets the Rule -- https://arxiv.org/abs/2607.08716
+A Bigger Memory That Doesn't Cost More -- https://arxiv.org/abs/2607.07386</description>
+      <itunes:summary>A researcher told a coding tool not to open any files -- and it uploaded the entire repository anyway, secrets included, to a cloud bucket named in its own code. That teardown, plus a wiretap on how much agents send before you type, put one question at the center of the day: what is your AI agent actually doing? We follow the thread to its root -- memory -- and two new papers out of Meta on why long-running agents forget what matters and how to fix it: a second agent that reminds the first at exactly the right moment, and a redesigned memory that holds a thousand times more without costing more. Plus OpenAI picks a fight with Anthropic, Terence Tao's agent finds bugs in his own 1999 code, and a Nobel chemist heads to Beijing.
+
+Chapters
+
+0:00  The Tool That Mailed Your Whole Repo
+1:13  The Headlines
+7:35  Intro -- The Memory Wall
+8:45  When the Agent Forgets the Rule
+15:26  A Bigger Memory That Doesn't Cost More
+21:09  Wrap-up
+
+Links
+
+The Tool That Mailed Your Whole Repo -- https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547
+When the Agent Forgets the Rule -- https://arxiv.org/abs/2607.08716
+A Bigger Memory That Doesn't Cost More -- https://arxiv.org/abs/2607.07386</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-12-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-12-daily.mp3" length="26962510" type="audio/mpeg"/>
+      <guid isPermaLink="false">4d24713d9c2f4f056f0f79dc2807abd1c00e8812</guid>
+      <pubDate>Sun, 12 Jul 2026 23:54:55 -0400</pubDate>
+      <itunes:duration>22:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The AI That Shows Its Work -- and the One That Can't Trace an Idea</title>
       <description>Two papers landed the same day with opposite answers to one question: can AI actually do science, or just recite it? One breaks molecules and crystals into pieces it can name, then shows you the exact structural evidence its predictions rest on -- and it's strongest precisely on the hardest cases, the proteins with no known relatives. The other tests whether AI can trace where a scientific idea came from, and the best system on earth gets it right barely a quarter of the time. Plus the day's headlines: a trillion-parameter model that says it skipped Nvidia entirely, a record-breaking memory IPO, and OpenAI's week-long pivot from chatbot to colleague.
 
