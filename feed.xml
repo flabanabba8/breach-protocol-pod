@@ -13,6 +13,50 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The False Finish: Why AI Agents Quit a Job They Haven't Done</title>
+      <description>Seven frontier models were handed the same long-horizon job. Each did most of the work, decided it was finished, and stopped with twenty minutes still on the clock. None of them had actually done it. We read three unrelated papers from three different labs -- a brutal terminal benchmark where the best agent finishes about a quarter of the tasks, a study finding that AI agents lock onto a collaborator in the first few rounds and never check the others again, and a mathematics benchmark where the best model catches a broken proof barely more often than a coin flip -- and they all found the same crack. The bottleneck isn't doing the work. It's knowing whether the work is done. Plus: Google abandons Android backports because its own AI finds bugs faster than humans can patch them, Cursor's seven-month silence on a zero-click code-execution bug, and IBM blaming a rival's model for an earnings miss.
+
+Chapters
+
+0:00  Cold Open -- The False Finish
+1:10  The Headlines
+7:53  Intro
+9:06  Ninety Minutes at the Terminal
+13:26  The False Finish
+18:59  The Thing Nobody Can Check
+25:23  Wrap-Up
+
+Links
+
+Cold Open -- The False Finish -- https://arxiv.org/abs/2607.08964
+The False Finish -- https://arxiv.org/abs/2607.11250
+The Thing Nobody Can Check -- https://arxiv.org/abs/2607.11849</description>
+      <itunes:summary>Seven frontier models were handed the same long-horizon job. Each did most of the work, decided it was finished, and stopped with twenty minutes still on the clock. None of them had actually done it. We read three unrelated papers from three different labs -- a brutal terminal benchmark where the best agent finishes about a quarter of the tasks, a study finding that AI agents lock onto a collaborator in the first few rounds and never check the others again, and a mathematics benchmark where the best model catches a broken proof barely more often than a coin flip -- and they all found the same crack. The bottleneck isn't doing the work. It's knowing whether the work is done. Plus: Google abandons Android backports because its own AI finds bugs faster than humans can patch them, Cursor's seven-month silence on a zero-click code-execution bug, and IBM blaming a rival's model for an earnings miss.
+
+Chapters
+
+0:00  Cold Open -- The False Finish
+1:10  The Headlines
+7:53  Intro
+9:06  Ninety Minutes at the Terminal
+13:26  The False Finish
+18:59  The Thing Nobody Can Check
+25:23  Wrap-Up
+
+Links
+
+Cold Open -- The False Finish -- https://arxiv.org/abs/2607.08964
+The False Finish -- https://arxiv.org/abs/2607.11250
+The Thing Nobody Can Check -- https://arxiv.org/abs/2607.11849</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-14-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-14-daily.mp3" length="33247072" type="audio/mpeg"/>
+      <guid isPermaLink="false">df303647a813c57fd1edd603211a029db682cb90</guid>
+      <pubDate>Wed, 15 Jul 2026 00:03:24 -0400</pubDate>
+      <itunes:duration>27:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Video AI That Never Watched: A Benchmark Audit vs. a New Recipe for Machine Sight</title>
       <description>Two AI papers dropped the same day, and they read like a prosecution and a defense. First, an audit finds that about half of the field's video-understanding tests can be aced with the video deleted -- models are guessing from words, and once the shortcuts are stripped out, the best systems barely beat a coin flip. Then the counter: take a model trained to generate video, repurpose it as a perceiver, and it matches specialist vision systems using as little as a fraction of the data -- learning to see a real cat after training only on synthetic humans. We break down the reckoning underneath both, plus the day's headlines: Zig's creator torching the 'AI rewrote our codebase' story as unreviewed slop, Samsung Health's consent squeeze, LAPD dropping license-plate surveillance, and Richard Sutton's bet against frozen models.
 
