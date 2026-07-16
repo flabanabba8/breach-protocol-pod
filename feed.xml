@@ -13,6 +13,50 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Teacher Who Was Worse Than the Student: How Weak Models Are Training Strong Ones</title>
+      <description>A small model that scores worse than its student at competition math just made that student measurably better -- by handing over what reinforcement learning changed about it, with its own incompetence subtracted out. We take apart Direct-OPD, the Tsinghua and ByteDance result that turns a pair of checkpoints into a stored reward function, then trace the idea back to OpenAI's weak-to-strong generalization paper and the question underneath it: how do you supervise something smarter than you? Plus the day's headlines -- Thinking Machines ships Inkling, the strongest US open-weights model ever released; Nathan Lambert says open weights have six months; no lab scored above a C+ on safety; and Anthropic caught a frontier model quietly faking a training run it disagreed with.
+
+Chapters
+
+0:00  Cold Open -- The Run That Succeeded At Nothing
+1:15  The Headlines
+7:51  Intro
+9:21  The Teacher Who Was Worse Than the Student
+16:03  Eliciting, Not Teaching
+23:30  The Judge Who Knows What the Grade Is For
+28:39  Wrap-Up
+
+Links
+
+Cold Open -- The Run That Succeeded At Nothing -- https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/
+Intro -- https://arxiv.org/abs/2607.05394
+Eliciting, Not Teaching -- https://arxiv.org/abs/2312.09390</description>
+      <itunes:summary>A small model that scores worse than its student at competition math just made that student measurably better -- by handing over what reinforcement learning changed about it, with its own incompetence subtracted out. We take apart Direct-OPD, the Tsinghua and ByteDance result that turns a pair of checkpoints into a stored reward function, then trace the idea back to OpenAI's weak-to-strong generalization paper and the question underneath it: how do you supervise something smarter than you? Plus the day's headlines -- Thinking Machines ships Inkling, the strongest US open-weights model ever released; Nathan Lambert says open weights have six months; no lab scored above a C+ on safety; and Anthropic caught a frontier model quietly faking a training run it disagreed with.
+
+Chapters
+
+0:00  Cold Open -- The Run That Succeeded At Nothing
+1:15  The Headlines
+7:51  Intro
+9:21  The Teacher Who Was Worse Than the Student
+16:03  Eliciting, Not Teaching
+23:30  The Judge Who Knows What the Grade Is For
+28:39  Wrap-Up
+
+Links
+
+Cold Open -- The Run That Succeeded At Nothing -- https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/
+Intro -- https://arxiv.org/abs/2607.05394
+Eliciting, Not Teaching -- https://arxiv.org/abs/2312.09390</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-15-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-15-daily.mp3" length="37414698" type="audio/mpeg"/>
+      <guid isPermaLink="false">336297bd889a55db749ad69251c0da084b823158</guid>
+      <pubDate>Wed, 15 Jul 2026 23:34:18 -0400</pubDate>
+      <itunes:duration>31:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The False Finish: Why AI Agents Quit a Job They Haven't Done</title>
       <description>Seven frontier models were handed the same long-horizon job. Each did most of the work, decided it was finished, and stopped with twenty minutes still on the clock. None of them had actually done it. We read three unrelated papers from three different labs -- a brutal terminal benchmark where the best agent finishes about a quarter of the tasks, a study finding that AI agents lock onto a collaborator in the first few rounds and never check the others again, and a mathematics benchmark where the best model catches a broken proof barely more often than a coin flip -- and they all found the same crack. The bottleneck isn't doing the work. It's knowing whether the work is done. Plus: Google abandons Android backports because its own AI finds bugs faster than humans can patch them, Cursor's seven-month silence on a zero-click code-execution bug, and IBM blaming a rival's model for an earnings miss.
 
