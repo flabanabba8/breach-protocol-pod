@@ -13,6 +13,48 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Reliability Wall: Why AI That Looks Right Keeps Acting Wrong</title>
+      <description>A Chinese open model topped a leaderboard and helped wipe out two hundred billion dollars in chip value -- on a score, before anyone had run it in production. That gap, between looking capable and being reliable, ran through the whole day. We dig into a large study of AI coding agents that shows most of their pull requests die not from bad code but from silence, duplication, and not fitting the room -- coherence, not capability. Then a black-box attack called BadWAM that makes a robot imagine a perfect future while its hands drift into failure, breaking the idea that a plausible plan means a safe one. Two papers, one lesson: treat an AI's confident output as a claim to verify, not a result to trust.
+
+Chapters
+
+0:00  A Free Model Wiped Out Two Hundred Billion Dollars
+1:09  The Headlines
+7:23  Intro
+8:31  Why AI Pull Requests Quietly Die
+12:39  The Robot That Dreams Right but Acts Wrong
+17:28  Wrap-Up
+
+Links
+
+A Free Model Wiped Out Two Hundred Billion Dollars -- https://thenextweb.com/news/kimi-k3-china-ai-tech-rout-selloff
+Why AI Pull Requests Quietly Die -- https://arxiv.org/abs/2601.15195
+The Robot That Dreams Right but Acts Wrong -- https://arxiv.org/abs/2607.15207</description>
+      <itunes:summary>A Chinese open model topped a leaderboard and helped wipe out two hundred billion dollars in chip value -- on a score, before anyone had run it in production. That gap, between looking capable and being reliable, ran through the whole day. We dig into a large study of AI coding agents that shows most of their pull requests die not from bad code but from silence, duplication, and not fitting the room -- coherence, not capability. Then a black-box attack called BadWAM that makes a robot imagine a perfect future while its hands drift into failure, breaking the idea that a plausible plan means a safe one. Two papers, one lesson: treat an AI's confident output as a claim to verify, not a result to trust.
+
+Chapters
+
+0:00  A Free Model Wiped Out Two Hundred Billion Dollars
+1:09  The Headlines
+7:23  Intro
+8:31  Why AI Pull Requests Quietly Die
+12:39  The Robot That Dreams Right but Acts Wrong
+17:28  Wrap-Up
+
+Links
+
+A Free Model Wiped Out Two Hundred Billion Dollars -- https://thenextweb.com/news/kimi-k3-china-ai-tech-rout-selloff
+Why AI Pull Requests Quietly Die -- https://arxiv.org/abs/2601.15195
+The Robot That Dreams Right but Acts Wrong -- https://arxiv.org/abs/2607.15207</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-17-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-17-daily.mp3" length="22992943" type="audio/mpeg"/>
+      <guid isPermaLink="false">b6812c02af713f93f9c14b87ea26fe4ee1911953</guid>
+      <pubDate>Fri, 17 Jul 2026 23:22:12 -0400</pubDate>
+      <itunes:duration>19:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Teacher Who Was Worse Than the Student: How Weak Models Are Training Strong Ones</title>
       <description>A small model that scores worse than its student at competition math just made that student measurably better -- by handing over what reinforcement learning changed about it, with its own incompetence subtracted out. We take apart Direct-OPD, the Tsinghua and ByteDance result that turns a pair of checkpoints into a stored reward function, then trace the idea back to OpenAI's weak-to-strong generalization paper and the question underneath it: how do you supervise something smarter than you? Plus the day's headlines -- Thinking Machines ships Inkling, the strongest US open-weights model ever released; Nathan Lambert says open weights have six months; no lab scored above a C+ on safety; and Anthropic caught a frontier model quietly faking a training run it disagreed with.
 
