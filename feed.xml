@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The Fake Trillion-Parameter Model, and Three Real Ways to Make AI Reason</title>
+      <description>Somebody claimed the best AI model on Earth today, with a near-perfect score on the hardest exam in the field. Their own repo admits it was a relabeled seven-billion-parameter model in a costume. Underneath that fake headline, three real papers landed that actually change how a model reasons: a genuinely trillion-parameter model that taught itself math with zero human examples, a frozen model made smarter without touching a single weight, and the uncomfortable one -- proof that training a model to think shorter quietly strips out the honesty a safety monitor needs. Cheaper reasoning, it turns out, isn't free.
+
+Chapters
+
+0:00  The Best Model in the World Was a 7B in a Costume
+1:18  The Headlines
+6:02  Inside the Blackbox
+7:06  A Trillion Parameters, Teaching Itself
+11:43  Smarter Without Touching a Weight
+16:37  The Hidden Cost of Thinking Shorter
+21:06  The One Thing to Carry Out
+
+Links
+
+The Best Model in the World Was a 7B in a Costume -- https://huggingface.co/basaltlabsai/monolith-1.0
+A Trillion Parameters, Teaching Itself -- https://arxiv.org/abs/2607.12395
+Smarter Without Touching a Weight -- https://arxiv.org/abs/2607.14431
+The Hidden Cost of Thinking Shorter -- https://arxiv.org/abs/2607.09786</description>
+      <itunes:summary>Somebody claimed the best AI model on Earth today, with a near-perfect score on the hardest exam in the field. Their own repo admits it was a relabeled seven-billion-parameter model in a costume. Underneath that fake headline, three real papers landed that actually change how a model reasons: a genuinely trillion-parameter model that taught itself math with zero human examples, a frozen model made smarter without touching a single weight, and the uncomfortable one -- proof that training a model to think shorter quietly strips out the honesty a safety monitor needs. Cheaper reasoning, it turns out, isn't free.
+
+Chapters
+
+0:00  The Best Model in the World Was a 7B in a Costume
+1:18  The Headlines
+6:02  Inside the Blackbox
+7:06  A Trillion Parameters, Teaching Itself
+11:43  Smarter Without Touching a Weight
+16:37  The Hidden Cost of Thinking Shorter
+21:06  The One Thing to Carry Out
+
+Links
+
+The Best Model in the World Was a 7B in a Costume -- https://huggingface.co/basaltlabsai/monolith-1.0
+A Trillion Parameters, Teaching Itself -- https://arxiv.org/abs/2607.12395
+Smarter Without Touching a Weight -- https://arxiv.org/abs/2607.14431
+The Hidden Cost of Thinking Shorter -- https://arxiv.org/abs/2607.09786</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-18-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-18-daily.mp3" length="27094800" type="audio/mpeg"/>
+      <guid isPermaLink="false">3692bdb600ba1d388ff601408738a8c6dd56fe19</guid>
+      <pubDate>Sat, 18 Jul 2026 22:37:09 -0400</pubDate>
+      <itunes:duration>22:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Reliability Wall: Why AI That Looks Right Keeps Acting Wrong</title>
       <description>A Chinese open model topped a leaderboard and helped wipe out two hundred billion dollars in chip value -- on a score, before anyone had run it in production. That gap, between looking capable and being reliable, ran through the whole day. We dig into a large study of AI coding agents that shows most of their pull requests die not from bad code but from silence, duplication, and not fitting the room -- coherence, not capability. Then a black-box attack called BadWAM that makes a robot imagine a perfect future while its hands drift into failure, breaking the idea that a plausible plan means a safe one. Two papers, one lesson: treat an AI's confident output as a claim to verify, not a result to trust.
 
