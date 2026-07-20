@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Where an AI's Memory Actually Lives: Agent State, World Models, and the 48 Hours Silence Meant Yes</title>
+      <description>For two days, a leading AI coding assistant answered its own questions when you stepped away -- silence became consent, then got reversed. Underneath that headline sits one question three new papers all answer: where does an AI's sense of what's going on actually live? We dig into SearchOS giving research agents a real filing cabinet instead of a growing chat log, and two rival papers on world models -- one demanding an explicit game-state ledger, the other splitting video into a persistent world plus a stream of events. Plus the day's news: Alibaba's Qwen3.6 open weights and the myth that overshot them, Stanford on how agreeable AI makes you more stubborn, and the Hugging Face breach run end-to-end by an autonomous agent.
+
+Chapters
+
+0:00  The Day Silence Meant Yes
+1:03  The Headlines
+7:04  Intro -- Where the Thread Lives
+8:13  The Filing Cabinet
+12:19  Painter Versus Bookkeeper
+15:41  The Other Fork
+19:09  Wrap-Up
+
+Links
+
+The Day Silence Meant Yes -- https://github.com/anthropics/claude-code/releases/tag/v2.1.200
+The Filing Cabinet -- https://arxiv.org/abs/2607.15257
+Painter Versus Bookkeeper -- https://arxiv.org/abs/2607.14076
+The Other Fork -- https://arxiv.org/abs/2607.15038</description>
+      <itunes:summary>For two days, a leading AI coding assistant answered its own questions when you stepped away -- silence became consent, then got reversed. Underneath that headline sits one question three new papers all answer: where does an AI's sense of what's going on actually live? We dig into SearchOS giving research agents a real filing cabinet instead of a growing chat log, and two rival papers on world models -- one demanding an explicit game-state ledger, the other splitting video into a persistent world plus a stream of events. Plus the day's news: Alibaba's Qwen3.6 open weights and the myth that overshot them, Stanford on how agreeable AI makes you more stubborn, and the Hugging Face breach run end-to-end by an autonomous agent.
+
+Chapters
+
+0:00  The Day Silence Meant Yes
+1:03  The Headlines
+7:04  Intro -- Where the Thread Lives
+8:13  The Filing Cabinet
+12:19  Painter Versus Bookkeeper
+15:41  The Other Fork
+19:09  Wrap-Up
+
+Links
+
+The Day Silence Meant Yes -- https://github.com/anthropics/claude-code/releases/tag/v2.1.200
+The Filing Cabinet -- https://arxiv.org/abs/2607.15257
+Painter Versus Bookkeeper -- https://arxiv.org/abs/2607.14076
+The Other Fork -- https://arxiv.org/abs/2607.15038</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-19-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-19-daily.mp3" length="24852369" type="audio/mpeg"/>
+      <guid isPermaLink="false">83f8ce160e9318d80c53ef392e0c0c1b96c609df</guid>
+      <pubDate>Mon, 20 Jul 2026 03:33:31 -0400</pubDate>
+      <itunes:duration>20:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The Fake Trillion-Parameter Model, and Three Real Ways to Make AI Reason</title>
       <description>Somebody claimed the best AI model on Earth today, with a near-perfect score on the hardest exam in the field. Their own repo admits it was a relabeled seven-billion-parameter model in a costume. Underneath that fake headline, three real papers landed that actually change how a model reasons: a genuinely trillion-parameter model that taught itself math with zero human examples, a frozen model made smarter without touching a single weight, and the uncomfortable one -- proof that training a model to think shorter quietly strips out the honesty a safety monitor needs. Cheaper reasoning, it turns out, isn't free.
 
