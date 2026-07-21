@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The AI-Math Proof You Can Check, Robot Daydreams, and Why 'It Ran' Isn't 'It Worked'</title>
+      <description>A mathematician posted a hand-checkable counterexample to an 80-year-old conjecture and credited an AI model -- and the twist is that the math is the part anyone can verify, while the AI's role is the part nobody can. Then three papers that all make the same move: Tencent's robot plans by imagining a picture of its finished task, a Nanjing video model halves its runtime by squeezing footage before the language model ever reads it, and Microsoft turns YouTube tutorials into agent skills -- while proving why 'the code ran' never meant 'the task worked.' Plus the $1.5B Anthropic settlement, the fight over Chinese open weights, and the day a safety filter blocked its own security team.
+
+Chapters
+
+0:00  The AI Did the Math. The Math Is the Part We Can Check.
+1:04  The Headlines
+5:10  Intro
+6:23  The Robot That Pictures the Finish
+11:43  Skim First, Then Read
+16:31  When "It Runs" Doesn't Mean "It Worked"
+21:18  Wrap-Up
+
+Links
+
+The AI Did the Math. The Math Is the Part We Can Check. -- https://xcancel.com/__alpoge__/status/2079028340955197566
+The Robot That Pictures the Finish -- https://arxiv.org/abs/2607.14187
+Skim First, Then Read -- https://arxiv.org/abs/2607.14935
+When "It Runs" Doesn't Mean "It Worked" -- https://arxiv.org/abs/2606.29538</description>
+      <itunes:summary>A mathematician posted a hand-checkable counterexample to an 80-year-old conjecture and credited an AI model -- and the twist is that the math is the part anyone can verify, while the AI's role is the part nobody can. Then three papers that all make the same move: Tencent's robot plans by imagining a picture of its finished task, a Nanjing video model halves its runtime by squeezing footage before the language model ever reads it, and Microsoft turns YouTube tutorials into agent skills -- while proving why 'the code ran' never meant 'the task worked.' Plus the $1.5B Anthropic settlement, the fight over Chinese open weights, and the day a safety filter blocked its own security team.
+
+Chapters
+
+0:00  The AI Did the Math. The Math Is the Part We Can Check.
+1:04  The Headlines
+5:10  Intro
+6:23  The Robot That Pictures the Finish
+11:43  Skim First, Then Read
+16:31  When "It Runs" Doesn't Mean "It Worked"
+21:18  Wrap-Up
+
+Links
+
+The AI Did the Math. The Math Is the Part We Can Check. -- https://xcancel.com/__alpoge__/status/2079028340955197566
+The Robot That Pictures the Finish -- https://arxiv.org/abs/2607.14187
+Skim First, Then Read -- https://arxiv.org/abs/2607.14935
+When "It Runs" Doesn't Mean "It Worked" -- https://arxiv.org/abs/2606.29538</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-20-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-20-daily.mp3" length="27444801" type="audio/mpeg"/>
+      <guid isPermaLink="false">9eb4d6bfe76233be367c882f44a27c8103ad503f</guid>
+      <pubDate>Mon, 20 Jul 2026 22:49:45 -0400</pubDate>
+      <itunes:duration>22:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Where an AI's Memory Actually Lives: Agent State, World Models, and the 48 Hours Silence Meant Yes</title>
       <description>For two days, a leading AI coding assistant answered its own questions when you stepped away -- silence became consent, then got reversed. Underneath that headline sits one question three new papers all answer: where does an AI's sense of what's going on actually live? We dig into SearchOS giving research agents a real filing cabinet instead of a growing chat log, and two rival papers on world models -- one demanding an explicit game-state ledger, the other splitting video into a persistent world plus a stream of events. Plus the day's news: Alibaba's Qwen3.6 open weights and the myth that overshot them, Stanford on how agreeable AI makes you more stubborn, and the Hugging Face breach run end-to-end by an autonomous agent.
 
