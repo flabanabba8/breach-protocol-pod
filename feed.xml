@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>The AI That Hacked Hugging Face by Following the Rules</title>
+      <description>OpenAI blamed its own evaluation models for last week's Hugging Face breach -- but the models never beat their safety training; the guardrails were turned off for the test, and the sandbox had a hole. We open the benchmark behind it, where the strongest frontier agent already turns as many as one in six real-world bugs into working break-ins and grinds a single attack for hours. Then we follow the 'stolen models' panic down to a paper that recovers part of a production model for about twenty dollars, and close on a video model learning to cite the exact seconds that prove its answer. The spine of the whole day is trust: secure the room, don't just trust the prisoner.
+
+Chapters
+
+0:00  The AI That Followed the Rules Out the Door
+0:59  The Headlines -- July 21
+4:44  Intro -- The Trust Problem
+5:59  The Room With a Vent: What ExploitGym Actually Measures
+11:30  Twenty Dollars of Shadows: How Much a Model Leaks by Answering
+15:16  Show Your Receipts: Teaching Video AI to Cite Its Footage
+19:14  Wrap-Up -- Secure the Room, Check the Receipts
+
+Links
+
+The AI That Followed the Rules Out the Door -- https://openai.com/index/hugging-face-model-evaluation-security-incident/
+The Room With a Vent: What ExploitGym Actually Measures -- https://arxiv.org/abs/2605.11086
+Twenty Dollars of Shadows: How Much a Model Leaks by Answering -- https://arxiv.org/abs/2403.06634
+Show Your Receipts: Teaching Video AI to Cite Its Footage -- https://arxiv.org/abs/2607.17423</description>
+      <itunes:summary>OpenAI blamed its own evaluation models for last week's Hugging Face breach -- but the models never beat their safety training; the guardrails were turned off for the test, and the sandbox had a hole. We open the benchmark behind it, where the strongest frontier agent already turns as many as one in six real-world bugs into working break-ins and grinds a single attack for hours. Then we follow the 'stolen models' panic down to a paper that recovers part of a production model for about twenty dollars, and close on a video model learning to cite the exact seconds that prove its answer. The spine of the whole day is trust: secure the room, don't just trust the prisoner.
+
+Chapters
+
+0:00  The AI That Followed the Rules Out the Door
+0:59  The Headlines -- July 21
+4:44  Intro -- The Trust Problem
+5:59  The Room With a Vent: What ExploitGym Actually Measures
+11:30  Twenty Dollars of Shadows: How Much a Model Leaks by Answering
+15:16  Show Your Receipts: Teaching Video AI to Cite Its Footage
+19:14  Wrap-Up -- Secure the Room, Check the Receipts
+
+Links
+
+The AI That Followed the Rules Out the Door -- https://openai.com/index/hugging-face-model-evaluation-security-incident/
+The Room With a Vent: What ExploitGym Actually Measures -- https://arxiv.org/abs/2605.11086
+Twenty Dollars of Shadows: How Much a Model Leaks by Answering -- https://arxiv.org/abs/2403.06634
+Show Your Receipts: Teaching Video AI to Cite Its Footage -- https://arxiv.org/abs/2607.17423</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-21-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-21-daily.mp3" length="25136238" type="audio/mpeg"/>
+      <guid isPermaLink="false">2986a07a8549ea0f9fb3c37dfcf06c3fb25e1f74</guid>
+      <pubDate>Tue, 21 Jul 2026 22:24:52 -0400</pubDate>
+      <itunes:duration>20:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The AI-Math Proof You Can Check, Robot Daydreams, and Why 'It Ran' Isn't 'It Worked'</title>
       <description>A mathematician posted a hand-checkable counterexample to an 80-year-old conjecture and credited an AI model -- and the twist is that the math is the part anyone can verify, while the AI's role is the part nobody can. Then three papers that all make the same move: Tencent's robot plans by imagining a picture of its finished task, a Nanjing video model halves its runtime by squeezing footage before the language model ever reads it, and Microsoft turns YouTube tutorials into agent skills -- while proving why 'the code ran' never meant 'the task worked.' Plus the $1.5B Anthropic settlement, the fight over Chinese open weights, and the day a safety filter blocked its own security team.
 
