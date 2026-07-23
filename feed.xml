@@ -13,6 +13,48 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Why AI Still Can't Build a Video Game -- and the Renderer That Wins by Not Trying</title>
+      <description>A wave of AI world models landed this week, all chasing the same dream: press a key and a neural network invents a playable game world from scratch. We dig into two papers from the same lab that bet opposite ways -- one that heroically fakes a persistent world, and one that refuses to, keeps an ordinary game engine running the rules, and only lets the AI repaint the picture. The humble one wins, and the reason why is a single idea that will inoculate you against world-model hype for a long time. Plus the headlines: the White House's unproven distillation accusation, a real AI-assisted math counterexample humans actually checked, and a phone-sized model with a TLS footgun.
+
+Chapters
+
+0:00  Cold Open -- Stealing a Model by Talking to It
+1:16  The Headlines
+6:02  Intro -- The Game Engine That Refused to Die
+7:00  The Two Bets -- What a Game Actually Is
+9:06  Remembering the Picture, Not the World
+12:13  The Engine That Refused to Die
+15:49  Wrap-Up
+
+Links
+
+The Two Bets -- What a Game Actually Is -- https://arxiv.org/abs/2607.18367
+The Engine That Refused to Die -- https://arxiv.org/abs/2607.18703</description>
+      <itunes:summary>A wave of AI world models landed this week, all chasing the same dream: press a key and a neural network invents a playable game world from scratch. We dig into two papers from the same lab that bet opposite ways -- one that heroically fakes a persistent world, and one that refuses to, keeps an ordinary game engine running the rules, and only lets the AI repaint the picture. The humble one wins, and the reason why is a single idea that will inoculate you against world-model hype for a long time. Plus the headlines: the White House's unproven distillation accusation, a real AI-assisted math counterexample humans actually checked, and a phone-sized model with a TLS footgun.
+
+Chapters
+
+0:00  Cold Open -- Stealing a Model by Talking to It
+1:16  The Headlines
+6:02  Intro -- The Game Engine That Refused to Die
+7:00  The Two Bets -- What a Game Actually Is
+9:06  Remembering the Picture, Not the World
+12:13  The Engine That Refused to Die
+15:49  Wrap-Up
+
+Links
+
+The Two Bets -- What a Game Actually Is -- https://arxiv.org/abs/2607.18367
+The Engine That Refused to Die -- https://arxiv.org/abs/2607.18703</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-22-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-22-daily.mp3" length="20716224" type="audio/mpeg"/>
+      <guid isPermaLink="false">9cbe9a41f88169fd20cbb1c92dcdc4bc351f057f</guid>
+      <pubDate>Wed, 22 Jul 2026 22:08:51 -0400</pubDate>
+      <itunes:duration>17:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>The AI That Hacked Hugging Face by Following the Rules</title>
       <description>OpenAI blamed its own evaluation models for last week's Hugging Face breach -- but the models never beat their safety training; the guardrails were turned off for the test, and the sandbox had a hole. We open the benchmark behind it, where the strongest frontier agent already turns as many as one in six real-world bugs into working break-ins and grinds a single attack for hours. Then we follow the 'stolen models' panic down to a paper that recovers part of a production model for about twenty dollars, and close on a video model learning to cite the exact seconds that prove its answer. The spine of the whole day is trust: secure the room, don't just trust the prisoner.
 
