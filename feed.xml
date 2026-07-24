@@ -13,6 +13,52 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Can an AI Actually Hack? What Two Safety Institutes Finally Measured</title>
+      <description>Everyone has an opinion on whether AI can hack -- almost nobody had a number, until two government safety institutes went and measured it. We climb the 16-rung ladder that separates crashing a program from owning it, why the grading can't be faked, and the unsettling twist: today's public models stall at a wall that one private model already walked through. Then the sentence that detonates the whole comfort -- an open model being 'below the frontier' is a statement about budget, not brains, and budget is exactly the leash you drop when you release the weights. We close on a training paper whose author honestly corrects his own headline. Full daily rundown at groundtruth.day.
+
+Chapters
+
+0:00  The Kill Switch That Might Not Cover Its Own Example
+1:14  The Headlines
+6:27  Intro -- Measuring the Scary Part
+7:44  Can An AI Actually Hack? How You'd Even Measure It
+12:55  Below The Frontier, Or Just Under Budget?
+16:51  Which Parameters Deserve To Remember?
+21:01  Wrap-Up
+
+Links
+
+The Kill Switch That Might Not Cover Its Own Example -- https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can
+Can An AI Actually Hack? How You'd Even Measure It -- https://arxiv.org/abs/2605.14153
+Below The Frontier, Or Just Under Budget? -- https://arxiv.org/abs/2603.11214
+Which Parameters Deserve To Remember? -- https://arxiv.org/abs/2607.19058</description>
+      <itunes:summary>Everyone has an opinion on whether AI can hack -- almost nobody had a number, until two government safety institutes went and measured it. We climb the 16-rung ladder that separates crashing a program from owning it, why the grading can't be faked, and the unsettling twist: today's public models stall at a wall that one private model already walked through. Then the sentence that detonates the whole comfort -- an open model being 'below the frontier' is a statement about budget, not brains, and budget is exactly the leash you drop when you release the weights. We close on a training paper whose author honestly corrects his own headline. Full daily rundown at groundtruth.day.
+
+Chapters
+
+0:00  The Kill Switch That Might Not Cover Its Own Example
+1:14  The Headlines
+6:27  Intro -- Measuring the Scary Part
+7:44  Can An AI Actually Hack? How You'd Even Measure It
+12:55  Below The Frontier, Or Just Under Budget?
+16:51  Which Parameters Deserve To Remember?
+21:01  Wrap-Up
+
+Links
+
+The Kill Switch That Might Not Cover Its Own Example -- https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can
+Can An AI Actually Hack? How You'd Even Measure It -- https://arxiv.org/abs/2605.14153
+Below The Frontier, Or Just Under Budget? -- https://arxiv.org/abs/2603.11214
+Which Parameters Deserve To Remember? -- https://arxiv.org/abs/2607.19058</itunes:summary>
+      <itunes:image href="https://flabanabba8.github.io/breach-protocol-pod/2026-07-23-daily-cover.jpg"/>
+      <enclosure url="https://flabanabba8.github.io/breach-protocol-pod/2026-07-23-daily.mp3" length="27191995" type="audio/mpeg"/>
+      <guid isPermaLink="false">359c06b0612d3e6f762315e0e8bbad3c97f32ed0</guid>
+      <pubDate>Thu, 23 Jul 2026 22:30:43 -0400</pubDate>
+      <itunes:duration>22:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Why AI Still Can't Build a Video Game -- and the Renderer That Wins by Not Trying</title>
       <description>A wave of AI world models landed this week, all chasing the same dream: press a key and a neural network invents a playable game world from scratch. We dig into two papers from the same lab that bet opposite ways -- one that heroically fakes a persistent world, and one that refuses to, keeps an ordinary game engine running the rules, and only lets the AI repaint the picture. The humble one wins, and the reason why is a single idea that will inoculate you against world-model hype for a long time. Plus the headlines: the White House's unproven distillation accusation, a real AI-assisted math counterexample humans actually checked, and a phone-sized model with a TLS footgun.
 
